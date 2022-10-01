@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html";charset="UTF-8" />
+	<title>Home</title>
+	<link rel = "stylesheet" href = "{{ url_for('static' , filename='webapp.css') }}"/>
+	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}" />
+</head>
+
+<body>
+	<h1 class = 'title'>US Police Shootings Events</h1>
+	<p class="introduction">Hello, Jeff or anyone else who is reading these words,
+	<br><br>Nice to have you here! This web application is based on a data collection of the police shootings happened from Jan. 1, 2015 to Jun. 15, 2020.
+	<br>For each shooting event, it includes some details about the instant situation when the shooting happened, some very basic personal information
+	<br>of the dead, as well as the shooting's location in terms of cities and states.
+	<br>For a brief introduction of the web app itself, there are two core pages of it:
+	<br> <a href= "/search"> This page where you can explore the database by shooting case criteria and search using ids</a>
+	 and <a href="/graph"> this page where you can see some graphs and investigate your state of interest.</a>
+	<br> There's also a page which is used to show the <a href="/fullResponse">full result of a searching utility</a>.
+	<br> However, it does not show anything unless you reach there from the other page. So I recommend <a href="/search">starting from the first page here</a>.
+	<br>Hopefully you'll enjoy exploring this web application!
+	<br><br><span class="important">&lt;3</span>,<br>Ruofei Li</p>
+	<!-- p class = "important">Nov 10: PLEASE GO TO <a href= "page_search.html">THIS PAGE HERE</a> AND CLICK THE 'SHOW MENTAL ILL' BUTTON!</p-->
+</body>
+</html>

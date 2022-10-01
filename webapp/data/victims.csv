@@ -1,0 +1,4896 @@
+,id,name,age,gender,race
+0,3,Tim Elliot,53,M,Asian
+1,4,Lewis Lee Lembke,47,M,White
+2,5,John Paul Quintero,23,M,Hispanic
+3,8,Matthew Hoffman,32,M,White
+4,9,Michael Rodriguez,39,M,Hispanic
+5,11,Kenneth Joe Brown,18,M,White
+6,13,Kenneth Arnold Buck,22,M,Hispanic
+7,15,Brock Nichols,35,M,White
+8,16,Autumn Steele,34,F,White
+9,17,Leslie Sapp III,47,M,Black
+10,19,Patrick Wetter,25,M,White
+11,21,Ron Sneed,31,M,Black
+12,22,Hashim Hanif Ibn Abdul-Rasheed,41,M,Black
+13,25,Nicholas Ryan Brickman,30,M,White
+14,27,Omarr Julian Maximillian Jackson,37,M,Black
+15,29,Loren Simpson,28,M,White
+16,32,James Dudley Barker,42,M,White
+17,36,Artago Damon Howard,36,M,Black
+18,37,Thomas Hamby,49,M,White
+19,38,Jimmy Foreman,71,M,White
+20,325,Andy Martinez,33,M,Hispanic
+21,42,Tommy Smith,39,M,White
+22,43,Brian  Barbosa,23,M,Hispanic
+23,45,Salvador Figueroa,29,M,Hispanic
+24,46,John Edward O'Keefe,34,M,White
+25,48,Richard McClendon,43,M,White
+26,49,Marcus Golden,24,M,Black
+27,50,Michael Goebel,29,M,White
+28,51,Mario Jordan,34,M,Black
+29,52,Talbot Schroeder,75,M,White
+30,54,Robert Edwards,68,M,White
+31,55,Jeffrey R. Nielson,34,M,White
+32,56,Donte Sowell,27,M,Black
+33,57,Kavonda Earl Payton,39,M,Black
+34,60,Quincy Reed Reindl,24,M,White
+35,63,Jose Ceja,36,M,Hispanic
+36,64,Nathan Massey,33,M,White
+37,67,Scott Hall,41,M,White
+38,68,Zaki Shinwary,48,M,Other
+39,74,Terence Walker,21,M,Black
+40,75,Pablo Meza,24,M,Hispanic
+41,78,Daniel Brumley,27,M,Hispanic
+42,80,Jonathan Guillory,32,M,White
+43,83,Carter Castle,67,M,White
+44,84,Paul Campbell,49,M,White
+45,85,Dewayne Carr,42,M,Black
+46,86,Todd Allen Hodge,36,M,White
+47,88,Miguel Angel de Santos-Rodriguez,36,M,Hispanic
+48,90,Isaac Holmes,19,M,Black
+49,98,Andrew Toto,54,M,White
+50,99,Tiano Meton,25,M,Black
+51,100,Kristiana Coignard,17,F,White
+52,101,Demaris Turner,29,M,Black
+53,102,Jose Antonio Espinoza Ruiz,56,M,Hispanic
+54,336,Robert Francis Mesch,61,M,White
+55,105,Daryl Myler,45,M,White
+56,107,Darin Hutchins,26,M,Black
+57,341,Wendell King,40,M,White
+58,108,Orlando Jude Lopez,26,M,Hispanic
+59,20,Jessie Hernandez,17,F,Hispanic
+60,324,Raymond Kmetz,68,M,White
+61,352,Joshua Omar Garcia,24,M,Hispanic
+62,353,David Garcia,34,M,Hispanic
+63,111,Tiffany Terry,39,F,White
+64,348,Nicolas Leland Tewa,26,M,Native
+65,349,Chris Ingram,29,M,White
+66,350,Jermonte Fletcher,33,M,Black
+67,345,Alan Lance Alverson,45,M,White
+68,347,Cody Karasek,26,M,White
+69,346,Matautu Nuu,35,M,Asian
+70,112,Alan James,31,M,White
+71,342,Ralph Willis,42,M,White
+72,113,John Barry Marshall,48,M,White
+73,338,Victor Manuel Reyes,31,M,Hispanic
+74,339,Edward Donnell Bright,54,M,Black
+75,114,David Kassick,59,M,White
+76,115,Francis Murphy Rose III,42,M,White
+77,528,Jacob Haglund,17,M,White
+78,117,Ledarius D. Williams,23,M,Black
+79,118,Yuvette Henderson,38,F,Black
+80,119,Dewayne Deshawn Ward,29,M,Black
+81,120,Anthony Purvis,45,M,White
+82,116,Jeremy Lett,28,M,Black
+83,123,Izzy Colon,37,M,Hispanic
+84,124,Salvador Muna,28,M,Hispanic
+85,125,Joaquin Hernandez,28,M,Hispanic
+86,126,Jimmy Ray Robinson Jr.,51,M,Black
+87,127,Markell Atkins,36,M,Black
+88,128,Paul Alfred Eugene Johnson,59,M,White
+89,129,Herbert Hill,25,M,Black
+90,532,John  Sawyer,26,M,White
+91,554,James Allen,74,M,Black
+92,131,John Martin Whittaker,33,M,White
+93,132,Sawyer Flache,27,M,White
+94,133,Vincent Cordaro,57,M,White
+95,134,Joseph Paffen,46,M,White
+96,135,Larry Hostetter,41,M,White
+97,136,Kenneth Kreyssig,61,M,White
+98,137,Desmond Luster,45,M,Black
+99,139,Anthony Bess,49,M,Black
+100,140,Brian Fritze,45,M,White
+101,138,Antonio Zambrano-Montes,35,M,Hispanic
+102,141,Phillip Watkins,23,M,Black
+103,142,Fletcher Ray Stewart,46,M,White
+104,145,Jonathan Larry Harden,23,M,White
+105,146,Andres Lara-Rodriguez,21,M,Hispanic
+106,147,Richard Carlin,35,M,Hispanic
+107,148,Matthew D. Belk,27,M,White
+108,154,Daniel Mejia,37,M,Hispanic
+109,149,Jason C. Hendrix,16,M,White
+110,155,Roy Joy Day,51,M,White
+111,151,Howard Brent Means Jr.,34,M,White
+112,153,Bruce Steward,34,M,White
+113,150,Lavall Hall,25,M,Black
+114,156,Lawrence Caldwell,56,M,White
+115,157,Michael K. Casper,26,M,White
+116,158,Cody Evans,24,M,White
+117,130,Betty Sexton,43,F,White
+118,159,Michael Ireland,31,M,White
+119,160,Matthew Lundy,32,M,White
+120,161,Douglas Sparks,30,M,White
+121,162,Pedro Juan Saldivar,50,M,Hispanic
+122,163,Janisha Fonville,20,F,Black
+123,165,Ruben Villalpando,31,M,Hispanic
+124,166,Stanley Lamar Grant,38,M,Black
+125,255,Douglas Harris,77,M,Black
+126,584,Alejandro Salazar,37,M,Hispanic
+127,167,Jason Moncrief Carter,41,M,White
+128,168,Kent Norman,51,M,White
+129,170,Bradford Leonard,50,M,White
+130,172,Robert Kohl,47,M,White
+131,174,Michael Wayne Smashey,37,M,White
+132,175,Anthony Giaquinta,41,M,White
+133,176,A'Donte Washington,16,M,Black
+134,266,Jerome Nichols,42,M,White
+135,371,Daniel Elrod,39,M,White
+136,177,Joseph Biegert,30,M,White
+137,178,Glenn Lewis,27,M,Black
+138,179,Francis Spivey,43,M,White
+139,181,David Cuevas,42,M,Hispanic
+140,182,Amilcar Perez-Lopez,21,M,Hispanic
+141,183,Rodney Biggs,49,M,White
+142,184,Crystal Lee Miley Harry,34,F,White
+143,180,Alexander Phillip Long,31,M,White
+144,185,Ernesto Javiar Canepa Diaz,27,M,Hispanic
+145,186,Chazsten Freeman,24,M,White
+146,188,Thomas Allen,34,M,Black
+147,189,Jessica Uribe,28,F,Hispanic
+148,190,Cornelius J. Parker,28,M,Black
+149,191,Ian Sherrod,40,M,Black
+150,192,Stephanie Hill,37,F,White
+151,187,Deven Guilford,17,M,White
+152,195,Hung Trieu,35,M,Asian
+153,268,Donald Lewis Matkins,49,M,White
+154,194,Charly Leundeu Keunang,43,M,Black
+155,196,Shaquille Barrow,20,M,Black
+156,197,Fednel Rhinvil,25,M,Black
+157,198,Matthew Metz,25,M,White
+158,199,Derek Cruice,26,M,White
+159,249,Carl Lao,28,M,Asian
+160,200,Tyrone Ryerson Lawrence,45,M,Black
+161,201,Sergio Alexander Navas,36,M,Hispanic
+162,202,Tyson Hubbard,34,M,White
+163,203,Tony Robinson,19,M,Black
+164,269,Naeschylus  Vinzant,37,M,Black
+165,270,Andrew Anthony Williams,48,M,Black
+166,271,Adam Reinhart,29,M,White
+167,204,Monique Jenee Deckard,43,F,Black
+168,272,Aurelio Duarte,40,M,Hispanic
+169,273,Michael McKillop,35,M,White
+170,205,Anthony Hill,27,M,Black
+171,274,Lester Brown,58,M,White
+172,275,James Brent Damon,46,M,White
+173,276,Cedrick Lamont Bishop,30,M,Black
+174,206,Theodore Johnson,64,M,Black
+175,278,Jamie Croom,31,M,Black
+176,536,Christopher Mitchell,23,M,White
+177,883,Edixon  Franco,37,M,Hispanic
+178,248,Terry Garnett Jr.,37,M,Black
+179,277,James Greenwell,31,M,White
+180,279,Benito Osorio,39,M,Hispanic
+181,281,Ryan Dean Burgess,31,M,White
+182,307,Gilbert Fleury,54,M,White
+183,581,William Russell  Smith,53,M,White
+184,796,Aaron Valdez,25,M,Hispanic
+185,282,Bobby Gross,35,M,Black
+186,207,James Richard Jimenez,41,M,Hispanic
+187,283,Fred  Liggett,59,M,White
+188,289,Andrew Driver,36,M,White
+189,351,Antonio Perez,32,M,Hispanic
+190,208,Clifton Reintzel,53,M,White
+191,209,Aaron Siler,26,M,White
+192,287,Richard Castilleja,29,M,Hispanic
+193,210,Troy Ray Boyd,27,M,White
+194,212,Justin Tolkinen,28,M,White
+195,213,William Dean Poole,52,M,White
+196,216,Andrew Charles Shipley,49,M,White
+197,217,Declan Owen,24,M,White
+198,221,Alice Brown,24,F,White
+199,290,Eugene Smith,20,M,White
+200,292,Roberto Leon,22,M,Hispanic
+201,225,Kaylene Stone,49,F,White
+202,226,Garland Lee Wingo,64,M,White
+203,294,Jeff Alexander,47,M,White
+204,228,Shane Watkins,39,M,White
+205,229,Brandon Jones,18,M,Black
+206,230,Brandon Rapp,31,M,White
+207,265,Kendre Alston,16,M,Black
+208,295,Jamison  Childress,20,M,White
+209,306,Robert Burdge,36,M,White
+210,308,Richard White,63,M,Black
+211,310,Tyrel Vick,34,M,White
+212,531,Justin Fowler,24,M,Native
+213,235,Enoch Gaver,21,M,White
+214,309,James Ellis,44,M,White
+215,311,Gary Page,60,M,White
+216,312,Jason Smith,42,M,White
+217,231,Phillip Conley,37,M,White
+218,233,Christopher Ryan Healy,36,M,White
+219,234,Denzel Brown,21,M,Black
+220,237,Devin Gates,24,M,Black
+221,238,Walter J. Brown III,29,M,Black
+222,247,Scott Dunham,57,M,White
+223,313,Stephen Snyder,38,M,White
+224,239,Nicholas Thomas,23,M,Black
+225,240,Jeremy Lorenza Kelly,27,M,Black
+226,241,Victor Terrazas,28,M,Hispanic
+227,242,Joseph Tassinari,63,M,White
+228,246,Deanne Choate,53,F,White
+229,250,Adrian Solis,35,M,Hispanic
+230,245,Megan Hockaday,26,F,Black
+231,251,Harvey Oates,42,M,White
+232,254,Angelo West,41,M,Black
+233,256,Gary Kendrick,56,M,White
+234,257,Jamalis Hall,39,M,Black
+235,258,Adrian Hernandez,23,M,Hispanic
+236,316,Neil Seifert,40,M,White
+237,252,Byron Herbert,29,M,Black
+238,264,Robert Rooker,26,M,White
+239,262,Brian Babb,49,M,White
+240,259,Jeremy Anderson,36,M,White
+241,261,Benjamin Quezada,21,M,Hispanic
+242,263,Mya Hall,27,F,Black
+243,267,Robert Washington,37,M,Black
+244,533,Shawn Clyde,36,M,White
+245,286,Darrin Langford,32,M,Black
+246,291,Eric Harris,44,M,Black
+247,303,Aaron Rutledge,27,M,White
+248,288,Donald Hicks,63,M,White
+249,299,Christopher Prevatt,38,M,White
+250,296,Justus Howell,17,M,Black
+251,300,Paul Anderson,31,M,Black
+252,302,Ethan Noll,34,M,White
+253,297,Walter Scott,50,M,Black
+254,301,Ken Cockerel,51,M,White
+255,304,Richard Hanna,56,M,White
+256,298,Alexander Myers,23,M,White
+257,318,Desmond Willis,25,M,Black
+258,322,Tyrell J. Larsen,31,M,White
+259,319,Erick Rose,32,M,White
+260,329,Douglas Faith,60,M,White
+261,330,Dexter Pernell Bethea,42,M,Black
+262,331,Roberto Rodriguez,39,M,Hispanic
+263,359,Joseph Jeremy Weber,28,M,Asian
+264,332,Gordon Kimbrell,22,M,White
+265,333,Don Smith,29,M,Black
+266,340,Jess Leipold,31,M,White
+267,343,Phillip Burgess,28,M,White
+268,335,Angel Cresencio Corona,21,M,Hispanic
+269,377,Richard Reed,38,M,White
+270,358,Donald Allen,66,M,White
+271,355,Mack Long,36,M,Black
+272,357,Richard Dale Weaver,83,M,White
+273,362,Jason Lee Evans,32,M,White
+274,356,Isaac Jimenez,27,M,Hispanic
+275,363,Colby Robinson,26,M,Black
+276,364,Christopher Grant Finley,31,M,White
+277,365,Tevin Barkley,22,M,Black
+278,366,Dante Noble,41,M,Black
+279,367,Frank Shephard,41,M,Black
+280,368,Mark W. Adair,51,M,White
+281,369,Stanley Watson,72,M,White
+282,374,Ernesto Flores,52,M,Hispanic
+283,373,Rodolfo Velazquez,47,M,Hispanic
+284,380,Jeffrey Kemp,18,M,Black
+285,381,Elias Cavazos,29,M,Hispanic
+286,382,Thaddeus McCarroll,23,M,Black
+287,376,Erik Tellez,43,M,Hispanic
+288,379,Grover Sapp,45,M,White
+289,378,Michael Foster,40,M,White
+290,383,Dana Hlavinka,44,M,White
+291,399,Santos Cortez Hernandez,25,M,Hispanic
+292,393,Daniel Covarrubias,37,M,Native
+293,398,Kimber Key,59,M,White
+294,495,Luis Martinez,35,M,Hispanic
+295,537,Daniel Wolfe,35,M,Black
+296,391,William Chapman,18,M,Black
+297,394,Carlos Saavedra Ramirez,51,M,Hispanic
+298,395,Jonathan Efraim,30,M,White
+299,396,Reginald McGregor,31,M,Black
+300,397,Lue Vang,39,M,Asian
+301,392,Andrew Valadez,26,M,White
+302,400,Joseph Potts,51,M,White
+303,409,Hector Morejon,19,M,Hispanic
+304,401,Karen Janks,46,F,White
+305,402,Mark Cecil Hawkins,49,M,White
+306,403,Gary Timmie  Collins,63,M,White
+307,412,Todd Jamal Dye,20,M,Black
+308,408,Brandon Lawrence,25,M,White
+309,411,David Felix,24,M,Black
+310,414,Daniel Davis,58,M,White
+311,404,Billy Joe Patrick,29,M,White
+312,406,Albert Hanson,76,M,White
+313,407,Dean Genova,45,M,White
+314,405,Terrance  Kellom,20,M,Black
+315,413,David Parker,58,M,White
+316,417,Jared Johnson,21,M,Black
+317,420,Joshua Green,27,M,White
+318,415,Andrew Jackson,26,M,White
+319,416,Joshua Deysie,33,M,Hispanic
+320,419,Luis Chavez-Diaz,27,M,Hispanic
+321,421,Alexia Christian,25,F,Black
+322,422,Jeffrey Adkins,53,M,Black
+323,423,John Acree,53,M,White
+324,418,Fridoon Zalbeg Nehad,42,M,Other
+325,424,Erick Emmanuel Sanchez,22,M,Hispanic
+326,425,Kenneth Mathena,52,M,White
+327,426,Kevin Vance Norton,36,M,White
+328,427,Elton Simpson,30,M,Black
+329,428,Nadir Soofi,34,M,Other
+330,445,Billy Grimm,44,M,Hispanic
+331,447,Michael Asher,53,M,White
+332,431,Roark Cook,36,M,White
+333,429,Brendon Glenn,29,M,Black
+334,430,Thong Kien Ma,32,M,Asian
+335,434,Robert A. Frost,46,M,White
+336,432,David William Johnson,18,M,White
+337,435,Michael Murphy,38,M,White
+338,436,Nephi Arriguin,21,M,Black
+339,439,Shaun Johnson,35,M,White
+340,443,David Schwalm,58,M,White
+341,451,Dedrick Marshall,48,M,Black
+342,454,Sam Holmes,31,M,Black
+343,453,Stephen  Cunningham,47,M,White
+344,455,Lionel Lorenzo Young,34,M,Black
+345,437,Kelvin Goldston,30,M,Black
+346,444,Justin Way,28,M,White
+347,441,D'Angelo Stallworth,28,M,Black
+348,450,Alec Ouzounian,40,M,White
+349,449,Bruce Zalonka,46,M,Other
+350,456,Sean Michael Pelletier,37,M,White
+351,470,Cary Martin,53,M,White
+352,460,Mark Farrar,41,M,White
+353,462,Matt Coates,42,M,White
+354,463,Ronell Wade,45,M,Black
+355,458,Dennis  Fiel,34,M,White
+356,459,Austin Goodner,18,M,White
+357,461,Timothy Jones,27,M,White
+358,457,Alfredo Rials-Torres,54,M,Hispanic
+359,464,Jonathan McIntosh,35,M,White
+360,465,David  Gaines,17,M,White
+361,466,Anthony Gomez,29,M,Black
+362,468,Chrislon Talbott,38,M,Black
+363,489,Marcus Wheeler,26,M,Black
+364,467,Jonathan  Colley,52,M,White
+365,486,Nikki Jo Burtsfield,39,F,White
+366,469,David Alejandro Gandara,22,M,Hispanic
+367,483,Javoris Washington,29,M,Black
+368,484,James Anthony Cooper,43,M,White
+369,485,Elvin Diaz,24,M,Hispanic
+370,487,Jerome Caldwell,32,M,Black
+371,472,Michael Lowery,40,M,White
+372,473,James Horn,47,M,White
+373,474,Eric Robinson,40,M,White
+374,529,Caso Jackson,25,M,Black
+375,475,Cassandra Bolin,31,F,White
+376,476,Anthony Briggs,36,M,Black
+377,477,Dalton Branch,51,M,Black
+378,479,Jessie  Williams,24,M,White
+379,530,Millard Tallant III,62,M,White
+380,480,Scott McAllister,39,M,White
+381,481,Garrett  Sandeno,24,M,White
+382,482,Harry Davis,57,M,White
+383,491,Feras Morad,20,M,Other
+384,492,Simon Hubble,33,M,White
+385,488,Darrell Morgan,60,M,White
+386,490,James Strong,32,M,Black
+387,493,Kenneth Dothard,40,M,Black
+388,494,Kyle Baker,18,M,White
+389,497,Kevin Allen,36,M,Black
+390,498,Nehemiah Fischer,35,M,White
+391,499,Robert Box,55,M,White
+392,500,Ebin Lamont Proctor,19,M,White
+393,501,Alexander Tirado Rivera,39,M,Hispanic
+394,504,James Bushey,47,M,White
+395,505,Joseph Ladd,23,M,White
+396,507,Usaamah Rahim,26,M,Black
+397,508,Kamal Dajani,26,M,White
+398,509,Miguel Martinez,18,M,Hispanic
+399,510,Edelmiro Hernandez,33,M,Hispanic
+400,511,Ronald Neal,56,M,White
+401,512,Lorenzo Garza,46,M,Hispanic
+402,513,Rudy Baca,36,M,Hispanic
+403,520,Jesus Quezada Gomez,50,M,Hispanic
+404,521,Christie Cathers,45,F,White
+405,516,James Smillie,53,M,White
+406,518,Alejandro Campos Fernandez,45,M,Hispanic
+407,519,Joe Nevels,42,M,White
+408,522,Damien Ramirez,27,M,Hispanic
+409,515,Demouria Hogg,30,M,Black
+410,514,Matthew Wayne McDaniel,36,M,White
+411,517,Gene Marshall,58,M,White
+412,524,Rene Garcia,30,M,Hispanic
+413,526,Richard Warolf,69,M,White
+414,525,Jeremy Linhart,30,M,White
+415,535,Greg  Hartley,45,M,White
+416,538,QuanDavier Hicks,22,M,Black
+417,539,Ryan Bolinger,28,M,White
+418,540,Isiah Hampton,19,M,Black
+419,541,Charles Ziegler,40,M,Black
+420,543,Fritz Severe,46,M,Black
+421,544,Mark Flores,28,M,Hispanic
+422,545,Raymond Peralta-Lantigua,22,M,Hispanic
+423,553,Shelly Haendiges,17,F,White
+424,546,Anthony Hodge,46,M,White
+425,548,Deng Manyoun,35,M,Black
+426,549,James Boulware,35,M,White
+427,547,Kenneth Garcia,28,M,Hispanic
+428,551,Zane Terryn,15,M,White
+429,550,Kris Jackson,22,M,Black
+430,559,Christopher DeLeon,28,M,Hispanic
+431,563,Joe Charboneau,31,M,Native
+432,557,Wendy Chappell,40,F,White
+433,561,Kenneth Lanphier,48,M,White
+434,564,Oleg Tcherniak,58,M,White
+435,558,Santos Laboy,44,M,Hispanic
+436,560,Trepierre Hummons,21,M,Black
+437,565,Louis Atencio,50,M,Hispanic
+438,582,Alfontish Cockerham,23,M,Black
+439,555,Adrian Simental,24,M,Hispanic
+440,556,Charles  Marshall,49,M,White
+441,566,James Monroe Barrett,60,M,White
+442,570,Eduardo Reyes,35,M,Hispanic
+443,573,Tyler Wicks,29,M,White
+444,576,Tyrone Harris,20,M,Black
+445,572,Joshua Dyer,34,M,White
+446,574,Jonathan Wilson,22,M,White
+447,575,Randall Waddel,49,M,White
+448,726,Taylor Culbertson,32,M,White
+449,569,Damien A. Harrell,26,M,Black
+450,567,Spencer McCain,41,M,Black
+451,568,Gilbert Jake Vanderburgh,61,M,White
+452,579,Richard Matt,49,M,White
+453,583,Joe Angel Cisneros,28,M,Hispanic
+454,580,Joshua Crittenden,35,M,White
+455,577,Alan  Bellew,29,M,White
+456,585,Richard LaPort,51,M,White
+457,586,Clay Alan  Lickteig,52,M,White
+458,587,Kevin Lamont Judson,24,M,Black
+459,589,Kaleb Landon,32,M,White
+460,588,Douglas Buckley,45,M,White
+461,601,Ton Nguyen,60,M,Asian
+462,603,Victor Emanuel Larosa,23,M,Black
+463,598,Arturo Lopez,46,M,Hispanic
+464,599,Oscar Camacho,33,M,Hispanic
+465,602,Joseph Julian,40,M,White
+466,597,Cesar A. Limon Juarez,27,M,Hispanic
+467,591,Robert Elando Malone,42,M,Black
+468,595,Michael Shannon Gaby,37,M,White
+469,596,Kawanza Beaty,23,M,Black
+470,600,Bryan David Bauer,36,M,White
+471,592,John Deming,19,M,White
+472,593,Michael Holt,35,M,White
+473,605,Johnny Ray Anderson,43,M,White
+474,594,Richard Munroe,25,M,White
+475,590,Tyler Rogers,20,M,White
+476,606,Hagen Esty-Lennon,42,M,White
+477,619,Jason Hendley,29,M,Black
+478,607,David Oliva Sarabia,42,M,Hispanic
+479,610,John Leonard Berry,31,M,White
+480,608,Marcellus Jamarcus Burley,18,M,Black
+481,609,Adam Dujanovic,33,M,White
+482,611,Joe Cody,59,M,White
+483,614,Daniel Hernandez,47,M,Hispanic
+484,615,Jose Graciano Lopez,39,M,Hispanic
+485,616,Tremaine Dantzler,37,M,Black
+486,617,Nicholas Booth,35,M,White
+487,618,Joshua Blough,28,M,White
+488,620,Michael Terence Westrich,59,M,White
+489,621,Dallas Shatley,62,M,White
+490,622,Rocco Joseph Palmisano,50,M,White
+491,623,Robert Hammonds,68,M,White
+492,624,Martice Milliner,27,M,Black
+493,625,Cyrus Hurtado,17,M,White
+494,634,Javon Hawkins,21,M,Black
+495,627,Neil White,38,M,White
+496,626,James Michael Todora,54,M,White
+497,630,Freddie Blue,20,M,Black
+498,1152,Eugene McSwain,25,M,Black
+499,637,Billy Maine,31,M,White
+500,628,Paul Castaway,35,M,Native
+501,632,David Lepine,60,M,White
+502,633,Matthew Watson,24,M,White
+503,636,Christopher Benton,27,M,White
+504,631,Salvado Ellswood,36,M,Black
+505,629,Frederick Farmer,20,M,Black
+506,635,Matthew Ryan Graham,24,M,White
+507,638,Rafael Suazo,23,M,Hispanic
+508,645,Jason Davis,41,M,White
+509,639,Chacarion Avant,20,M,Black
+510,643,Eugene Kailing,43,M,White
+511,646,Antonio Gonzalez,29,M,Hispanic
+512,647,Edward Foster III,35,M,Black
+513,648,Patrick Stephen Pippin,30,M,White
+514,649,Mohammad Youssef Abdulazeez,24,M,Other
+515,656,Saige Hack,23,M,Native
+516,664,Pierre Gabriel Koellner,29,M,White
+517,642,Anthonie Smith,25,M,Black
+518,644,Samuel Smith,27,M,White
+519,655,Jackie Brand,50,M,White
+520,657,Darrius Stewart,19,M,Black
+521,660,Jose Roman Rodriguez,24,M,Hispanic
+522,651,Albert Joseph Davis,23,M,Black
+523,650,David  Wheat Jr.,22,M,White
+524,652,Kevin Thomas Snyder,46,M,White
+525,654,Charles Edward Dewey,65,M,White
+526,653,Samuel DuBose,43,M,Black
+527,658,Joshua LeBoeuf,35,M,White
+528,661,Darren Billy Wilson,47,M,White
+529,662,Joseph Fuller,24,M,White
+530,663,Jerrod Tyre,35,M,White
+531,666,Francisco Benitez-Santiago,25,M,Hispanic
+532,669,Devon Guisherd,27,M,Black
+533,667,Andre Dontrell Williams,26,M,Black
+534,668,Dontae L. Martin,34,M,Black
+535,671,Brian Stortzum,32,M,White
+536,672,Robbie Lee Edison,47,M,White
+537,673,Tamala Satre,44,F,White
+538,670,Derek Wolfsteller,31,M,White
+539,674,Seth Raines,44,M,White
+540,675,Lee Aaron Gerston,30,M,White
+541,676,Christopher Olmstead,60,M,White
+542,677,Roger Braswell,50,M,White
+543,678,Bryan Keith  Day,36,M,Black
+544,685,Earl Jackson,59,M,Black
+545,679,Khari Westly,33,M,Black
+546,680,Zachary Hammond,19,M,White
+547,681,Timothy Milliken,56,M,White
+548,682,Jean Paul Falgout,45,M,White
+549,683,Samuel Forgy,22,M,White
+550,686,Michael Malone,34,M,Hispanic
+551,687,Roger Darrin Barker,53,M,White
+552,688,Mark Perkins,48,M,White
+553,689,Ryan Daniel Vrenon,25,M,White
+554,690,Philip Vallejo,30,M,Hispanic
+555,691,Oscar Lotari Romero,47,M,Hispanic
+556,692,Rafael Molina,33,M,Hispanic
+557,693,Jeremy  Hatch,34,M,White
+558,696,Armando Serrano,29,M,Hispanic
+559,695,Virgil Reynolds,63,M,White
+560,697,Antonio Clements,49,M,Black
+561,698,Joshua Malave,18,M,White
+562,699,Franklin Short,71,M,White
+563,700,Shawn Ruble,35,M,White
+564,701,Daniel Robert Avila,55,M,Hispanic
+565,702,Darius D. Graves,31,M,Black
+566,703,Tyler Alexander Dattilo,18,M,White
+567,704,John Dieringer,51,M,White
+568,705,Raymond Hodge,39,M,Black
+569,706,Keshawn Dominique Hargrove,20,M,Black
+570,707,Vincente Montano,29,M,White
+571,708,Jason Galaviz,40,M,White
+572,710,Gustavo Ponce-Galon,42,M,Hispanic
+573,737,Charles Bertram,22,M,Black
+574,711,Christian Taylor,19,M,Black
+575,712,Abel Correa,24,M,Hispanic
+576,713,Aaron Marchese,30,M,White
+577,718,Mark Keckhafer,53,M,White
+578,720,Tsombe Clark,25,M,Black
+579,721,Derrick Lee Hunt,28,M,Black
+580,719,Shamir Terrel Palmer,24,M,Black
+581,722,Jeffrey Clyde Wilkes,59,M,White
+582,723,Kevin McDaniel,46,M,White
+583,715,Andre Green,15,M,Black
+584,717,Eric Tompkins,41,M,White
+585,727,Edrian Rivera,22,M,Hispanic
+586,725,Richard Tyler Young,24,M,White
+587,728,Casey George Alarcon,34,M,White
+588,730,Randall Lance Hughes,48,M,White
+589,729,Richard Dean Shull Jr.,24,M,White
+590,731,Nathaniel Wilks,27,M,Black
+591,733,Anthony Lorenzo Vallejo,27,M,Hispanic
+592,735,Reginald Marshall,27,M,Black
+593,736,William Smith,49,M,White
+594,732,Redel Jones,30,F,Black
+595,738,Garland Tyree,38,M,Black
+596,739,Hector Rene Sorriano Gonzalez,26,M,Hispanic
+597,740,Asshams Pharoah Manley,30,M,Black
+598,750,Christopher Anderson,53,M,White
+599,742,Allen Matthew Baker,23,M,Black
+600,743,Benjamin Peter Ashley,34,M,Black
+601,744,Jonathon  Pope,30,M,White
+602,741,John Unsworth,43,M,White
+603,745,Matthew Castillo,29,M,Hispanic
+604,746,Steven B. Norton,47,M,White
+605,748,Frederick Roy,35,M,Black
+606,749,Richard Jacquez,40,M,Hispanic
+607,751,Mansur Ball-Bey,18,M,Black
+608,752,Deviere Ernel Ransom,24,M,Black
+609,753,Jason Hale,29,M,White
+610,754,Wade Allen Baker,44,M,White
+611,756,Raul Herrera,17,M,Hispanic
+612,881,Tyler Gerken,19,M,White
+613,755,Jeffory Ray Tevis,50,M,White
+614,758,Timmy Walling,57,M,White
+615,760,Charles S. Hall,30,M,White
+616,761,Alan Joseph Rushton,38,M,White
+617,762,Adam Schneider,31,M,White
+618,764,Jason Lee Alderman,29,M,White
+619,765,Nicholas Garner,26,M,White
+620,766,Kenneth Henry Morgan,64,M,White
+621,763,Thaddeus Faison,39,M,Black
+622,767,William Lee Snider,57,M,White
+623,768,Richard Francis Compo,36,M,White
+624,769,Christopher Ray Tompkins,36,M,White
+625,771,Julian Hoffman,21,M,White
+626,772,Bobby Troledge Norris,53,M,Black
+627,770,Marvin Maestas,30,M,Hispanic
+628,773,Curtis Smith,34,M,Black
+629,774,Todd Tomlinson,53,M,White
+630,775,Shane Rudolph,45,M,White
+631,779,Marvin Arroliga,22,M,Hispanic
+632,776,Steven Dodd,22,M,White
+633,777,Brent Pickard,46,M,White
+634,780,Kyle Lambrose,27,M,White
+635,782,Yonas Alehegne,30,M,Black
+636,783,Robert Hober,54,M,White
+637,784,Manuel Soriano,29,M,Hispanic
+638,781,Bertrand Davis,42,M,Black
+639,785,Gilbert Flores,41,M,Hispanic
+640,786,William Evans,28,M,White
+641,788,Felix Kumi,61,M,Black
+642,793,Devin Brian Dial,23,M,White
+643,787,James Marcus Brown,25,M,Black
+644,789,Roger Albrecht,37,M,White
+645,795,Rafael Cruz Jr,29,M,Hispanic
+646,790,Shawn Hall,20,M,White
+647,791,David M.  Leon,40,M,Hispanic
+648,792,William Rippley,45,M,White
+649,794,Cedric Maurice Williams,33,M,Black
+650,797,Charles Robert Shaw,76,M,White
+651,798,Michael Todd Evans,47,M,White
+652,799,Arthur Bates,45,M,White
+653,1409,Freddy Centeno,40,M,Hispanic
+654,800,Curtis James Meyer,37,M,White
+655,802,Richard Keith Kelley,27,M,White
+656,803,Sully Lanier,36,M,White
+657,804,Harrison Lambert,23,M,White
+658,801,Jose Ramon Damiani Jr,49,M,Hispanic
+659,805,La'vante Trevon Biggs,21,M,Black
+660,806,Luis Wenceslao,32,M,Hispanic
+661,807,Angelo Delano Perry,35,M,Black
+662,808,India Kager,28,F,Black
+663,809,Carlos Yero,59,M,Hispanic
+664,810,Mohamed Ibrahim,28,M,Black
+665,811,William Verrett,45,M,White
+666,813,Casimero Carlos Casillas,45,M,Hispanic
+667,836,Tristan Vent,19,M,Native
+668,812,Dustin Kuik,25,M,White
+669,815,Tyrone Holman,37,M,Black
+670,816,Vincent J. Perdue,33,M,Native
+671,879,William Chau,59,M,Asian
+672,817,Tian Ma,31,M,Asian
+673,819,Brandon Foy,29,M,Black
+674,820, Austin Wilburly  Reid,32,M,White
+675,823,Eddie Tapia,41,M,Hispanic
+676,824,Robert T. Edwards,31,M,White
+677,831,Phillip Pfleghardt,44,M,White
+678,822,Derick Davis,23,M,White
+679,878,Jack Stevens Jr.,45,M,White
+680,821,Martin Francis Hammen,39,M,White
+681,825,Clifford Butler,67,M,Black
+682,827,Jeffrey Eugene Brooks,29,M,White
+683,828,Joseph Thompson Johnson-Shanks,25,M,Black
+684,829,David Todd Powell,28,M,White
+685,830,Tyrone Bass,21,M,Black
+686,832,Florencio Chaidez,32,M,Hispanic
+687,833,Jorge  Suarez-Ruiz,51,M,Hispanic
+688,834,Carlos Wilhelm,39,M,Hispanic
+689,837,Bobby R. Anderson,27,M,Black
+690,835,Rory Lynn Gunderman,31,M,White
+691,838,Mark Gary,50,M,White
+692,839,Lawrence Price,37,M,White
+693,843,Nicholas Alan Johnson,32,M,White
+694,844,Gregory Herrell,47,M,White
+695,842,Lucien Rolland,46,M,White
+696,846,Scott Beech,57,M,White
+697,845,Michael Thomas Pierce,23,M,White
+698,847,Jerrald Wright,56,M,White
+699,840,Gerardo Ramirez,24,M,Hispanic
+700,848,William Spaits,27,M,White
+701,849,Tina Money,23,F,White
+702,851,Timothy Wagner,26,M,White
+703,852,Dominic Fuller,34,M,Hispanic
+704,850,Steven McKenny,21,M,White
+705,853,Dante Osborne,32,M,Black
+706,854,Joel Dixon Smith,33,M,White
+707,855,Tim Kyle Torngren,55,M,White
+708,857,Robert Berger,48,M,Other
+709,858,Joseph Khammash,35,M,White
+710,859,Keith Harrison McLeod,19,M,Black
+711,861,Kenneth Ray Pinter,45,M,White
+712,862,Jeremy McDole,28,M,Black
+713,860,Ernesto Medina Lopez,42,M,Hispanic
+714,863,Patrick O'Grady,17,M,White
+715,865,Philip Quinn,30,M,Other
+716,866,William Lemmon,21,M,White
+717,868,Jeffrey Blood,45,M,White
+718,867,James Anderson,33,M,Black
+719,869,Anthony McKinney,46,M,Black
+720,870,Alejandro Lerma,23,M,Hispanic
+721,871,Norma Angelica Guzman,37,F,Hispanic
+722,874,Christopher Shell,43,M,White
+723,875,Victor Oswaldo Coronado-Martinez,40,M,Hispanic
+724,873,Alberto Hernandez,59,M,Hispanic
+725,872,Junior Prosper,31,M,Black
+726,877,Patrick Stephen Lundstrom,46,M,Native
+727,880,Robert  Christen,37,M,White
+728,876,Brandon Lamar Johnson,28,M,Black
+729,888,David M. Diaz,28,M,Hispanic
+730,890,Phyllis Ilene Jepsen,55,F,White
+731,892,Matthew Dobbins,29,M,White
+732,889,Christian Pena,26,M,Hispanic
+733,887,Eric Edgell,27,M,White
+734,891,Jeffery McCallum,31,M,Black
+735,893,James  Dunaway,51,M,White
+736,894,Rodney Jencsik,50,M,White
+737,895,Omar Ali,27,M,Other
+738,957,Charles A. Pettit,18,M,Black
+739,897,Amado Lago,46,M,Hispanic
+740,898,Gary Carmona Boitano,19,M,Black
+741,902,Christopher Whitmarsh,49,M,White
+742,903,Richard Love,31,M,White
+743,904,William Combs,38,M,White
+744,905,Travis Quay,40,M,White
+745,906,Anthony Aguilar,35,M,Hispanic
+746,899,Joe Pasquez Ortiz,34,M,Hispanic
+747,900,Kevin Lau,44,M,Asian
+748,901,Bernard Brandon Powers,23,M,Black
+749,907,Robert Humberto Medellin,43,M,Hispanic
+750,908,Jason Day,37,M,Black
+751,909,Rudolph Smith,31,M,White
+752,912,Brent Brannon,27,M,White
+753,913,Michelle Marie Burg,46,F,White
+754,914,Samuel Villarreal,18,M,Hispanic
+755,918,Leslie Portis,57,M,Black
+756,916,Jorge Santiago Tapia,15,M,Hispanic
+757,917,Kaleb Alexander,25,M,Black
+758,919,Linda Lee Lush,50,F,White
+759,920,Michael J. Brennan,31,M,White
+760,921,Robert Burgess,35,M,White
+761,922,Herbert Benitez,27,M,Hispanic
+762,923,Martin  Ryans Jr.,20,M,Black
+763,924,Johnny Angel Rangel,27,M,Hispanic
+764,927,Ricky Javenta Ball,33,M,Black
+765,2868,Jeffrey Womack,27,M,White
+766,929,Gino Paredes,22,M,Hispanic
+767,930,Dequan Williams,28,M,Black
+768,931,Corey Jones,31,M,Black
+769,932,Krikor Ekizian,28,M,White
+770,934,Dion Lamont Ramirez,53,M,Black
+771,935,Roger D.  Hall,30,M,White
+772,936,Lamontez Jones,39,M,Black
+773,937,Joel Lopes,40,M,Hispanic
+774,938,Darien Greenwood,30,M,White
+775,939,Jonathan Tyler Gossman,21,M,White
+776,940,Miguel Angel Marin Galena,35,M,Hispanic
+777,941,Ryan Christopher Rodriguez,21,M,Hispanic
+778,944,Timothy Arnold,47,M,White
+779,943,Lawrence Green,38,M,Black
+780,945,Adriene Jamarr Ludd,36,M,Black
+781,946,Stephen H. Brock,53,M,White
+782,947,Juan Ulloa,34,M,Hispanic
+783,948,Rolly Thomas,34,M,Black
+784,950,Dominic Hutchinson,30,M,Black
+785,951,Arthur West,28,M,White
+786,952,Darren Myron Fude,47,M,White
+787,953,Jon Ployhar,49,M,White
+788,949,John Harley Turner,36,M,White
+789,954,Kevin Brunson,45,M,Black
+790,955,Marquesha McMillan,21,F,Black
+791,956,Kobvey Igbuhay,18,M,Other
+792,960,Tyrie Cuyler,25,M,Black
+793,958,Anthony Ashford,29,M,Black
+794,959,Ricky Keith Keeton,57,M,White
+795,961,Jerry Michael Graham Jr.,34,M,Black
+796,962,Jasper Levi Adams,35,M,White
+797,964,Deaunte Lamar Bell,37,M,Black
+798,965,Allen Quintez Swader,18,M,White
+799,966,Floyd Ray Cook,62,M,White
+800,967,Mario Martinez,29,M,Hispanic
+801,968,Tony Berry,25,M,Black
+802,971,Daniel Nole,30,M,White
+803,2867,Brian Crawford,24,M,Black
+804,2871,Larry Busby,52,M,White
+805,969,Noah Harpham,33,M,White
+806,970,Bennie Lee Tignor,56,M,Black
+807,972,Luverne Roy Christensen,49,M,White
+808,973,Killian O'Quinn,20,M,White
+809,974,Jack Yantis,62,M,White
+810,975,James Covington,62,M,Black
+811,980,Jeremy Mardis,6,M,White
+812,977,Joseph Tyndall,30,M,White
+813,978,John Allen,57,M,Black
+814,979,Faisal Mohammad,18,M,Other
+815,981,Timothy Gene Smith,47,M,White
+816,983,David  Romanoski,48,M,White
+817,984,James Bigley,20,M,White
+818,985,Jacob Hohman,30,M,White
+819,987,Laura Lemieux,36,F,White
+820,986,Michael  Johnson,51,M,White
+821,988,James Francis Smyth,55,M,White
+822,992,Kim Lee Long,48,M,White
+823,989,Delvin Simmons,20,M,Black
+824,991,Cesar Cuellar,25,M,Hispanic
+825,993,Dale Maverick Hudson,26,M,White
+826,994,Leonel Acevedo,45,M,Hispanic
+827,1001,Miguel Cano,35,M,Hispanic
+828,995,Eddie Gabriel Sanchez,34,M,Hispanic
+829,996,Jason Leanard Mesaros,36,M,Hispanic
+830,1013,Andrew Blake,22,M,White
+831,1161,Dana Bruce Ott,63,M,White
+832,997,Joseph Jaramillo,31,M,Hispanic
+833,998,Javier Lopez Garcia,25,M,Hispanic
+834,999,Brian Gavin,57,M,White
+835,1000,Ryan Quinn Martin,32,M,Black
+836,1002,Moises Nero,42,M,Black
+837,1005,Michael Joseph Bartkiewicz,52,M,White
+838,1007,Ernesto Gamino,25,M,Hispanic
+839,1008,Matthew Coleman,25,M,White
+840,1006,Ramon Salazar,31,M,Hispanic
+841,1003,Richard Perkins,39,M,Black
+842,1009,Shane Whitehead,16,M,Black
+843,1012,Jamar Clark,24,M,Black
+844,1004,John David Livingston,32,M,White
+845,1014,Brent Noblitt,25,M,White
+846,1228,Cameron Davis Long,28,M,White
+847,1010,Yohans Leon,28,M,Black
+848,1011,Demetrius Bryant,21,M,Black
+849,1015,Jeray Chatham,30,M,Black
+850,1016,Derry Touchstone,58,M,White
+851,1018,Francis Hartnett,47,M,White
+852,1141,Michael Tindall,41,M,White
+853,1017,Cornelius Brown,25,M,Black
+854,1019,Marcus Meridy,44,M,Black
+855,1020,Randy Allen Smith,34,M,Black
+856,1021,Steve Dormil,27,M,Black
+857,1022,Darick Napper,34,M,Black
+858,1023,Nathaniel Harris Pickett,29,M,Black
+859,1024,William Tarrant,39,M,White
+860,1026,Chris Nichols,24,M,White
+861,1025,James Daniel Hall,47,M,White
+862,1027,Matthew Grows,45,M,White
+863,1029,Miguel Angel Martinez,28,M,Hispanic
+864,1030,Barry Kirk,50,M,White
+865,1028,Henry Reyna,49,M,Hispanic
+866,1031,Michael Kirvelay,45,M,White
+867,1033,Freddy Baez,24,M,Black
+868,1032,Thomas Joseph Mceniry,32,M,White
+869,1034,Magnum Edgar Phillips,23,M,White
+870,1035,Douglas R. Slade,52,M,White
+871,1046,Somer Speer,37,F,White
+872,1104,Andrew Thomas,26,M,White
+873,1039,Rick Gullickson,58,M,White
+874,1040,Kevin Close,50,M,White
+875,1036,Justin D. McHenry,22,M,White
+876,1037,Lionel Kerns,53,M,White
+877,1038,Ralph Aguilar,69,M,Hispanic
+878,1041,Hugo Fernando Celio,23,M,Hispanic
+879,1042,Zachary Grigsby,29,M,White
+880,1043,Tuan Hoang,25,M,Asian
+881,1044,Darius Smith,18,M,Black
+882,1227,Fernando Sauceda,31,M,Hispanic
+883,1045,Joshua  Jozefowicz ,23,M,White
+884,1047,John Anthony Gonzalez,18,M,Hispanic
+885,1049,Phillip Munoz,35,M,Hispanic
+886,1050,Tashfeen Malik,27,F,Other
+887,1051,Syed Farook,28,M,Other
+888,1052,Mario Woods,26,M,Black
+889,1053,Allen Pacheco,32,M,Hispanic
+890,1054,Florencio Lucero,36,M,Hispanic
+891,1055,Neil Scott Stretesky,66,M,White
+892,1057,Raymone M. Davis,21,M,Black
+893,1056,Ivan Krstic,47,M,White
+894,1058,Colten Price Marcellus,24,M,White
+895,1060,Michael L. Funk,60,M,White
+896,1061,Sheilah Huck,61,F,White
+897,1062,Juan Perez,38,M,Hispanic
+898,1059,David  Winesett,51,M,White
+899,1063,Raymond Azevedo,35,M,White
+900,1064,Carlumandarlo Zaramo,46,M,Black
+901,1065,John Alan Britton,48,M,White
+902,1067,Miguel Espinal,36,M,Black
+903,1068,Derek Stokes,33,M,Black
+904,1069,Christopher Higdon,66,M,White
+905,1071,Jason Bryant,34,M,White
+906,1072,Charles Edward Rosemond,55,M,Black
+907,1073,Thomas Arthur Gendreau,54,M,White
+908,1075,Steven Wickert,36,M,White
+909,1076,Christopher Goodlow,25,M,Black
+910,1078,Javario Shante Eagle,24,M,Black
+911,1079,Nicholas Robertson,28,M,Black
+912,1081,Jonathan Wardlow,36,M,White
+913,1082,Andrew Jospeh Todd,20,M,White
+914,1083,Roy Carreon,49,M,Hispanic
+915,1077,Shirley  Weis,51,F,White
+916,1080,Ryan McMillan,21,M,White
+917,1084,Nephi  Leiataua,30,M,Other
+918,1089,Enrique Gonzalez,32,M,Hispanic
+919,1085,Calvin McKinnis,33,M,Black
+920,1090,Michael  Thomason,56,M,White
+921,1091,Brenda Dean Kimberling,48,F,White
+922,1092,Mharloun Verdejo  Saycon,39,M,Asian
+923,1093,Hector Alvarez,19,M,Hispanic
+924,1094,Roberto Sanchez,45,M,Hispanic
+925,1095,Mark Toney,33,M,White
+926,1088,Jeffrey Gene Evans,52,M,White
+927,1096,Ronnie Dubose Carter,51,M,Black
+928,1097,Bryant Neil Duncan,37,M,White
+929,1098,Douglas Yon,25,M,White
+930,1099,Christopher Fletcher,24,M,White
+931,1100,Erica Lauro,22,F,White
+932,1101,Amos Frerichs,32,M,White
+933,1102,Robert L. Martinez,58,M,Hispanic
+934,1103,Trayvon Scruggs,24,M,Black
+935,1105,Ruben Jose Herrera,26,M,Hispanic
+936,1106,Leroy Browning,30,M,Black
+937,1107,Mark  Ramirez,31,M,Hispanic
+938,1108,Guadalupe Quiroz,34,M,Hispanic
+939,1109,Bobby Daniels,48,M,Black
+940,1110,Michael Noel,37,M,Black
+941,1111,Derek DeGroat,21,M,White
+942,1112,Robert L. Teter,39,M,White
+943,1113,Chan Leith,25,M,Black
+944,1119,Brandon Barsnick,30,M,White
+945,1115,Kenneth Stephens,56,M,White
+946,1116,Michael Hilber,29,M,White
+947,1117,Jose  Rodriguez,19,M,Hispanic
+948,1118,Kevin Matthews,35,M,Black
+949,1120,Schuylar Gunning,36,M,White
+950,1126,Terrozza Tyree Griffin,24,M,Black
+951,1127,Omar Ventura,23,M,Hispanic
+952,1125,William David Raff,31,M,White
+953,1121,Lonnie Niesen,41,M,White
+954,1123,Bettie Jones,55,F,Black
+955,1124,Quintonio LeGrier,19,M,Black
+956,1151,Gilbert Heredia,38,M,Hispanic
+957,1128,Michael Parker,36,M,White
+958,1132,Sean Mould,34,M,White
+959,1143,Gayneaux Paul Trahan,52,M,White
+960,1131,Corey Jason Achstein,28,M,White
+961,1133,Siolosega Velega-Nuufolau,50,F,Other
+962,1134,Tien Hua,37,M,Asian
+963,1135,Fred Perez,55,M,Hispanic
+964,1137,Keith Childress,23,M,Black
+965,1139,Joshua Sisson,30,M,White
+966,1195,Lance Light,54,M,White
+967,1198,Lonnie Haskell Powers,37,M,White
+968,1138,Sean O'Brien,37,M,White
+969,1140,Germonta Wallace,30,M,Black
+970,1142,Eric John Senegal,27,M,Black
+971,1144,Rodney Turner,22,M,Black
+972,1145,Joel Anthony Nelson,29,M,White
+973,1146,James K. Maher,39,M,White
+974,1147,Carlton Antonio Murphy,33,M,Black
+975,1148,Stephen Bukwich,52,M,White
+976,1149,Albert Thompson,28,M,Hispanic
+977,1160,David Zollo,54,M,White
+978,1150,Charles Hollstein,38,M,White
+979,1153,Alan Huberth Franco-Armenta,32,M,Hispanic
+980,1154,Kenneth Clay,34,M,White
+981,1157,Eric C. Olsen,26,M,White
+982,1158,Andrew Earl Abernathy,50,M,White
+983,1156,David Jay Kent,37,M,White
+984,1159,Christine A. Lucas,45,F,White
+985,1162,Alan Paul Bartley,56,M,White
+986,1163,Robert Tenbrink,45,M,White
+987,1164,Ramone Lonergan,32,M,White
+988,1165,Ciara Meyer,12,F,White
+989,1166,Herman Bean,49,M,Native
+990,1167,Keith Richardson,58,M,White
+991,1183,Brandon Bearden,29,M,White
+992,1197,Timothy Meehan,60,M,White
+993,1168,Willie Holderfield,40,M,White
+994,1169,Miguel Hernandez,39,M,Hispanic
+995,1180,William Keith Waldron,26,M,White
+996,1196,Rakeem Bentley,24,M,Black
+997,1172,Alfred Longoria,34,M,Hispanic
+998,1173,Ashton Lane Morris,27,M,White
+999,1176,Adam Karjalainen,44,M,White
+1000,1177,Kelsey Rose Hauser,25,F,White
+1001,1179,Clarence Layfield,55,M,White
+1002,1181,Henry Bennett,19,M,Black
+1003,1170,Crayton West,52,M,Black
+1004,1175,Corey Lee Henderson,31,M,White
+1005,1188,Daniel Shaver,26,M,White
+1006,1171,Efrain Herrera,24,M,Hispanic
+1007,1174,Joshua Tate Fielding,38,M,White
+1008,1178,Jordan Szymanski,33,M,White
+1009,1182,Eric Provost,28,M,White
+1010,1184,Timothy Caruthers,27,M,White
+1011,1186,Levi Gene Wilson,39,M,White
+1012,1189,Vasilios Alexander Katsouras,29,M,White
+1013,1185,Gary Wayne Jones,36,M,White
+1014,1187,Samuel Grady,55,M,White
+1015,1190,Jim Redmond,28,M,White
+1016,1191,Timothy Albert,40,M,Black
+1017,1194,Randy Joe Sanders,33,M,White
+1018,1202,Michael Clyde Lynch,37,M,White
+1019,1201,Cedric Norris,39,M,Black
+1020,1200,Michael Lamar Robinson,43,M,White
+1021,1199,Sergio Alvarado-Morales,38,M,Hispanic
+1022,1203,"Robert ""LaVoy"" Finicum",55,M,White
+1023,1204,Scott Scanlon,52,M,White
+1024,1205,Johnathan Bratcher,32,M,Black
+1025,1206,Herman Flores,31,M,Hispanic
+1026,1207,John Wesley Smith,27,M,White
+1027,1208,Thongsavanh Vandarack,40,M,Asian
+1028,1209,Janet Wilson,31,F,Black
+1029,1210,Nathan Lee Bailey,30,M,White
+1030,1212,Israel Vladimir Rodriguez,26,M,Hispanic
+1031,1213,Jacqueline D. Salyers,32,F,Native
+1032,1214,William A. Adams,33,M,White
+1033,1215,Christopher Kalonji,19,M,Black
+1034,1216,Randolph McClain,33,M,Black
+1035,1218,Christopher Michael Dew,29,M,Black
+1036,1226,Angela Hiatt,41,F,White
+1037,1221,Charles M. Smith,29,M,Black
+1038,1222,Philip B. Salazar,38,M,Hispanic
+1039,1224,Jose Alegre,64,M,Hispanic
+1040,1230,Jeremy J. Sinclair,42,M,White
+1041,1223,Juan A. Ruiz,46,M,Hispanic
+1042,1288,Joshua Shane Bispo,42,M,White
+1043,1220,Bruce Kelley,37,M,Black
+1044,1225,Michael Brown,25,M,White
+1045,1219,Peter John,36,M,Black
+1046,1232,Edgar Rene Alvarado,21,M,Hispanic
+1047,1231,Justin Prescott,30,M,White
+1048,1233,John Henry Neuman,53,M,White
+1049,1234,Cristiaan Oliver Dubrino,31,M,Hispanic
+1050,1235,Raymond Gassman,22,M,Native
+1051,1236,Kayden Clarke,24,M,White
+1052,1237,Antronie Scott,36,M,Black
+1053,1238,Scott Harless,47,M,White
+1054,1243,Thomas Hirko,54,M,White
+1055,1250,Hector Leroy,43,M,Hispanic
+1056,1242,Ronald Barawis,38,M,Other
+1057,1246,Blake Edward Fitzgerald,30,M,White
+1058,1248,Vinson Ray Strickland,51,M,White
+1059,1249,Phillip Ferry,55,M,White
+1060,1240,Jose Mendez,16,M,Hispanic
+1061,1239,Marese V. Collins,23,M,Black
+1062,1241,Phillip Luchsinger,36,M,White
+1063,1245,Shalamar Longer,33,M,Black
+1064,1247,David Joseph,17,M,Black
+1065,1252,Eric Harris,22,M,Black
+1066,1251,Gustavo Najera,22,M,Hispanic
+1067,1256,Scottie Yanagawa,29,M,Other
+1068,1253,Timothy Vessels,41,M,White
+1069,1254,David Brian Evans,67,M,White
+1070,1255,Vincent Nageak,36,M,Native
+1071,1257,John Birkeland,52,M,White
+1072,1260,Anthony Bertoni,56,M,Other
+1073,1258,Alijah Jackson,35,M,White
+1074,1261,Matthew Quinn,45,M,White
+1075,1263,Mohamed Barry,30,M,Black
+1076,1262,Peter Fanfan,29,M,Black
+1077,1273,David Glen Watson,53,M,White
+1078,1276,Sahlah Ridgeway,32,F,Black
+1079,1266,Calvin Smith,22,M,Black
+1080,1270,Calin Roquemore,24,M,Black
+1081,1272,Dyzhawn L. Perkins,19,M,Black
+1082,1268,Ali Eisa Abdalla Yahia,29,M,Black
+1083,1269,Marc Stoddart,50,M,White
+1084,1271,Eduardo Rodriguez,29,M,Hispanic
+1085,1280,Rammy Jaradat,26,M,White
+1086,1274,Brandon Lee Witt,39,M,White
+1087,1282,Guadalupe Sauceda,52,M,Hispanic
+1088,1275,Christopher Andrews,51,M,White
+1089,1278,Destry Meikle,48,M,White
+1090,1279,Shawn Henry Allen Dickens,30,M,White
+1091,1281,Paul Gaston,37,M,Black
+1092,1285,Jose Quintanilla,30,M,Hispanic
+1093,1286,Oscar Reyes,35,M,Hispanic
+1094,1287,Ronnie Padron,32,M,Hispanic
+1095,1284,Joseph Noel,25,M,White
+1096,1295,Justin Patrick Moses,35,M,White
+1097,1297,Curtis James Dugger,31,M,White
+1098,1291,Danny Rendon,30,M,Hispanic
+1099,1294,Edgar Camacho-Alvarado,23,M,Hispanic
+1100,1296,Marcos Perea,41,M,Black
+1101,1298,Charles Lee Lambert,45,M,White
+1102,1289,Che Taylor,46,M,Black
+1103,1290,Sherrisa Homer,36,F,Native
+1104,1292,Kisha Michael,31,F,Black
+1105,1293,Marquintan Sandlin,32,M,Black
+1106,1305,Patricia Kruger,38,F,Native
+1107,1301,Gerardino Cayetano Gonzalez,33,M,Hispanic
+1108,1302,Jamie Clark Long,45,M,White
+1109,1303,David Michael Green,38,M,White
+1110,1304,Rouven Loch,22,M,White
+1111,1306,Travis Stevenson,48,M,Black
+1112,1309,Angel Alan Gleason,36,M,Hispanic
+1113,1317,Alex Buckner,26,M,White
+1114,1310,Baltazar Ramos,39,M,Hispanic
+1115,1307,Robert Keil,16,M,White
+1116,1313,Martin Wirth,58,M,White
+1117,1314,Victor Rivera,27,M,Hispanic
+1118,1316,Francisco Garcia,26,M,Hispanic
+1119,1318,Christopher J. Davis,21,M,Black
+1120,1312,Luke Miller,37,M,White
+1121,1315,Greg Gunn,56,M,Black
+1122,1319,Tristan Conti,19,M,White
+1123,1320,Cedric Ford,38,M,Black
+1124,1322,Kionte Desean Spencer,18,M,Black
+1125,1324,Abraham Mitchell Fryer,35,M,White
+1126,1325,Fernando Hernandez,23,M,Hispanic
+1127,1321,Nathan Grissom,41,M,White
+1128,1323,Earl Hicks,44,M,White
+1129,1327,Akiel Denkins,24,M,Black
+1130,1328,Dimitri Corcino,39,M,Hispanic
+1131,1329,Jorge Brian Gonzalez,22,M,Hispanic
+1132,1330,Mickey Dewayne Sweatt,37,M,White
+1133,1331,Travis Boyd Bradley,36,M,White
+1134,1341,Daniel Burkhardt,41,M,White
+1135,1335,Sergio Ochoa,27,M,Hispanic
+1136,1342,Brandon Stanley,30,M,White
+1137,1334,Darrell Bosell,34,M,White
+1138,1336,Herbert Ballance,22,M,White
+1139,1332,Mark Minnick,51,M,White
+1140,1333,James Scott,42,M,White
+1141,1340,Osvaldo Torres,41,M,Hispanic
+1142,1339,Philip Vitullo,49,M,White
+1143,1343,Bryon Rosas,45,M,White
+1144,1344,Randall J. Selsor,45,M,White
+1145,1345,"John Charles ""JC"" Graham",42,M,White
+1146,1348,Daniel H. Chavez,41,M,Hispanic
+1147,1347,Jeffrey Glen Casale,27,M,White
+1148,1349,Wesley Sheppard,37,M,White
+1149,1351,Arteair Porter Jr.,22,M,Black
+1150,1352,Martin Hurtado,21,M,Hispanic
+1151,1353,Jason Meador,50,M,White
+1152,1354,German Gonzalez,23,M,Hispanic
+1153,1350,Tyre Privott,25,M,Black
+1154,1355,"Manford ""Butch"" Moore Jr.",51,M,White
+1155,1375,Jack Goodman,46,M,White
+1156,1515,Teodoro Valencia,23,M,Hispanic
+1157,1476,Christopher Michael Tokazowski,43,M,White
+1158,1357,Peter Gaines,37,M,Black
+1159,1365,Marco Loud,20,M,Black
+1160,1356,Gevork Alachadzhyan,45,M,White
+1161,1358,Jose Raul Cruz,16,M,Hispanic
+1162,1359,Joshua Grubb,30,M,White
+1163,1360,Wesley Chad Deerman,26,M,White
+1164,1361,Keith Montgomery Jr.,24,M,Black
+1165,1362,Amy Jean McCoy,38,F,White
+1166,1379,Jacai Colson,28,M,Black
+1167,1364,Lamar Harris,29,M,Black
+1168,1366,Joseph Harris,34,M,White
+1169,1369,Daniel J. Wooters,38,M,White
+1170,1371,Ed Russell McIver,43,M,White
+1171,1367,Cristian Rene Medina,23,M,Hispanic
+1172,1368,Eric Hernandez,33,M,Hispanic
+1173,1374,Dennis Penny,40,M,White
+1174,1370,Map Kong,38,M,Asian
+1175,1372,Sunny Chin,53,M,Asian
+1176,1376,Scott Bennett,29,M,Black
+1177,1377,Christopher Nelms,30,M,Black
+1178,1401,David Alma Giles,60,M,White
+1179,1382,India Beaty,25,F,Black
+1180,1387,Joshua Douglas,24,M,White
+1181,1388,Thurman Reynolds,21,M,Black
+1182,1392,Dylan R. Whitaker,23,M,White
+1183,1380,Boyd Keith Ballard,61,M,White
+1184,1391,Clarence Briggs,54,M,White
+1185,1393,Abraham Martinez,62,M,Hispanic
+1186,1394,Robert Dentmond,16,M,Black
+1187,1396,Dylan Pape,25,M,White
+1188,1397,Edward J. Gorinski,28,M,White
+1189,1395,"Ralph ""Phil"" Grenon",76,M,White
+1190,1398,Ethan James Rincon,25,M,Hispanic
+1191,1399,Travis J. Blair,33,M,White
+1192,1400,Daven Scott Hannu,51,M,White
+1193,1402,Raymond Gonzalez,34,M,Hispanic
+1194,1403,Alexio Allen,30,M,Black
+1195,1404,Robert L. Dussourd,44,M,White
+1196,1405,Dominique Silva,24,M,Black
+1197,1406,Andrew Mike,29,M,White
+1198,1407,Joel A. Gonzales,48,M,Hispanic
+1199,1408,Mario Sandoval,19,M,Hispanic
+1200,1415,Jermon Seals,22,M,Black
+1201,1412,Jose Perez,39,M,Hispanic
+1202,1413,Terrence Shane Blackburn,36,M,White
+1203,1414,Donald Andrew White,55,M,White
+1204,1416,Patrick Matthew McManamon,46,M,White
+1205,1410,Jeffrey Lanahan,34,M,White
+1206,1411,Loreal Tsingine,27,F,Native
+1207,1417,Robert D. Guerin,33,M,White
+1208,1418,Deriante Deon Miller,18,M,Black
+1209,1419,Earl Ashby,33,M,White
+1210,1421,Robert Morgan Garrison Jr.,51,M,White
+1211,1422,Denise Fairchild,50,F,White
+1212,1420,Joseph Louis Melvin,46,M,White
+1213,1423,Angel Montion,33,M,White
+1214,1436,Ruben Cossyleon,25,M,Hispanic
+1215,1514,Thomas Lagano,52,M,White
+1216,1424,Kimani Johnson,18,M,Black
+1217,1425,Matthew Vincent Wood,43,M,Black
+1218,1426,James Brown III,34,M,Black
+1219,1846,James Craig Simpson,31,M,Black
+1220,1427,Jesus Juarez,65,M,Hispanic
+1221,1435,Joel Fabela,37,M,Hispanic
+1222,1432,Cameron Gover,30,M,Black
+1223,1430,Melissa Boarts,36,F,White
+1224,1431,Darrin Andrew Martin,25,M,White
+1225,1433,David Mack,69,M,White
+1226,1845,Preston Paul Perez,48,M,White
+1227,1428,Raul Salvador Marquez Heraldes,50,M,Hispanic
+1228,1437,Peter J. Doherty,52,M,White
+1229,1438,Kevin Hicks,44,M,Black
+1230,1439,Marvin Cremeans,60,M,White
+1231,1441,Laronda Sweatt,40,F,Black
+1232,1442,Cesar Frias,20,M,Hispanic
+1233,1443,Luis Gongora,45,M,Hispanic
+1234,1445,Lance C. McIntire,44,M,White
+1235,1444,Dazion Flenaugh,40,M,Black
+1236,1446,Melissa M. Abbott,25,F,White
+1237,1448,Lamont Gulley,43,M,Black
+1238,1447,Diahlo Grant,27,M,Black
+1239,1453,Quron Williams,19,M,Black
+1240,1449,Lonnie Ball,39,M,White
+1241,1451,William Clark,30,M,White
+1242,1452,Arturo Yobani-Torrez Valdez,28,M,Hispanic
+1243,1454,Efren Eloy Trujillo,22,M,Hispanic
+1244,1455,Pierre Loury,16,M,Black
+1245,1456,Dion Daman,40,M,White
+1246,1457,Joshua Moreno,38,M,Hispanic
+1247,1458,Travis Wood,20,M,White
+1248,1459,Rodney Watts,35,M,Black
+1249,1460,Jeffrey Gray Wise,52,M,White
+1250,1462,Koltlee Whitson,26,M,White
+1251,1463,Jeff Robertson,54,M,White
+1252,1465,Clemente Najera,38,M,Hispanic
+1253,1469,David Swatsky,52,M,White
+1254,1471,Storm Allen Smith,26,M,White
+1255,1473,Gerald Robert Boyes,53,M,White
+1256,1464,Kisha Arrone,35,F,Black
+1257,1466,Eric John Wilson,22,M,White
+1258,1467,Richard Bard Jr.,31,M,Black
+1259,1470,George Tillman,32,M,Black
+1260,1472,Edson Thevenin,37,M,Black
+1261,1475,Rico Don Rae Johnson,28,M,Black
+1262,1479,Demetrius Dorsey,18,M,Black
+1263,1474,Sylasone Ackhavong,41,M,Asian
+1264,1477,Jorevis Scruggs,15,M,Black
+1265,1478,Daniel Eric Blackmon,38,M,White
+1266,1480,Francis Scot Dufore,41,M,White
+1267,1481,Jackie Lee Kirkham,52,M,White
+1268,1482,Mario Mejia Martinez,48,M,Hispanic
+1269,1484,Tyler Hunkin,29,M,White
+1270,1485,Carl Baranishyn,51,M,White
+1271,1483,Demarcus Semer,21,M,Black
+1272,1486,Mitchell Oakley,24,M,White
+1273,1487,Jakob E. Wagner,18,M,White
+1274,1488,Eric C. Wakup,30,M,White
+1275,1527,Willie Tillman,33,M,Black
+1276,1489,Kay Frances Campbell,60,F,White
+1277,1490,Robin Barber,28,M,White
+1278,1491,Joshua Brooks,26,M,Black
+1279,1492,Jacquelyn Burke,24,F,White
+1280,1493,Darrel S. Machemehl,44,M,White
+1281,1494,Cin Lam Mung,34,M,Asian
+1282,1495,Damon Blair,21,M,White
+1283,1840,David Shane Anderson,36,M,White
+1284,1498,Kendar del Rosario,37,M,Black
+1285,1499,Lee Easter,53,M,White
+1286,1501,Ashtian Barnes,24,M,Black
+1287,1500,Michael Kurtz,45,M,White
+1288,1506,Jeffrey Darrell Hobbs,48,M,White
+1289,1504,Oswald Mattner,42,M,White
+1290,1505,Mark Daniel Bess,33,M,White
+1291,1507,Bender Dass,55,M,White
+1292,1508,Marion Habana,28,M,Asian
+1293,1502,Charlin Charles,25,M,Black
+1294,1503,Ronald Branch,28,M,White
+1295,1842,Reginald Darnell Dogan,52,M,Black
+1296,1510,Raymond Hopper,59,M,White
+1297,1509,Richard Ferretti,52,M,White
+1298,1511,Cayce A. DiTullio,39,M,White
+1299,1513,Gerry J. Thompson,40,M,White
+1300,1516,Corey DiGiovanni,36,M,White
+1301,1517,Burt Johnson,38,M,Black
+1302,1518,Deresha Armstrong,26,F,Black
+1303,1519,Ronald D. Williams,37,M,Black
+1304,1523,Nathan Q. Cates,29,M,White
+1305,1525,Alton Fitzgerald Witchard,37,M,Black
+1306,1529,Derek J. Sam,29,M,Other
+1307,1522,Lionel Gibson,21,M,Black
+1308,1520,Jaffort Smith,33,M,Black
+1309,1524,Christian Bowman,23,M,White
+1310,1526,Michael Johnson,26,M,White
+1311,1531,Jamie Stotts,29,M,White
+1312,1844,Arthur R. Williams,33,M,Black
+1313,1532,Arthur DaRosa,28,M,Black
+1314,1530,Stephen Schuster,35,M,White
+1315,1533,Thongsoune Vilaysane,33,M,Asian
+1316,1534,Sean Ryan Mondragon,24,M,Black
+1317,1535,Steve Godfrey,37,M,White
+1318,1539,Robert Mark Diaz,28,M,Hispanic
+1319,1536,Cody Marsh,19,M,White
+1320,1537,Francis Clark,43,M,Native
+1321,1538,Jeffrey Sims,59,M,White
+1322,1540,Ryan Johnson,34,M,White
+1323,1541,"Dracy ""Clint"" Pendleton",35,M,White
+1324,1542,Jabril Robinson,23,M,Black
+1325,1544,Luke Sanders,36,M,White
+1326,1543,Garry Conrad,46,M,White
+1327,1545,Joseph Weatherby,44,M,White
+1328,1546,Israel Santos-Banos,20,M,Hispanic
+1329,1547,Jeremias Cruz,30,M,Hispanic
+1330,1548,Jessica Nelson-Williams,29,F,Black
+1331,1549,Jaime Ide,35,M,Hispanic
+1332,1550,Timothy Brandon Stacy,36,M,White
+1333,1551,Kentrill William Carraway,22,M,Black
+1334,1559,Joshua Beebee,31,M,Black
+1335,1552,Norman Campbell,63,M,White
+1336,1553,Travis Moore,38,M,White
+1337,1556,Mark Nelson,31,M,Native
+1338,1554,Michael Eugene Wilson Jr.,27,M,Black
+1339,1555,Jorge Zambrano,35,M,Hispanic
+1340,1562,Vernell Bing,22,M,Black
+1341,1563,Bryson Fischer,28,M,White
+1342,1560,Verl Bedonie,26,M,Native
+1343,1561,Bodhi Wilson Dean Phelps,22,M,White
+1344,1567,Mario Montoya,31,M,Hispanic
+1345,1565,Derek Prophet,43,M,White
+1346,1566,Doll Pierre-Louis,24,M,Black
+1347,1568,"Eugene ""Geno"" Francis Smith",29,M,White
+1348,1569,Warren Christian,43,M,White
+1349,1571,Devonte Gates,21,M,Black
+1350,1572,Fernando Castro,19,M,Hispanic
+1351,1583,Angel Daniel Navarro,25,M,Hispanic
+1352,1580,Terry Edwards,59,M,White
+1353,1576,Dennis Hudson,50,M,Black
+1354,1582,Dennis Humphrey,58,M,White
+1355,1573,Dionisio Augustine Garza III,25,M,Hispanic
+1356,1577,Donald Edward Brown III,32,M,White
+1357,1578,John Mark Coffey,53,M,White
+1358,1579,Todd Brent Burroughs,38,M,White
+1359,1574,Robert Wickizer,70,M,White
+1360,1575,Osee Calix,33,M,Black
+1361,1585,Nicholas Berger,36,M,White
+1362,1586,Michael Johnson,21,M,Black
+1363,1587,Daniel Pigg,51,M,White
+1364,1588,Willie Demetrius James,43,M,Black
+1365,1589,Rodney Rodriguez Smith,18,M,Black
+1366,1590,Joshua Smith,33,M,White
+1367,1591,"Hubert Thomas Burns, Jr.",34,M,Native
+1368,1592,Daniel Jonathan Shaham,31,M,White
+1369,1594,Demarco Rhymes,35,M,Black
+1370,1598,Larry Dustin Stepp,31,M,White
+1371,1593,Christopher Michael Moran,31,M,White
+1372,1595,Henry Green,23,M,Black
+1373,1597,Kalyp Allen Rapoza,25,M,Other
+1374,1596,Andrew Henson,25,M,White
+1375,1599,Omar Villagomez,21,M,Hispanic
+1376,1601,Willis N. Walker,49,M,Black
+1377,1604,William David Powell,63,M,White
+1378,1602,Carlos Garcia,43,M,Hispanic
+1379,1603,William Michael Hollis,34,M,White
+1380,1605,James Allen Nickol,38,M,White
+1381,1606,John Michael Brisco,52,M,Black
+1382,1607,Clifford Tucker,68,M,White
+1383,1611,Clayton Millsaps,29,M,White
+1384,1613,Bobby Sanchez,32,M,Hispanic
+1385,1614,J. Juan Briseno-Ortega,50,M,Hispanic
+1386,1838,Keith Bursey,31,M,Black
+1387,1612,Lyndarius Cortez Witherspoon,27,M,Black
+1388,1616,Jesus Duran,31,M,Hispanic
+1389,1608,Omar Mateen,29,M,Other
+1390,1609,Daniel Bennett Edwards,23,M,White
+1391,1617,John Williams,61,M,Black
+1392,1619,Joshua Sciscm,33,M,White
+1393,1620,Michael Moore,18,M,Black
+1394,1621,Edward Acquisto,80,M,Hispanic
+1395,1623,Kenneth Allen Pointer,43,M,White
+1396,1618,Noel Rodriguez,50,M,Hispanic
+1397,1622,Nicholas Ferro,47,M,White
+1398,1624,Mohammad Moghaddam,54,M,Other
+1399,1625,Fernando Geovanni Llanez,22,M,Hispanic
+1400,1626,Russell Rosser,43,M,White
+1401,1627,Michael Rasmussen,38,M,White
+1402,1628,Peter Grandpre,36,M,White
+1403,1629,Nicholas Damon,30,M,Hispanic
+1404,1630,John Anderson,59,M,White
+1405,1837,Ronald Delfino,21,M,Hispanic
+1406,1633,William Thomas Hennessey,34,M,White
+1407,1634,Sergey Makarenko,17,M,White
+1408,1637,Antwun Shumpert,37,M,Black
+1409,1631,Rashaun Lloyd,25,M,Black
+1410,1632,Raufeal M. Bostick,23,M,Black
+1411,1638,Devin Christopher Scott,20,M,White
+1412,1640,Lane Lesko,19,M,White
+1413,1642,Jeff Hyde,50,M,White
+1414,1643,Pedro Cruz-Amado,24,M,Hispanic
+1415,1641,Josiah Williams,25,M,White
+1416,1644,Isaiah Core,20,M,Black
+1417,1645,Roger Ponce,37,M,White
+1418,1646,Quencezola Maurice Splunge,44,M,Black
+1419,1647,Deravis Caine Rogers,22,M,Black
+1420,1651,Shaun Trevor Walke,31,M,White
+1421,1648,Jay Anderson,25,M,Black
+1422,1649,Angelo Brown,37,M,Black
+1423,1650,Ismael Miranda,36,M,Black
+1424,1657,Randy Blecher,50,M,White
+1425,1658,Christy Sheats,42,F,White
+1426,1660,Miguel Angel Chavez-Angles,42,M,Hispanic
+1427,1728,Jamil Alejandro Valladares,26,M,Hispanic
+1428,1653,Dylan Noble,19,M,White
+1429,1654,Waldemar Bogusiewicz,59,M,White
+1430,1661,Rodrigo Guardiola,36,M,Hispanic
+1431,1655,Terry Lynn Maurer,51,M,White
+1432,1656,Daniel Reyes,27,M,Hispanic
+1433,1659,Germichael Kennedy,22,M,Black
+1434,1663,Donte L. Johnson,30,M,Black
+1435,1665,Michael Disbrowe,28,M,White
+1436,1666,Sherman Evans,63,M,Black
+1437,1667,Blake Peacock,32,M,White
+1438,1668,Travis Vierra,26,M,White
+1439,1669,Raymond Hutson,25,M,White
+1440,1670,Barry Prak,27,M,Asian
+1441,1671,Walden Dang,61,M,Asian
+1442,1672,Jessie J. Mills,30,M,White
+1443,1673,Tyrone Reado,37,M,Black
+1444,1674,Lafayette Evans,37,M,Black
+1445,1675,Michael William Schumacher,41,M,White
+1446,1676,Kawme Dejuan Patrick,25,M,Black
+1447,1677,Tristan Vilters,24,M,White
+1448,1678,Jasen Scott Ramirez,44,M,Hispanic
+1449,1686,Alexis George Mishtowt,63,M,White
+1450,1688,Helmut Wihowski,58,M,White
+1451,1687,Steven McQueen,30,M,White
+1452,1682,Jai Lateef Solveig Williams,35,M,Black
+1453,1689,Jonathan Lane Justiss,50,M,White
+1454,1684,Shannon Labit,40,M,White
+1455,1690,Raul Saavedra-Vargas,37,M,Hispanic
+1456,1691,Pedro Villanueva,19,M,Hispanic
+1457,1679,William Tracy Patterson,34,M,White
+1458,1681,Anthony Nunez,18,M,Hispanic
+1459,1683,Sidney Washington,21,M,Black
+1460,1692,Joshua Bolster,29,M,White
+1461,1693,Sam Newby,49,M,White
+1462,1695,Melissa Ventura,24,F,Hispanic
+1463,1680,Alton Sterling,37,M,Black
+1464,1694,Philando Castile,32,M,Black
+1465,1696,Thomas Vandemark,65,M,White
+1466,1697,Vinson Lee Ramos,37,M,Hispanic
+1467,1698,Adam Smith,33,M,White
+1468,1699,Earnest Fells,63,M,Black
+1469,1700,Abraham Smith,30,M,White
+1470,1701,Andre Johnson,40,M,Black
+1471,1702,Alva Burnett Braziel,38,M,Black
+1472,1703,Joseph Mann,50,M,Black
+1473,1704,Jason Brooks,41,M,Black
+1474,1705,Pablo Medina,41,M,Hispanic
+1475,1706,Orville Edwards,39,M,Black
+1476,1711,Larry Darnell Gordon,44,M,White
+1477,1707,Benjamin Zeckovic,23,M,White
+1478,1708,Donald S. Myers,32,M,White
+1479,1709,Richard G. Dinneny,56,M,White
+1480,1710,Dayten Ernest Harper,33,M,Black
+1481,1713,Bobby Horne,63,M,White
+1482,1716,Billy D. Smith,31,M,White
+1483,1720,Patrick Fennell,57,M,White
+1484,1719,Cody Wayne Jarrett,26,M,White
+1485,1712,Kevin Higgins,39,M,White
+1486,1717,Jermaine Johnson,42,M,Black
+1487,1718,Gavin Eugene Long,29,M,Black
+1488,1714,Michael Ray Ramsey,43,M,White
+1489,1721,Jerry Brimer,56,M,White
+1490,1722,Javier Garcia Gaona,31,M,Hispanic
+1491,1723,Derek Love,50,M,Black
+1492,1724,BJ Medeiros,36,M,Other
+1493,1725,Paul Edward Yacabitis,50,M,White
+1494,1726,Austin Jerry Lee Howard,49,M,Black
+1495,1727,Bernard Wells,31,M,Black
+1496,1836,Steven Alfred Longoria,34,M,Hispanic
+1497,1729,Robert Lee Lourenco,36,M,White
+1498,1730,Alvin R. Sylversmythe,29,M,Native
+1499,1731,Jeff Cornell Tyson,32,M,Black
+1500,1732,Richard Risher,18,M,Black
+1501,1733,Scot Minard,50,M,White
+1502,1734,Juan Reynaldo Duran,36,M,Hispanic
+1503,1735,Devon Martes,17,M,Black
+1504,1736,Dalvin Hollins,19,M,Black
+1505,1739,Dylan Liberti,24,M,White
+1506,1740,Saddam Trejeda-Campos,24,M,Hispanic
+1507,1746,Emil Ambrose Mecklenburg,20,M,White
+1508,1835,Michael Adams,33,M,White
+1509,1737,Jorge Moreno-Aguirre,41,M,Hispanic
+1510,1741,Jeffrey Smith,47,M,Black
+1511,1742,Paul O'Neal,18,M,Black
+1512,1743,Jesus Rael,31,M,Hispanic
+1513,1744,Donnell Thompson,27,M,Black
+1514,1745,Omar Gonzalez,36,M,Hispanic
+1515,1747,Amanda Page Bivens,40,F,White
+1516,1834,Melvin Faison,59,M,White
+1517,1748,John Casey,32,M,White
+1518,1749,Mario Martinez Torres,38,M,Hispanic
+1519,1752,Limichael Shine,18,M,Asian
+1520,1750,Korryn Gaines,23,F,Black
+1521,1751,Bryan N. Byrd,43,M,White
+1522,1753,Kenneth Eugene Bonanno,67,M,White
+1523,2148,Richard Swihart,32,M,White
+1524,1754,Richard Lance London,22,M,White
+1525,1757,Adam Jo Klimek,31,M,White
+1526,1758,DeMarco Newman,43,M,Black
+1527,1759,Matthew David Conrad,34,M,White
+1528,1760,William Bowers,51,M,White
+1529,1755,Benjamin William Heaton,31,M,White
+1530,1756,Bradley Carey,54,M,White
+1531,1761,E.J. Walters,69,M,White
+1532,1762,Johannes Wood,58,M,White
+1533,1767,Jamarion Rashad Robinson,26,M,Black
+1534,1770,James Quealy,59,M,White
+1535,1763,Jawari Porter,25,M,Black
+1536,1764,Earl Pinckney,20,M,Black
+1537,1766,Darnell Wicker,57,M,Black
+1538,1771,Michael McClurg,56,M,White
+1539,1773,James Eugene Burgess,64,M,White
+1540,1774,Juan J. Godines,34,M,Hispanic
+1541,1833,James W. Jennings,69,M,White
+1542,1775,Ronald Smith,45,M,White
+1543,1776,Jesse James Romero,14,M,Hispanic
+1544,1777,Jeffrey Allen Morris,44,M,White
+1545,1778,Jeff Martelli,59,M,White
+1546,1785,Sergio Daniel Weick,33,M,Hispanic
+1547,2149,Tommy Seneca,54,M,White
+1548,1782,Jesus Armando Carillo,22,M,Hispanic
+1549,1783,Dominic Rollice,49,M,White
+1550,1780,Sylville Smith,23,M,Black
+1551,1781,Ruben Horacio Strand Alvear,38,M,Hispanic
+1552,1784,Perry Lee Heitman,53,M,White
+1553,1832,Eric Ortega Soto,36,M,Hispanic
+1554,1786,Jovany Martinez,29,M,Hispanic
+1555,1788,Danny Pirtle,42,M,White
+1556,1787,Michael S. Martin,36,M,White
+1557,1789,Carl Nivens,32,M,White
+1558,1790,Larry Eugene Kurtley,53,M,White
+1559,1791,Colby Friday,30,M,Black
+1560,1792,Marcos Antonio Gastelum,25,M,Hispanic
+1561,1795,Kenney Watkins,18,M,Black
+1562,2145,John O'Handley,55,M,White
+1563,1793,Omer Ismail Ali,27,M,Black
+1564,1794,Francisco Villarreal,37,M,Hispanic
+1565,1796,Daniel Kevin Harris,29,M,White
+1566,1797,Chad Irwin,40,M,White
+1567,1798,Joseph Weber,36,M,White
+1568,1801,Trenton Lohman,38,M,White
+1569,1807,David Klassen,29,M,White
+1570,1831,David Fulton,59,M,White
+1571,1799,Marcelo Luna,47,M,Hispanic
+1572,1800,Jorge Ceniceros,22,M,Hispanic
+1573,1806,Kole B. Knight,31,M,White
+1574,1808,Kyle Zimbelman,29,M,White
+1575,1810,Todd P. Browning,54,M,White
+1576,1803,Pedro Montanez,71,M,Hispanic
+1577,1804,Juan Gabriel Torres,36,M,Hispanic
+1578,1802,Kelley Brandon Forte,34,M,Black
+1579,1812,Bobby Lyn Buck,49,M,White
+1580,1811,Elias Portillo,36,M,Hispanic
+1581,1813,William Charbonneau,43,M,White
+1582,1814,Jeffrey Darren Hosea,53,M,White
+1583,1816,Donta Taylor,31,M,Black
+1584,2144,David Coborubio,32,M,Hispanic
+1585,1817,Matthew Gibbon,41,M,White
+1586,1820,Angel Torres Jr.,26,M,Hispanic
+1587,1822,Darrel Hetrick,82,M,White
+1588,1818,Justin Kulhanek-Derks,37,M,White
+1589,1823,Jaqwan Julius Terry,24,M,Black
+1590,1826,Paula Dell Phillips,35,F,White
+1591,1824,Michael Peacor,56,M,White
+1592,1827,Levonia Riggins,22,M,Black
+1593,1828,Lyle Patrick Blanchard,59,M,White
+1594,1830,Gregory Mathis,36,M,White
+1595,1841,Michael Ferguson,21,M,White
+1596,1870,Thomas E. Sekscinski,38,M,White
+1597,1839,Ed Holup,60,M,White
+1598,1843,Caleb J. Douglas,18,M,White
+1599,1847,Joshua Quintero,23,M,Hispanic
+1600,1848,TK TK,37,M,Hispanic
+1601,1849,Joseph Moreno,38,M,Hispanic
+1602,1853,Michael Robert Musson,22,M,White
+1603,1856,Michael Thompson,38,M,Black
+1604,1854,Jerome Damon,25,M,Black
+1605,1855,Cameron Ayers,25,M,White
+1606,1860,Donny Max Daugherty,36,M,White
+1607,1852,Jose Romero,37,M,Hispanic
+1608,1859,Simon Gomez,44,M,Hispanic
+1609,1851,Moses Ruben,36,M,Black
+1610,1858,Cesar Garcia,35,M,Hispanic
+1611,1862,David L. Anderson,25,M,White
+1612,1864,Steven Del Rio,31,M,Hispanic
+1613,1865,Larry Grant Whitehead,70,M,White
+1614,1868,Dylan Papa,25,M,White
+1615,1867,Robert Lee Brown,55,M,Black
+1616,1869,Jesse Daniel Joynt,35,M,White
+1617,1871,Sadiq Bishara-Abaker Idris,25,M,Black
+1618,1872,Francis Perry,32,M,White
+1619,1873,Jose Torres,38,M,Hispanic
+1620,1874,Ricardo Tenorio,32,M,Hispanic
+1621,1876,Travis Ell,64,M,White
+1622,1879,Gregory Frazier,55,M,Black
+1623,1877,Dennis Claude Stanley,69,M,White
+1624,1897,Adrian Joseph Shaffer,37,M,White
+1625,1875,Terrence Sterling,31,M,Black
+1626,1881,Markell Bivins,25,M,Black
+1627,1882,Christian Vargas,25,M,Hispanic
+1628,1883,Tyre King,13,M,Black
+1629,1884,Robert Carrillo,32,M,Hispanic
+1630,1886,Joseph Allen Schlosser,69,M,White
+1631,1885,Morgan Wayne Crocker,34,M,White
+1632,1889,Jesse Beshaw,29,M,Native
+1633,1893,Lucas Anderson,29,M,White
+1634,1888,Terence Crutcher,40,M,Black
+1635,1890,Robert Duh,42,M,White
+1636,1894,Nicholas Glenn,25,M,Black
+1637,1895,Robert Young,45,M,White
+1638,1896,William Joseph Ryan,55,M,White
+1639,1898,Dahir Adan,22,M,Other
+1640,1891,Philip Hasan,61,M,Black
+1641,1900,Michelle Miller,46,F,White
+1642,1902,Jeremy Ray Swenson,30,M,White
+1643,1907,Gary Don Lafon,56,M,White
+1644,1899,Charles Dove,35,M,White
+1645,1901,Joshua Scott,22,M,White
+1646,1903,Michael Goodale,23,M,White
+1647,1904,Keith Lamont Scott,43,M,Black
+1648,1905,Sandy Joe Duke,43,M,White
+1649,1906,Thomas Tucker,49,M,White
+1650,1908,Austin M. Baier,23,M,White
+1651,1909,Jesse Ataway,41,M,White
+1652,1914,Oddis Bernard Colvin,33,M,Black
+1653,1915,Christopher Contreras,30,M,Hispanic
+1654,1910,Cody Lafont,25,M,White
+1655,1911,Anthony Ray Bauer,52,M,White
+1656,1912,Leeland White,32,M,White
+1657,1916,Nathan DeSai,46,M,White
+1658,1917,Jamie Joseph Lewis,48,M,White
+1659,1918,Alfred Olango,38,M,Black
+1660,1941,John Ethan Carpentier,26,M,White
+1661,1919,Christopher Sowell,32,M,Black
+1662,1920,Johnathan Lozano-Murillo,28,M,Hispanic
+1663,1921,Jeffrey Clair Cave,53,M,White
+1664,1926,Clayton Eugene Baker,38,M,White
+1665,1927,George Richards-Meyers,18,M,Black
+1666,1928,Douglas Marrickus Rainey,32,M,Black
+1667,1929,Richard Parent,37,M,White
+1668,1930,Najier Salaam,18,M,Black
+1669,1931,Jacquarius M. Robinson,20,M,Black
+1670,1923,Joshua Allen Perry,28,M,White
+1671,1925,Carnell Snell,18,M,Black
+1672,1922,Daniel Perez,16,M,Hispanic
+1673,1924,Donte T. Jones,36,M,Black
+1674,1932,Robert Dapkus,57,M,White
+1675,1933,John H. Fetter,49,M,White
+1676,1935,Isaias Salgado,31,M,Hispanic
+1677,1936,Zachary Sutton,26,M,White
+1678,1938,Dean Bruning,51,M,White
+1679,1937,Brandon Simmons,28,M,White
+1680,1939,Lucas M. Felkel,35,M,White
+1681,1944,Larry Daniel Matthews,57,M,Black
+1682,1945,Joseph S. Schroeder,36,M,White
+1683,1946,Eddie Collins,42,M,White
+1684,1948,Christopher Darnell Shackleford,37,M,Black
+1685,1953,Thomas Jeffery Burns,49,M,White
+1686,1942,Ricardo Hernandez,21,M,Hispanic
+1687,1956,Kim Jackson,53,F,White
+1688,2143,Charles Antrup,62,M,White
+1689,1943,Deric J. Brown,41,M,Black
+1690,1954,Luis Michael Hoff,40,M,White
+1691,1950,Maurico Barron,27,M,Hispanic
+1692,1951,Kheyanev Littledog,19,M,Native
+1693,1952,Devan Desnoyers,26,M,White
+1694,1957,Michael L. Taylor,44,M,Asian
+1695,1958,Dominick Musulman,30,M,White
+1696,1959,Blaine J. Beason,31,M,White
+1697,1960,Kirk Figueroa,33,M,Black
+1698,1961,Matthew Brewer,22,M,White
+1699,1964,Patrick D. Reddeck,38,M,White
+1700,1963,Shawn Pappe,46,M,White
+1701,1965,Chaz Logan York,23,M,White
+1702,1969,George Zapata,24,M,Hispanic
+1703,1970,Nicholas McWherter,26,M,White
+1704,1966,Micah Dsheigh Jester,26,F,White
+1705,1967,Sean Arlt,32,M,White
+1706,1971,Rolando Delgado,50,M,Hispanic
+1707,1973,Keegan Schweikle,17,M,White
+1708,1974,Eric St. Germain,39,M,White
+1709,1972,Darius Wimberly,28,M,Black
+1710,1975,Deborah Danner,66,F,Black
+1711,1976,Salvador Reyes,42,M,Hispanic
+1712,1979,Charles Stidham,34,M,White
+1713,1977,Frank J. Sandor,38,M,White
+1714,1982,Javier Munoz,28,M,Hispanic
+1715,1980,Jacob DePetris,29,M,White
+1716,1988,Renee Davis,23,F,Native
+1717,1983,William Frost,58,M,White
+1718,1986,Nathaniel B. Dorough,21,M,White
+1719,1984,Kristofer Daniel Youngquist,45,M,White
+1720,1985,Kenny Tomblin,38,M,White
+1721,1987,Demetrius Mac Moore,40,M,Black
+1722,1989,Aaron Marquis Ballard,19,M,Black
+1723,1990,Roy Lee Richards,46,M,Black
+1724,1991,Brandon Jones,25,M,White
+1725,1992,Chelsea M. Porter,25,F,White
+1726,1993,Brandon Millard,37,M,White
+1727,1994,Malcolm Loren Hickson,25,M,Black
+1728,1996,William Clifford Cole,36,M,White
+1729,1995,Kyle Killough,32,M,White
+1730,1997,Thad Demarco Hale,33,M,Black
+1731,1998,Edwin Amaya Maldonado,24,M,Hispanic
+1732,2000,Jay Johannes Holmgren,37,M,White
+1733,2001,Jason King,38,M,Black
+1734,2002,Jun Wang,45,M,Asian
+1735,1999,Terrence Coleman,31,M,Black
+1736,2003,Kenneth Jack Kennedy,34,M,White
+1737,2004,Jordan Gonzales,23,M,Hispanic
+1738,2006,Michelle Lee Shirley,39,F,Black
+1739,2007,Jose Armando Cueva,55,M,Hispanic
+1740,2035,Ashley Sides,31,F,White
+1741,2008,Henry Simpson,76,M,White
+1742,2009,Wilton Henry,59,M,White
+1743,2010,Jesse Jay Taylor,40,M,White
+1744,2011,Ferguson Laurent,23,M,Black
+1745,2015,Abraham Ortiz,26,M,Hispanic
+1746,2016,Manuel Rosales,35,M,Hispanic
+1747,2017,John F. Zemola,49,M,White
+1748,2020,James Carl Coale,36,M,White
+1749,2021,Russell Elswick,56,M,White
+1750,2023,Patrick Wise,34,M,White
+1751,2018,Joel B. Keenan,43,M,White
+1752,2024,Jimmy L. Testa,31,M,White
+1753,2025,Christian Andrew Redwine,17,M,White
+1754,2027,Joseph Newcomb,32,M,White
+1755,2014,David Contreras,33,M,Hispanic
+1756,2019,Randy J. Clark,43,M,White
+1757,2026,Darryl Chisholm,31,M,Black
+1758,2031,Juan Ramos,23,M,Hispanic
+1759,2032,Evan Cox,26,M,White
+1760,2033,Carlos Mendez,45,M,Hispanic
+1761,2028,Kenton Kobza,19,M,White
+1762,2034,Daniel Erickson,36,M,White
+1763,2036,George Delacruz,41,M,Hispanic
+1764,2038,John Pacuicrk,53,M,White
+1765,2039,Brian Gaither,24,M,White
+1766,2043,Marco Romero,37,M,Hispanic
+1767,2037,Andrew Depeiza,37,M,Black
+1768,2042,James Dale Ritchie,40,M,White
+1769,2045,Richard T. Herrera,29,M,Hispanic
+1770,2040,Juan Carlos Fernandez,22,M,Hispanic
+1771,2041,Daniel Laguna,21,M,Hispanic
+1772,2048,Rasheem Singletary,25,M,Black
+1773,2049,Robert Daffern,37,M,White
+1774,2050,Jose George Anthony Franco,37,M,Hispanic
+1775,2051,Edmund Leighty,56,M,White
+1776,2057,Dontrell Montrese Carter,25,M,Black
+1777,2059,Darius Jones,26,M,Black
+1778,2052,Joseph Leland Fletcher,35,M,White
+1779,2056,Samson Fleurant,25,M,Black
+1780,2053,Adalid Flores,29,M,Hispanic
+1781,2062,Erickson Brito,21,M,Black
+1782,2054,Luke Smith,15,M,Asian
+1783,2061,Andrew Moreno,24,M,Hispanic
+1784,2063,Jacob C. Stevens,18,M,White
+1785,2060,George Bush III,19,M,Black
+1786,2064,Michael Giles,27,M,White
+1787,2065,Mark Daniel Sly,45,M,Hispanic
+1788,2066,Ivory C. Pantallion,36,M,Black
+1789,2067,Frank Nathaniel Clark,34,M,Black
+1790,2068,Talif Scudder,23,M,Black
+1791,2069,William J. Beavers,43,M,White
+1792,2073,Kajuan Raye,19,M,Black
+1793,2071,Cleotha Mitchell,37,M,Black
+1794,2078,Jerome Chris Harmon,23,M,Black
+1795,2142,Carlos Valencia,26,M,Hispanic
+1796,2077,Derek Adame,20,M,Hispanic
+1797,2080,Norman J. Strobel,59,M,White
+1798,2081,Richard Grimes,33,M,Black
+1799,2082,Terrell Walker,48,M,Black
+1800,2075,Walter R. Echols,50,M,White
+1801,2083,Abdul Razak Ali Artan,18,M,Other
+1802,2085,Pablo Renato Cartagena,23,M,Hispanic
+1803,2086,Irecas Valentine,41,M,Black
+1804,2084,Michael McInnis,41,M,White
+1805,2088,Toby Cummins,55,M,White
+1806,2089,Bradley King,29,M,White
+1807,2090,Alexander Chance Partain,31,M,White
+1808,2092,David K. Crosby-Dowdy,25,M,Black
+1809,2091,"Bruce Randall ""Zeus"" Johnson",38,M,Black
+1810,2093,Jose N. Barron Gomez,37,M,Hispanic
+1811,2095,Quinton Phillips,83,M,White
+1812,2096,Dylan M. Dalzell,22,M,White
+1813,2097,Derek Lynn Scott,33,M,White
+1814,2099,Josh Dunne,36,M,White
+1815,2098,Saif Nasser Mubarek Alameri,26,M,Asian
+1816,2101,Norman Gary,29,M,Black
+1817,2103,Richard R. Jones,55,M,White
+1818,2104,Westley Daum,47,M,White
+1819,2105,Steven Wayne Liffel,52,M,White
+1820,2106,Wayne Donald Dorsey,49,M,White
+1821,2108,Keelan Charles Murray,37,M,White
+1822,2109,Redrick Jevon Batiste,37,M,Black
+1823,2111,Daniel Riedmann,36,M,White
+1824,2107,Mark Anthony Hicks,31,M,Black
+1825,2115,Stephen Joshua Whitney,30,M,Other
+1826,2119,Brent Quinn,37,M,White
+1827,2122,Scott MacIntosh,35,M,White
+1828,2113,Waltki Williams,35,M,Black
+1829,2116,Samson G. Varner,36,M,White
+1830,2118,Randy Lee Cumberledge,39,M,White
+1831,2121,Jose Angel Vallarta,30,M,Hispanic
+1832,2123,Amber Lewis,44,F,White
+1833,2127,Gary Leon Herd,24,M,White
+1834,2112,Timothy Case,53,M,White
+1835,2114,Francisco Serna,73,M,Hispanic
+1836,2120,Rainer Tyler Smith,31,M,White
+1837,2125,Kenneth Robledo,28,M,Black
+1838,2126,Lavar Montray Douglas,18,M,Black
+1839,2128,Earl Labon Eubanks,32,M,Black
+1840,2130,Robert James Hess,60,M,White
+1841,2132,Jimmy Lee Lawson,48,M,White
+1842,2134,Fidel Barrios,33,M,Hispanic
+1843,2137,Chassady LeClair,44,M,Native
+1844,2133,Ryan Joseph,20,M,Black
+1845,2135,Paul Kolar,37,M,White
+1846,2136,Ronald Roy Massengale,72,M,White
+1847,2131,Roy Minton,52,M,White
+1848,2140,Martin Gomez,46,M,Hispanic
+1849,2147,Colton Calaway,25,M,White
+1850,2152,Raymond Salaiz,38,M,Hispanic
+1851,2156,Matthew Blake Richardson,27,M,White
+1852,2157,Anthony Lovell Eddington,24,M,Black
+1853,2150,Terrence Thomas,19,M,Black
+1854,2165,Michael Tyler Jacques,31,M,White
+1855,2158,Daquan Antonio Westbrook,18,M,Black
+1856,2163,Miriam Ann Savino,53,F,White
+1857,2166,Zhonghua Li,48,M,Asian
+1858,2159,Gerald Hall,29,M,Black
+1859,2160,James Tylka,30,M,White
+1860,2162,Michael Alan Altice,61,M,White
+1861,2170,Judy Boardman,71,F,White
+1862,2171,Alfonso Lopez,41,M,Hispanic
+1863,2172,Jake Childers,36,M,White
+1864,2175,Christopher Blake Tucker,28,M,White
+1865,2176,Jamal Rollins,21,M,Black
+1866,2181,Ricky Whidden,46,M,White
+1867,2183,Jason Michael Robison,32,M,White
+1868,2179,Chase Anthony Tuseth,33,M,White
+1869,2177,John McLaughlin,42,M,White
+1870,2178,Trevon Johnson,17,M,Black
+1871,2184,Chad Erik Roberts,35,M,White
+1872,2185,Juan Carlos Cuadra,23,M,Hispanic
+1873,2187,Mark Guirguis,21,M,Black
+1874,2180,James E. Lewis,44,M,Black
+1875,2188,Dale Hightower,53,M,White
+1876,2189,James Owens,63,M,Black
+1877,2190,Joshua Martino,18,M,White
+1878,2191,Ruben Randolph,51,M,Black
+1879,2192,Welby O'Dell Mullins,64,M,White
+1880,2193,Richard A. Jackson,45,M,White
+1881,2194,Luis Vargas,20,M,Hispanic
+1882,2195,Randy Wayne Cole,41,M,White
+1883,2197,Sean Ryan Hake,23,M,White
+1884,2200,Jamal Parks,32,M,Black
+1885,2196,Daniel Scott Giberson,25,M,White
+1886,2198,Travis Edward Baker,42,M,White
+1887,2199,William Tucker Mathis,41,M,White
+1888,2201,Hector Navarrete,31,M,Hispanic
+1889,2202,Carlos A. Cruz,50,M,Hispanic
+1890,2203,Gilbert Zambronio-Lovato,38,M,Hispanic
+1891,2204,Jason Aldridge,44,M,White
+1892,2205,JR Williams,38,M,Black
+1893,2206,Davion Henderson,21,M,Black
+1894,2207,Michael Rogers,32,M,White
+1895,2223,Darrion Barnhill,23,M,Black
+1896,2209,Ronnie Johnson,41,M,White
+1897,2210,Hafez Abousamra,41,M,Other
+1898,2215,Jose A. Fernandez-Ventura,38,M,Hispanic
+1899,2211,Kevin Ernest Tree,54,M,White
+1900,2224,Jamison Christopher Anderson,20,M,Native
+1901,2227,Rodney L. Hoback,26,M,White
+1902,2218,Cameron Johnson,29,M,Other
+1903,2221,Scott Laurance Gilpin,47,M,White
+1904,2222,Jahlire Nicholson,28,M,Black
+1905,2216,Eric David Anderson,48,M,White
+1906,2219,Herbert Johnson,34,M,Black
+1907,2217,Sinuon Pream,37,F,Asian
+1908,2220,Dexter Martin Dumarce,33,M,White
+1909,2212,David Wesley Carroll,36,M,White
+1910,2213,Charles Christopher McClure,43,M,White
+1911,2214,Mohammad Azim Doudzai,32,M,Asian
+1912,2226,Christopher Dalton Sexton,29,M,White
+1913,2229,Dominic Hodges,39,M,Hispanic
+1914,2228,Stoney McJunkin,40,M,White
+1915,2231,Genevive Dawes,21,F,White
+1916,2232,Daniel Darnell Stroughter,50,M,White
+1917,2243,Marquis Thomas,19,M,Black
+1918,2245,Melvin DeLong,28,M,Native
+1919,2225,Marlon Joel Rodas-Sanchez,16,M,Hispanic
+1920,2242,William D. Fisher,49,M,White
+1921,2244,Christopher Garza,44,M,Hispanic
+1922,2241,Elijah Smith,25,M,White
+1923,2240,Gino Martin Palazzolo,39,M,White
+1924,2237,Ronnie Lee Shorter,44,M,Black
+1925,2239,Paul Carr Palmer,50,M,White
+1926,2233,Jon M. Alspaugh,57,M,White
+1927,2234,Christopher Thompkins,57,M,Black
+1928,2238,Jorge Victor,33,M,Hispanic
+1929,2235,Angel Ramos,21,M,Hispanic
+1930,2248,Gary Mark Wigley,52,M,White
+1931,2249,Daniel D. Rogers,27,M,White
+1932,2251,Bruce Altenburger,60,M,White
+1933,2253,Armond Brown,25,M,Black
+1934,2246,Josue Gallardo,34,M,Hispanic
+1935,2247,Dakota A. Lukecart,22,M,White
+1936,2254,Arties Manning,26,M,Black
+1937,2255,Antonio Arturo Perez Garcia,27,M,Hispanic
+1938,2256,Jeremy Lopez-Robledo,29,M,Hispanic
+1939,2257,Jonathan David Sper,30,M,White
+1940,2259,Ramon Milanez,32,M,Hispanic
+1941,2258,Jose Efrain Rodriguez,18,M,Hispanic
+1942,2260,Micah R. Lambert,37,M,White
+1943,2261,Kevin Darnell Washington,54,M,Black
+1944,2262,Donovan Paul Scheurich,50,M,White
+1945,2265,Josue Javier Diaz,28,M,Hispanic
+1946,2266,Kerry Lee Coomer,59,M,White
+1947,2267,Deaundre Phillips,24,M,Black
+1948,2268,William Brigham,34,M,White
+1949,2272,Eduardo Hernandez,25,M,Hispanic
+1950,2273,Gerardo Coronado,25,M,Hispanic
+1951,2274,Mi'Chance Dunlap-Gittens,17,M,Black
+1952,2706,Matthew Zank,48,M,White
+1953,2707,Bradley Joseph Szacaks,45,M,White
+1954,2275,Steve Salgado,18,M,Hispanic
+1955,2269,Marvin Washington,50,M,Black
+1956,2270,Jeremy Dowell,36,M,White
+1957,2276,Refugio Alvarez,45,M,Hispanic
+1958,2277,Spencer Herckt,42,M,White
+1959,2278,TK TK,37,M,Black
+1960,2280,Tavis Crane,23,M,Black
+1961,2301,Michael Russo,31,M,Black
+1962,2282,Kris Kristl,26,M,White
+1963,2302,Michael Sword,57,M,White
+1964,2708,Miguel Angel Silva,18,M,Hispanic
+1965,2281,Jose Gonzales Lera,27,M,Hispanic
+1966,2285,Yia Lee,41,M,Asian
+1967,2289,William David Whetstone,33,M,White
+1968,2294,Jamake Cason Thomas,22,M,Black
+1969,2297,Daniel McMasters,38,M,White
+1970,2298,Marco A. Gomez,26,M,Hispanic
+1971,2299,Daniel Loren Rucker,45,M,White
+1972,2288,Johnnie J. Harris,68,M,Black
+1973,2293,Thomas Scott Henry,56,M,White
+1974,2348,Peter Torres,23,M,Hispanic
+1975,2283,Nana Adomako,45,M,Black
+1976,2286,Shelly Porter,41,M,Black
+1977,2300,Andrew Byrd,33,M,Hispanic
+1978,2305,Jerome Allen,22,M,Black
+1979,2306,Cole Wooley,50,M,Black
+1980,2287,Gerardo Vasquez,52,M,Hispanic
+1981,2309,Bradley Nelson,35,M,White
+1982,2310,Curtis Jamal Deal,18,M,Black
+1983,2312,Richard Latimer,34,M,White
+1984,2347,Kenneth B. Huntzinger,51,M,White
+1985,2308,Alex Christopher Davis,18,M,White
+1986,2307,Donald Parker,29,M,White
+1987,2314,Henry James Hunter,34,M,Native
+1988,2343,Chad Robertson,25,M,Black
+1989,2316,Quanice Derrick Hayes,17,M,Black
+1990,2313,Vincent Palma,26,M,White
+1991,2315,Juan Salinas,33,M,Hispanic
+1992,2317,Justin Burton,25,M,White
+1993,2322,Jocques Scott Clemmons,31,M,Black
+1994,2324,Kadhar Bailey,25,M,White
+1995,2325,Ambroshia Fagre,18,F,White
+1996,2330,James Stephen McMullen,45,M,White
+1997,2331,Carlos Keith Blackman,25,M,Black
+1998,2332,Darryl L. Fuqua,23,M,Black
+1999,2326,Michelle Robey,55,F,White
+2000,2318,Jason Robert Mendez,37,M,White
+2001,2320,Pekelo Sanchez,33,M,Asian
+2002,2321,Alonzo E. Ashley,27,M,Black
+2003,2323,William A. Young,32,M,White
+2004,2329,Willard Eugene Scott,31,M,Black
+2005,2333,Bryan Devin Carreno,26,M,Hispanic
+2006,2334,Brandon S. Lambert,32,M,White
+2007,2335,Drey Krause,53,M,White
+2008,2337,Raynard Burton,19,M,Black
+2009,2338,Michael Lee Morris,53,M,White
+2010,2339,David Zimmerman,35,M,White
+2011,2709,Steven C. Oliger,64,M,White
+2012,2342,Kenneth Lee Bailey,24,M,Black
+2013,2344,Andrew McClendon,33,M,White
+2014,2345,Mauro Garnica,55,M,Hispanic
+2015,2346,Kadeem Torres,17,M,Black
+2016,2349,Joseph Tamayo,48,M,Hispanic
+2017,2350,Jimmy Briggs,21,M,Black
+2018,2710,Jonathon  Daniel Simmons,22,M,White
+2019,2359,Joshua Henry,30,M,White
+2020,2361,David English,34,M,White
+2021,2363,Jean R. Valescot,35,M,Black
+2022,2364,Jesse Enjaian,32,M,White
+2023,2351,Chance David Baker,22,M,Black
+2024,2352,Keo Crockett,46,M,Black
+2025,2356,Christopher Carter,27,M,Black
+2026,2358,Sergio Reyes,18,M,Hispanic
+2027,2360,Kyle Riggs,33,M,White
+2028,2362,Manuel Encinas,26,M,Hispanic
+2029,2353,Jason Fanning,27,M,White
+2030,2355,Taylor Hodge,26,M,White
+2031,2357,Douglas Michael Smith,51,M,White
+2032,2365,Don Clark,63,M,Black
+2033,2366,Nicolas Sanchez,38,M,Hispanic
+2034,2367,Bartolo Justice Sambrano,25,M,Hispanic
+2035,2368,Misael Macias Cano,39,M,Hispanic
+2036,2369,Medger Blake,41,M,Black
+2037,2371,Kyle Copson,26,M,White
+2038,2372,Morgan London Rankins,30,F,Black
+2039,2370,David Lee Montano,33,M,Hispanic
+2040,2375,Jimmie Patton,38,M,White
+2041,2376,Steven Valenzuela,24,M,Hispanic
+2042,2377,Timothy Lionel Williams,47,M,Black
+2043,2386,Michael T. Stoudt,62,M,White
+2044,2388,Joey Isgrigg,30,M,White
+2045,2390,Jacqueline Cheyanne Johnson,33,F,White
+2046,2383,Lorenzo Antoine Cruz,23,M,Black
+2047,2384,William Dwayne Darby,39,M,White
+2048,2379,Jacob Taulbee,41,M,White
+2049,2380,Evin Sanna Olsen,46,F,White
+2050,2381,Barry Michael Zumwalt,36,M,White
+2051,2382,James Leroy Marker,66,M,White
+2052,2378,Joey J. Bridges,27,M,White
+2053,2391,Shawn M. Igers,40,M,White
+2054,2393,Earl Riley,25,M,Black
+2055,2394,Christopher Redding,20,M,Black
+2056,2711,Jose Olivares,43,M,Hispanic
+2057,2392,Epthen Lamont Johnson,40,M,Black
+2058,2395,John Hall,33,M,White
+2059,2396,Isidro Bazan Jr,34,M,Hispanic
+2060,2397,Michael Cisneros,27,M,Hispanic
+2061,2398,Rafael Navarro-Garcia,25,M,Hispanic
+2062,2435,Ramon Andrade,37,M,Hispanic
+2063,2401,Michael Kocher,32,M,White
+2064,2403,Dave Phoenix,25,M,Native
+2065,2399,George Lee Seeton,38,M,White
+2066,2400,Joseph Scott Inabinet,50,M,White
+2067,2404,Edward Manning,26,M,White
+2068,2402,Alejandro Valencia Mendez,70,M,Hispanic
+2069,2405,Roy Dale Evans,38,M,White
+2070,2406,Dennis Todd Rogers,41,M,Black
+2071,2407,Frank W. Wratny,91,M,White
+2072,2409,Iaroslav Mosiiuk,25,M,White
+2073,2411,Steven Schiltz,29,M,White
+2074,2410,Jesus Alberto Geney,24,M,Hispanic
+2075,2415,Damon Seitz,40,M,White
+2076,2413,Mark Robert Carlberg,51,M,White
+2077,2447,Brandon Wiley,30,M,Black
+2078,2414,Manuel Gonzalez,28,M,Hispanic
+2079,2412,Michael Anthony Perez,33,M,Hispanic
+2080,2416,Luke O. Stewart,23,M,Black
+2081,2417,Noel Aaron Russell,23,M,White
+2082,2421,Rashad Daquan Opher,20,M,Black
+2083,2419,Christopher Apostolos,56,M,White
+2084,2422,Ryan L. Rosa,36,M,White
+2085,2423,Alexander Meltz,18,M,White
+2086,2424,Shawn Anthony Dumitras,43,M,White
+2087,2426,"Elena ""Ebbie"" Mondragon",16,F,Hispanic
+2088,2418,Cordale Quinn Handy,29,M,Black
+2089,2428,Todd Munson,25,M,White
+2090,2429,Frederick Ricardo Brown,34,M,Black
+2091,2431,Jermaine Claybrooks,32,M,Black
+2092,2433,Daniel Donarski,58,M,White
+2093,2434,Rodney James Hess,36,M,Black
+2094,2432,Patrick Earl Gatson,32,M,Black
+2095,2436,Brentant M. Lahey,25,M,White
+2096,2439,Nancy Jane Lewellyn,59,F,White
+2097,2440,Desmond Phillips,25,M,Black
+2098,2437,Kevin C. Perry,25,M,White
+2099,2438,Benjamin Christian Barnes,42,M,White
+2100,2446,Jason Dennis Watkins,36,M,White
+2101,2441,Clifton Knickmeyer,59,M,White
+2102,2442,Alteria Woods,21,F,Black
+2103,2443,Trevor Allen Brice Gingras,19,M,White
+2104,2444,Mario Simoes,45,M,Hispanic
+2105,2448,Charles Harris,42,M,White
+2106,2450,Don Johnson,27,M,Black
+2107,2477,Nengmy Vang,45,M,Asian
+2108,2449,William Stokes,51,M,Black
+2109,2451,Eddie Davis,42,M,Black
+2110,2453,Francisco Valdez,24,M,Hispanic
+2111,2452,Reno Joseph Owens,39,M,Black
+2112,2456,Austin Tyler Macon,18,M,White
+2113,2458,Matthew Gambaro,26,M,Hispanic
+2114,2454,Fred Barragan,35,M,Hispanic
+2115,2455,Paul Parienlla,53,M,White
+2116,2457,Michael Hornibrook,54,M,White
+2117,2459,Justin Quincy Smith,36,M,White
+2118,2712,David Eric Ufferman,56,M,White
+2119,2460,Steven Hopwood,51,M,White
+2120,2461,Pryor Spencer Bailey,45,M,White
+2121,2462,Richard Alexander Tilley,28,M,White
+2122,2463,Peter J. Doffin,36,M,White
+2123,2467,Lee Pat Milks,73,M,White
+2124,2466,Daniel Hendrix,26,M,White
+2125,2468,Troy Boyle,41,M,White
+2126,2469,Doyle Wayne Johnson,59,M,White
+2127,2470,Leroy Brown,28,M,Black
+2128,2471,Fred Ratliff,45,M,White
+2129,2473,Dennis Wasson,27,M,White
+2130,2474,Christopher Angelo Pizzichetta,46,M,White
+2131,2475,Marcus Williams,34,M,Black
+2132,2476,Phosowath Sengphong,30,M,Asian
+2133,2478,Jose Antonio Hernandez,46,M,Hispanic
+2134,2479,Rogelio Vidal Landa,47,M,Hispanic
+2135,2480,Michael Maldonado,32,M,Hispanic
+2136,2481,Stephen Connard Ferry,65,M,White
+2137,2482,Michael Alcaraz,19,M,Hispanic
+2138,2483,Austin Dakota Snyder,22,M,White
+2139,2484,Christopher Wade,39,M,Black
+2140,2485,Benjamin Ailstock,38,M,White
+2141,2486,Glenn Watenpool,68,M,White
+2142,2487,Richard Xavier Summers,49,M,Black
+2143,2488,Kenneth Francis,37,M,Black
+2144,2495,Jeffrey Lynn Curry,33,M,Asian
+2145,2492,Gregory Kever,25,M,White
+2146,2490,Jose Gonzales Rendon,36,M,Hispanic
+2147,2493,Jeffrey Findlay,30,M,White
+2148,2494,TK TK,39,M,Black
+2149,2496,Zelalem Eshetu Ewnetu,28,M,Black
+2150,2499,Erik Pamias,28,M,White
+2151,2500,Charles Johnston,25,M,White
+2152,2501,Thomas Gezotis,57,M,White
+2153,2502,Charles Shands,33,M,White
+2154,2503,Ivan Wilson,24,M,Native
+2155,2506,Olugbalah Ridley,33,M,Black
+2156,2509,David Airth,56,M,White
+2157,2510,Frederick H. Hall,56,M,White
+2158,2520,Isaiah Murrietta-Golding,16,M,Hispanic
+2159,2508,Darren Jahnke,47,M,White
+2160,2713,Michael Zennie Dial II,33,M,White
+2161,2511,Casey Desper,32,M,White
+2162,2514,Keith Price,21,M,Black
+2163,2513,Marion Lee Holliday,64,M,White
+2164,2515,Damarius Butts,19,M,Black
+2165,2517,Jose Trejo,26,M,Hispanic
+2166,2518,Brandon Pequeno,25,M,Hispanic
+2167,2525,Sariah Marie Lane,17,F,White
+2168,2516,Ray Valdez,55,M,Hispanic
+2169,2519,Chance Rickie Thompson,25,M,White
+2170,2521,Joseph Sin,43,M,Asian
+2171,2522,William D. Spates,39,M,Black
+2172,2523,Michael Wilson-Salzl,24,M,White
+2173,2526,Wayne Noel Simard,70,M,White
+2174,2524,Robert Becker,79,M,White
+2175,2527,Kendell Wilson,16,M,Black
+2176,2531,Jacy Kevin McManus,35,M,White
+2177,2714,Daezion Turner,15,M,Black
+2178,2528,Hakim McNair,23,M,Black
+2179,2529,Fred Cardenas,53,M,Hispanic
+2180,2532,Juan Manuel Avilla,20,M,Hispanic
+2181,2533,Gavin Williams,27,M,Black
+2182,2534,Charles Bossinger,53,M,White
+2183,2536,Jason Thomas Christian,32,M,White
+2184,2530,Selwyn Aubrey Hall,57,M,Black
+2185,2535,Burgon Sealy,26,M,Black
+2186,2537,Tim A. Holmgren,53,M,White
+2187,2542,Avery Richard,32,M,Black
+2188,2547,Luis Fernando Pacheco,25,M,Hispanic
+2189,2538,Jordan Edwards,15,M,Black
+2190,2539,Gene Bernhardt,59,M,White
+2191,2543,Caleb Jackson,35,M,Black
+2192,2546,Andrew James Lucero,33,M,Hispanic
+2193,2540,Devin Hawkins,32,M,White
+2194,2544,Peter Raymond Selis,49,M,White
+2195,2545,James Edward Ray,46,M,Black
+2196,2550,Joseph William Alain,25,M,White
+2197,2551,Jason Sebastian Roque,20,M,Hispanic
+2198,2549,Rodney Henderson,48,M,Black
+2199,2553,Mirza Tatlic,24,M,White
+2200,2554,Malik Carey,18,M,Black
+2201,2555,William Dean,67,M,White
+2202,2556,Nicholas Flusche,26,M,White
+2203,2561,Lucille Espinosa,54,F,Hispanic
+2204,2557,Jacob Peterson,15,M,White
+2205,2558,Cedric Jamal Mifflin,27,M,Black
+2206,2559,Jose Hernandez-Rossy,26,M,Hispanic
+2207,2560,Steven Price,62,M,White
+2208,2562,Landon Nobles,24,M,Black
+2209,2567,Mikel Laney McIntyre,32,M,Black
+2210,2568,Anthony David Soderberg,29,M,White
+2211,2563,Jayson Negron,16,M,Hispanic
+2212,2564,Terry Percy Campbell,25,M,Black
+2213,2565,Joseph Jaster,40,M,White
+2214,2566,John Bittle,39,M,White
+2215,2569,Scott N. Bloomfield,34,M,White
+2216,2617,Ian Thomas Little,36,M,White
+2217,2570,Terrell Kyreem Johnson,24,M,Black
+2218,2571,Robin White,50,F,Black
+2219,2572,Jeroen Peter Koornwinder,50,M,White
+2220,2573,TK TK,37,M,Hispanic
+2221,2575,Ryan Lowell,30,M,White
+2222,2577,Jonathan David Victor,35,M,White
+2223,2578,Phillip O'Shea,46,M,White
+2224,2574,Ronald Singletary,51,M,Black
+2225,2576,Maxwell Holt,37,M,White
+2226,2580,Clarence E. Coats,41,M,Black
+2227,2579,David Jay Juarez,41,M,Hispanic
+2228,2715,James A. Burton,48,M,White
+2229,2581,Jonie Block,27,F,Black
+2230,2582,Jaison Fitzgerald,29,M,Black
+2231,2583,Buford Shane Whitson,47,M,White
+2232,2585,Emmanuel Ibarra,34,M,Hispanic
+2233,2589,Keith Andrew Chesser,48,M,White
+2234,2586,Isabelle Duval,41,F,White
+2235,2587,Tristan Long,25,M,Black
+2236,2588,Edwin Fuentes,24,M,Hispanic
+2237,2591,Marshall Barrus,38,M,White
+2238,2590,Daniel George Boak,28,M,White
+2239,2592,Anthony Paul Ardo,47,M,White
+2240,2593,Roger Bubar,65,M,White
+2241,2599,Shannon Edward Estill,58,M,White
+2242,2594,Jimmie Montel Sanders,33,M,Black
+2243,2595,Joseph M. Hodgin,43,M,White
+2244,2596,Ricco Devante Holden,24,M,Black
+2245,2598,Carlos Garcia Petrovich,37,M,Hispanic
+2246,2600,Aaron M. Thompson,31,M,White
+2247,2602,Michael Anthony Bonini,65,M,White
+2248,2603,John Eno,59,M,White
+2249,2605,Albert Gagnier,74,M,White
+2250,2601,Jorge Alberto Fuentes,21,M,Hispanic
+2251,2604,Hayden J. Stutz,24,M,White
+2252,2606,TK TK,37,M,Hispanic
+2253,2618,Shawn Buck,23,M,White
+2254,2614,Hector Gamboa,59,M,Hispanic
+2255,2615,Jamie J. Robinson,33,M,White
+2256,2616,Joseph Zimmerman,34,M,White
+2257,2612,Ron Harlan Lewallen,30,M,White
+2258,2610,Shaquian Tyrone Johnson,22,M,Black
+2259,2607,Chad Dionne,37,M,White
+2260,2609,Joseph Godinez,20,M,Hispanic
+2261,2631,Roman Jade Carrillo,18,M,Hispanic
+2262,2620,James Gleason,24,M,White
+2263,2621,James Daniel Hill,17,M,White
+2264,2633,Francisco Suarez-Madonado,27,M,Hispanic
+2265,2623,Edward Everett Courtenay,51,M,White
+2266,2624,Charles Darnell Baker,29,M,Black
+2267,2626,Marc Brandon Davis,34,M,Black
+2268,2627,Naway Willy,18,M,Asian
+2269,2628,Corsean Lewis,17,M,Black
+2270,2634,Antonio Gerardo Rodriguez,55,M,Hispanic
+2271,2625,Donald Lee Cramer,44,M,White
+2272,2622,Jeremy Austin Lindsey,27,M,White
+2273,2636,Bruce Dawley,66,M,White
+2274,2632,Charles Edgar Mullins,45,M,White
+2275,2635,John Spaulding,47,M,Black
+2276,2637,Quentin Louis Case,34,M,White
+2277,2638,Adrian Maurice Hardeman,37,M,Black
+2278,2640,Mark Ellis,54,M,White
+2279,2639,Salvadro Alfredo Pablo Lopez,21,M,Hispanic
+2280,2642,Isaiah M. Hammett,21,M,White
+2281,2644,Blaine Robert Erb,35,M,White
+2282,2645,Donald Smith,75,M,White
+2283,2646,Michele Rice,33,F,White
+2284,2647,Oscar Junior,45,M,Hispanic
+2285,2649,Stephen Rich,48,M,White
+2286,2650,Paul Mashburn,58,M,White
+2287,2648,David Jones,30,M,Black
+2288,2652,Antonio Juarez,44,M,Hispanic
+2289,2653,Theodore Brendecke,82,M,White
+2290,2651,Joshua Barre,29,M,Black
+2291,2654,Isaiah Obet,25,M,Other
+2292,2655,Robin Blaylock,53,M,White
+2293,2660,Emmett Edward Hall,60,M,White
+2294,2661,Terry Williams,19,M,Black
+2295,2658,Eleuterio Amaya-Torres,63,M,Hispanic
+2296,2659,John Wesley Bays,50,M,White
+2297,2663,Avery D. Metrejean,35,M,White
+2298,2656,Johnny Platas,45,M,Hispanic
+2299,2657,Austin Durham,24,M,White
+2300,2662,Barry Jones,36,M,White
+2301,2664,Jordan Frazier,35,M,Black
+2302,2665,Chazz Brown,33,M,Black
+2303,2667,James T. Hodgkinson,66,M,White
+2304,2668,Michael Morris,54,M,White
+2305,2666,Tommy Le,20,M,Asian
+2306,2671,Michael Brown,40,M,White
+2307,2669,Robert J. Berube,41,M,White
+2308,2670,Hector Cisneros Soria,30,M,Hispanic
+2309,2676,Sergio Valdovinos,32,M,Hispanic
+2310,2677,Jamie Dougan,24,F,White
+2311,2678,Nathan Banks,37,M,White
+2312,2673,Samantha Aguilar,28,F,Hispanic
+2313,2674,Joseph Paul Hogan,48,M,White
+2314,2672,Charleena Lyles,30,F,Black
+2315,2675,William Webster,64,M,White
+2316,2680,Matthew Colton Stover,21,M,Native
+2317,2681,Alton Folmar,28,M,White
+2318,2684,David Pacas,36,M,Hispanic
+2319,2685,David Bryan Creson,40,M,White
+2320,2686,Jacob Faulkner,32,M,White
+2321,2687,Robb Stewart,50,M,White
+2322,2683,Pedro Ramirez,28,M,Hispanic
+2323,2688,Brandon D. Lukenbill,33,M,White
+2324,2690,Daniel Francisco Valenzuela,37,M,Hispanic
+2325,2691,Armando Garcia-Muro,17,M,Hispanic
+2326,2693,Santino Trevino,20,M,Hispanic
+2327,2704,Jesus Ramon Deltoro,34,M,Hispanic
+2328,2699,Cameron Ollman,37,M,White
+2329,2701,Christopher Michael Murray,24,M,White
+2330,2702,Jimmie Bevenue,47,M,White
+2331,2703,Giovonn Joseph-McDade,20,M,Black
+2332,2692,Lawrence Heyward Jr.,56,M,Black
+2333,2695,Deveonte Johnson,24,M,Black
+2334,2696,Nicholas Johnston,47,M,White
+2335,2694,Rip Huntington,36,M,Hispanic
+2336,2705,Jason Magana Herrera,35,M,Hispanic
+2337,2718,Rodney L. Cole,37,M,Black
+2338,2717,Aaron Bailey,45,M,Black
+2339,2720,Marco Cardoza,41,M,Hispanic
+2340,2723,Joel Gatu Muturi,23,M,Black
+2341,2724,Jose Guillermo Flores Colon,37,M,Hispanic
+2342,2725,Chet Knuppel,23,M,White
+2343,2726,Brett Rodriguez,33,M,Hispanic
+2344,2727,Patrick Sanchez,23,M,Hispanic
+2345,2730,Quintec Locke,37,M,Black
+2346,2733,Jeremy Holmes,19,M,Asian
+2347,2728,Tyson Williams,39,M,White
+2348,2729,Daniel Craven,53,M,White
+2349,2732,John Donadio,51,M,White
+2350,2736,Holden Gorka,25,M,White
+2351,2738,Christopher Henry Cashell,45,M,White
+2352,2737,Miguel Gonzales,28,M,Hispanic
+2353,2739,Dana Dubose,36,M,Black
+2354,2740,Cody Ray McCray,32,M,Hispanic
+2355,2741,Donald Martin,39,M,White
+2356,2750,Douglas West,46,M,White
+2357,2926,Tyrone Orvy Peabody,53,M,Native
+2358,2927,Zepp Crouchet,42,M,Black
+2359,2742,Alexander Bonds,34,M,Black
+2360,2743,Tiffany Lynn Potter,29,F,White
+2361,2746,"Edwin ""Beanie"" Esker",53,M,White
+2362,2747,Jamie Huskey,45,M,White
+2363,2748,Jonathan Coronel,24,M,Hispanic
+2364,2749,Carroll Tuttle,51,M,White
+2365,2744,Jesus Cervantes,35,M,Hispanic
+2366,2745,Dejuan Guillory,27,M,Black
+2367,2751,Brian Easley,33,M,Black
+2368,2752,TK TK,16,M,White
+2369,2765,Kareem Ali Nadir Jones,30,M,Black
+2370,2757,Michael Anthony Rude,22,M,Asian
+2371,2758,Cardell Vance III,23,M,Black
+2372,2760,Tina Medlin,50,F,White
+2373,2753,Ryan A. Probst,28,M,White
+2374,2754,Robert Yeiser,34,M,White
+2375,2755,Brayant Alvarez,24,M,Hispanic
+2376,2761,Edward Taylor,54,M,Black
+2377,2762,Cody Ethan Mitchell,26,M,White
+2378,2764,Gregory Shawn Thrower,39,M,White
+2379,2766,Randy Engstrom,34,M,White
+2380,2767,Caleb Edward Blaylock,27,M,White
+2381,2768,Steve Scott,48,M,White
+2382,2769,Antonio Garcia Jr.,47,M,Black
+2383,2770,Silas Andrew Smith,54,M,White
+2384,2771,Dorsey Glenn Taulbee Jr.,33,M,Native
+2385,2772,James Gerald Davis,40,M,White
+2386,2773,Keith Alan Eustace,58,M,White
+2387,2774,Chancey Chamblee,55,M,White
+2388,2775,Stephen Steele,47,M,White
+2389,2776,Pedro Rubio,42,M,Hispanic
+2390,2778,Gerber Dieguez,29,M,Hispanic
+2391,2779,Justine Damond,40,F,White
+2392,2780,Vaughn Shaw,23,M,Black
+2393,2781,Keith Wade,23,M,White
+2394,2782,India N. Nelson,25,F,Black
+2395,2783,Ernesto Sedillo,52,M,Hispanic
+2396,2784,Eric Wesley Clark,43,M,White
+2397,2785,Jose Cazares,37,M,Hispanic
+2398,2786,Daniel Thomas Reid,32,M,White
+2399,2787,Robert Earl Vaughan,70,M,White
+2400,2789,Nolan Cornett,24,M,White
+2401,2790,Anthony Benavidez,24,M,Hispanic
+2402,2791,Farhad Jabbari,38,M,Other
+2403,2792,Joshua Daniels,52,M,White
+2404,2793,Isaiah Perkins,27,M,Black
+2405,2794,Yahir Breito,22,M,Hispanic
+2406,2797,Vicente Velasquez,42,M,Hispanic
+2407,2795,Walter Lynde,49,M,White
+2408,2796,Michael Caponigro,59,M,White
+2409,2799,Ismael Lopez Rodriguez,41,M,Hispanic
+2410,2800,Kyle Scott Rushing,34,M,White
+2411,2798,Jerrod Kershaw,31,M,White
+2412,2801,Alexander J. Schoessel,23,M,White
+2413,2802,Michael Joseph Harris,28,M,White
+2414,2803,Moises Balladares,33,M,Hispanic
+2415,2805,Aries Clark,16,M,Black
+2416,2804,Andrew Collins,35,M,White
+2417,2806,Giovani Casiano,26,M,White
+2418,2807,Susan Teel,62,F,White
+2419,2808,Kesharn K. Burney,25,M,Black
+2420,2809,Sergio Velasco-Martinez,25,M,Hispanic
+2421,2811,Matthew Folden,31,M,White
+2422,2812,Alejandro Alvarado,35,M,Hispanic
+2423,2816,Jerauld Phillip Hammond II,46,M,White
+2424,2820,Deltra Henderson,39,M,Black
+2425,2929,Michael Fitzgerald,26,M,White
+2426,2813,Raymond Cruz,37,M,Hispanic
+2427,2819,Brian J. Skinner,32,M,White
+2428,2822,Rodney E. Jacobs,31,M,Black
+2429,2818,Dennis W. Robinson,48,M,White
+2430,2930,Jashod Arthur Carter,29,M,Black
+2431,2815,Dwayne Jeune,32,M,Black
+2432,2817,Isaiah Tucker,28,M,Black
+2433,2823,Robert Savelli,43,M,White
+2434,2824,Norberto Nieblas Reyes,39,M,Hispanic
+2435,2825,Kerry Bradley,37,M,Black
+2436,2827,Franklin Oden,39,M,White
+2437,2830,Mikle Eugene Dixon,42,M,White
+2438,2832,Mark Anthony Sanchez,33,M,Hispanic
+2439,2843,Miguel Salas,25,M,Hispanic
+2440,2829,Preston Thornton,29,M,Black
+2441,2833,Jeffrey Barboa,45,M,Hispanic
+2442,2834,Quintas Harris,27,M,Black
+2443,2854,Phillip Rhoades,28,M,White
+2444,2846,Keith Burkholder,57,M,White
+2445,3060,Kemonte Cobbs,15,M,Black
+2446,2835,Aaron Payne,33,M,White
+2447,2836,Cory Stephens,35,M,White
+2448,2837,TK TK,47,M,Black
+2449,2838,Jeremy Gabrial,31,M,White
+2450,2845,Melissa Wiseman,36,F,White
+2451,2847,Joseph Miller,54,M,White
+2452,2840,Timmy Wilson,24,M,White
+2453,2844,Pablo Garcia,35,M,Hispanic
+2454,2839,Kyle Andrew Lankford,32,M,White
+2455,2842,Danatae Franklin,28,M,Black
+2456,2841,Winston Espino Sanchez,45,M,Hispanic
+2457,2848,Jose Ortiz,29,M,Hispanic
+2458,2850,Christopher K. Sales,36,M,White
+2459,2849,Peter James Robbins,23,M,White
+2460,2852,Darreon Neal,17,M,Black
+2461,2851,Eugene Nelson,20,M,Black
+2462,2853,Mark P. Coffey,33,M,White
+2463,2856,Eric Bogart,49,M,White
+2464,2857,Tyrease Carlyle,31,M,Black
+2465,2858,Eduardo Navarrete,35,M,Hispanic
+2466,2859,Christopher Collins,24,M,White
+2467,2860,Roger Burzinski,54,M,White
+2468,2861,Carmen William Rongione,41,M,White
+2469,2862,Patrick Harmon,50,M,Black
+2470,2863,Hussein Hassan,46,M,Black
+2471,2864,Steven James Young,45,M,White
+2472,2865,Robert Emmett Bracewell Jr.,20,M,White
+2473,2866,Herbert Gilbert,37,M,Black
+2474,2872,Kenneth Lewis,34,M,Black
+2475,2873,James Midkiff,54,M,White
+2476,2882,Peter Daniel Grima,65,M,White
+2477,2883,Edgar Ramirez Carreto,28,M,Hispanic
+2478,2879,Clarence Belsar III,26,M,White
+2479,2881,Derrick Rashard Brabham,25,M,Black
+2480,2875,Thomas Justin Walton,32,M,White
+2481,2876,Jonathan Bolger,44,M,White
+2482,2877,Keshawn Wilson,32,M,Black
+2483,2884,Jeffrey Jacobs,42,M,White
+2484,2885,Dennia Flowers,66,M,White
+2485,2886,Tyler Whitmire,22,M,White
+2486,2888,Nathaniel Richmond,51,M,Black
+2487,2892,Thomas Selje,64,M,White
+2488,2887,Kiwi Herring,30,F,Black
+2489,2890,Henry Rivera Jr.,71,M,Hispanic
+2490,2891,Robert Earl Adams,30,M,White
+2491,2893,Konstantin Morozov,48,M,White
+2492,2988,Mark Aaron Jensen,56,M,White
+2493,2894,Ciara Howard,26,F,White
+2494,2895,Colton Puckett,28,M,White
+2495,2896,Isaias Raziel Ochoa,19,M,Hispanic
+2496,2898,Scott Mayfield,24,M,Black
+2497,2897,Daniel Blyler,44,M,White
+2498,2899,Kristen Ambury,28,F,White
+2499,2900,Charles David Robinson,47,M,Black
+2500,2901,Michael Malik Kawon Lee,18,M,Black
+2501,2902,William Wilson,26,M,Hispanic
+2502,2903,Jason Hoops,33,M,White
+2503,2904,Dwayne Martin,34,M,White
+2504,2905,Kostatinos Sfaelos,62,M,White
+2505,2906,William Matthew Holmes,24,M,Black
+2506,2907,Ricky Ard,55,M,Black
+2507,2909,Joshua Mark Cloud,22,M,White
+2508,2910,Brandy Caldwell,46,F,White
+2509,2911,Anthony Antonio Ford,27,M,Black
+2510,2918,Thomas Daniel Littlecloud,32,M,Native
+2511,2912,Issac Cervantes,22,M,Hispanic
+2512,2913,Debi Lynn Thorkelson,54,F,White
+2513,2914,Michael Battles,32,M,White
+2514,2915,Roger Helgerson,45,M,White
+2515,2916,Daniel Gillis,36,M,White
+2516,2919,Antwon Springer,37,M,Black
+2517,2920,Henry Stephen Rakoz,47,M,White
+2518,2921,William Porubsky,30,M,White
+2519,2941,Jarvis Hayes,31,M,Black
+2520,2923,Shane Marsh,44,M,White
+2521,2922,James Fuller,52,M,White
+2522,2934,Daniel Wheelock,16,M,White
+2523,2931,Rueben Galindo,29,M,Hispanic
+2524,2932,Timothy Elam,42,M,White
+2525,2933,Miguel Richards,31,M,Black
+2526,2944,Eric Dwan Arnold,41,M,Black
+2527,2942,Billy Joe Elmore,45,M,White
+2528,2943,Michael Culhane,50,M,White
+2529,2940,Ervin Eugene Sweat Jr.,26,M,Black
+2530,2935,Erick Perez,22,M,Hispanic
+2531,2936,Joseph Charles Cook,76,M,White
+2532,2937,Frankie Santos,58,M,Hispanic
+2533,2938,Spencer Hight,32,M,White
+2534,2939,Juan Flores,19,M,Hispanic
+2535,2945,Thomas Addison,25,M,Native
+2536,2946,Brian Patrick Allen,48,M,White
+2537,2947,Vincent Edward Hernandez Jr,39,M,Hispanic
+2538,2948,Rodolfo Ballardo,31,M,Hispanic
+2539,2955,Gary Joe McCourt,50,M,White
+2540,2950,Ruben Urbina,15,M,Hispanic
+2541,2954,Matthew Michael McTague,48,M,White
+2542,2957,Jacob Dominguez,32,M,Hispanic
+2543,2956,Scout Schultz,21,M,White
+2544,2960,Nicholas K. Perkins,37,M,White
+2545,2961,Brian Ziro,21,M,Black
+2546,2958,Eric Alvarez,40,M,Hispanic
+2547,2959,Jesse VanSipe,33,M,White
+2548,2962,Joshua Stubbs,25,M,White
+2549,2963,Jimme Knight Smith,55,M,White
+2550,2964,Randall Ross,53,M,White
+2551,2967,David Scott,27,M,White
+2552,2965,Magdiel Sanchez,35,M,Hispanic
+2553,2968,Eddie Russell Jr.,25,M,Black
+2554,2969,Haraesheo Rice,31,M,Black
+2555,2970,Mack Brinkley,70,M,White
+2556,2972,Matthew Wells,40,M,White
+2557,2973,Austin Dunsmore,25,M,Other
+2558,2974,Jose Felix Reyes,38,M,Hispanic
+2559,2971,Alexander Ochoa,26,M,Hispanic
+2560,2977,Dillan Tabares,27,M,Other
+2561,2979,TK TK,37,M,White
+2562,2980,Scott Farnsworth,28,M,White
+2563,2981,Bryan Wright,40,M,White
+2564,2982,Scott Michael Chamberlain,44,M,White
+2565,2975,Damien Murray,39,M,Black
+2566,2983,Jarred Burke,24,M,White
+2567,2976,Anthony Robinson,32,M,Black
+2568,2978,Cody O'Bryan,31,M,White
+2569,2984,Jeffory Hughes,50,M,White
+2570,2985,Roger Craig Nielsen,31,M,White
+2571,2986,Craig A. Johnson,50,M,White
+2572,2987,Demilo Trayuon Hodge,45,M,Black
+2573,2989,Anthony Wallace,44,M,White
+2574,2990,Guy Lynn Scott,48,M,White
+2575,2991,Michael Bruce Peterson,39,M,White
+2576,3202,Dominique Tyrell White,30,M,Native
+2577,2992,Quentin Starke,44,M,White
+2578,2993,Tyrell Dewayne Pinkston,28,M,Black
+2579,2994,Lester Jesus Machado,24,M,Hispanic
+2580,2995,"Marquis ""Bubba"" Jones",27,M,Black
+2581,2997,Anthony Gallo,34,M,White
+2582,2998,Micah McComas,41,M,White
+2583,3000,George Randall Newman,26,M,White
+2584,3022,Joshua Lanflisi,38,M,White
+2585,2999,Kevin Anthony Battaglia,33,M,White
+2586,3001,Marquinton T. Brooks,22,M,White
+2587,3002,John Loaiza,40,M,White
+2588,3011,Chad Cochell,34,M,White
+2589,3012,Sandy Guardiola,48,F,Black
+2590,3013,Jomekia Minter,37,M,Black
+2591,3021,Michael Ferrell,67,M,White
+2592,3009,Brandon Lee Bohanon,35,M,White
+2593,3014,Cristino Umana-Garcia,29,M,Hispanic
+2594,3015,Phumee Lee,28,M,Asian
+2595,3018,Johnny Ray Leeds,40,M,White
+2596,3019,German Ornelas,31,M,Hispanic
+2597,3005,Dale Sisson,51,M,White
+2598,3010,Garrett Hoose,47,M,White
+2599,3017,Ernesto Padron,52,M,Hispanic
+2600,3204,Matthew Jonathan Luis Hurtado,28,M,Hispanic
+2601,3016,Roberto Callejas,35,M,Hispanic
+2602,3023,Samuel David Lanham,25,M,White
+2603,3003,Roberto Avendano,37,M,Hispanic
+2604,3004,Sabrina Ann Garcia,34,F,Hispanic
+2605,3006,Albert Garcia,58,M,Hispanic
+2606,3007,Corey Boykin,24,M,Black
+2607,3008,Cariann Hithon,22,F,Black
+2608,3033,Glenn Southwood Jr.,46,M,White
+2609,3025,Vincent Dronet,61,M,White
+2610,3027,Brandon Wade Rucker,43,M,White
+2611,3030,Kristian Martinez,44,M,Hispanic
+2612,3029,John Robert Payne,35,M,Black
+2613,3031,Sean D. Brady,29,M,White
+2614,3036,Paul Dolen,57,M,White
+2615,3037,J.C. Hawkins,42,M,Black
+2616,3035,Michael David Lopez,44,M,Hispanic
+2617,3034,Eric Garrison,20,M,Black
+2618,3039,James Michael Chappell,32,M,White
+2619,3041,Luis David Flores,34,M,Hispanic
+2620,3042,Ezekiel Juan Duran,18,M,Hispanic
+2621,3040,Joshua Clayton Johnson,31,M,White
+2622,3043,DeAndre Bethea,24,M,Black
+2623,3044,Daniel Spear,35,M,White
+2624,3045,Mitchell Fox,34,M,White
+2625,3047,Matthew Whitley,26,M,White
+2626,3050,Dewboy Lister,55,M,Black
+2627,3049,Steven Wayne Truex,38,M,White
+2628,3048,Jamarco McShann,23,M,Black
+2629,3052,Phillip Joel Trammell,30,M,White
+2630,3053,Victor Gonzalez,44,M,Hispanic
+2631,3054,Jason Marble,37,M,White
+2632,3055,Nicholas Pimentel,27,M,Hispanic
+2633,3058,Johnny Bonta,43,M,Native
+2634,3059,Samantha Hennard,25,F,White
+2635,3061,Dexter David Anthony Baxter,30,M,Native
+2636,3062,Matthew David Palaita,35,M,Hispanic
+2637,3064,Ashleigh Bertucci,31,F,White
+2638,3069,George Gipp,35,M,Native
+2639,3066,Sean Bohinski,37,M,White
+2640,3067,Brandon Uzialko,25,M,White
+2641,3065,David Campos,34,M,Hispanic
+2642,3068,Timothy Earl Jackson,33,M,Black
+2643,3070,Antonio Levison,33,M,Black
+2644,3071,Sanders Surber,32,M,White
+2645,3073,James M. Davis,34,M,White
+2646,3074,Jerry Richardson,46,M,Black
+2647,3075,Danny Sanchez,40,M,Hispanic
+2648,3076,Lucas DeFord,27,M,Native
+2649,3077,Baltazar Escalona-Baez,17,M,Hispanic
+2650,3078,Eric Higgs,46,M,Black
+2651,3080,Mark Bidon,50,M,White
+2652,3107,Brandon Lee Flowers,41,M,White
+2653,3205,Kalin Jackson,23,M,Black
+2654,3079,Robert James Lightfeather,33,M,Native
+2655,3081,Jesus Birelas-Contreras,25,M,Hispanic
+2656,3082,Luvelle Kennon,27,M,Black
+2657,3085,Paul Landis Gorden,39,M,White
+2658,3086,Vincent Hall,22,M,Black
+2659,3087,Heather Denean Bubrig,37,F,White
+2660,3088,Jamee Almarez,27,M,Hispanic
+2661,3089,Christopher Jacobs,28,M,White
+2662,3090,Wallace Jory,56,M,White
+2663,3091,Jerry Roach,71,M,White
+2664,3097,Robert Powell,53,M,White
+2665,3105,Christopher Edward Loftis,39,M,White
+2666,3093,Nyung Kyee,56,M,Asian
+2667,3096,Raymond Davis,24,M,Black
+2668,3099,Michael Wayne Marin,35,M,White
+2669,3100,Frank Half,30,M,Native
+2670,3102,Mason Johnson,31,M,White
+2671,3103,Augustus Joshua Crawford,20,M,Black
+2672,3095,John Quincy Grady,35,M,White
+2673,3108,Marylsa Sanchez,31,F,Hispanic
+2674,3111,Eddie Lee Patterson,49,M,Black
+2675,3109,Pamela Webber,54,F,White
+2676,3112,TK TK,48,M,White
+2677,3106,Talathia Brooks,32,F,White
+2678,3110,Jarrett Varnado,35,M,Black
+2679,3113,James Jacob Bailey,30,M,White
+2680,3114,Roger Raymond York,32,M,White
+2681,3115,Victor Demetrius Bray,31,M,White
+2682,3117,Jason Ike Pero,14,M,Native
+2683,3118,Paul Jones,25,M,Black
+2684,3119,Joseph Santos,32,M,White
+2685,3120,Charles Edwin Nickels,35,M,White
+2686,3127,Kiser L. Sturgell,27,M,White
+2687,3128,Ashley Jenkins,23,F,White
+2688,3125,Terry A. Dubois,55,M,White
+2689,3126,Thomas Aikens,43,M,Black
+2690,3129,Ronald L. Klitzka,62,M,White
+2691,3130,John Bazemore III,25,M,Black
+2692,3131,TK TK,37,M,Black
+2693,3133,Matthew Joseph Scudero,50,M,White
+2694,3122,Shane Jensen,19,M,White
+2695,3123,Phillip Pitts,41,M,Black
+2696,3132,Eddy Longoria,55,M,White
+2697,3121,Larry Ruiz-Barreto,19,M,Hispanic
+2698,3134,Cornell Lockhart,67,M,Black
+2699,3135,Calvin Toney,24,M,Black
+2700,3137,Kevin J. Neal,44,M,White
+2701,3139,Dustin Robert Pigeon,29,M,Asian
+2702,3141,Thomas Barclay,48,M,White
+2703,3142,Oscar Anaya,22,M,Hispanic
+2704,3143,TK TK,37,M,Black
+2705,3144,Phillip Van Cise,59,M,White
+2706,3207,Chester Randolph Ward,68,M,Black
+2707,3145,Martin Jim,25,M,White
+2708,3146,Isaac Padilla,23,M,Hispanic
+2709,3152,Shady Bell,46,M,Black
+2710,3167,Bijan C. Ghaisar,25,M,White
+2711,3208,Seth Hardwick,30,M,White
+2712,3149,Lawrence Hawkins,56,M,Black
+2713,3150,Preston Bell,24,M,Native
+2714,3151,Brian Calvert,18,M,White
+2715,3148,Jacob McCarty,27,M,White
+2716,3153,Matthew Donald Tobin,26,M,White
+2717,3154,Seth William Johnson,15,M,White
+2718,3155,Emilio John Cruz Hernandez,26,M,Hispanic
+2719,3161,Nikolas Wanner,32,M,White
+2720,3162,Rehyen Bost-McMurray,17,M,Black
+2721,3163,Jackie Germaine Ragland,32,M,Black
+2722,3210,David Leroy Thelen,43,M,White
+2723,3160,Rocky Miles West,26,M,White
+2724,3166,Steve Steenhard,51,M,White
+2725,3159,Nelson F. Rodarte,39,M,Hispanic
+2726,3156,Johnny Castro,43,M,Hispanic
+2727,3157,William Freddy Carter Jr.,31,M,White
+2728,3158,Daniel Navarro,22,M,Hispanic
+2729,3165,Christian Chavez,40,M,Hispanic
+2730,3168,Robert Claude Smith,64,M,White
+2731,3169,Lucas Stone,30,M,White
+2732,3170,James C. Danforth,59,M,White
+2733,3174,Aquoness Cathery,24,M,Black
+2734,3172,Rufus Cedric Baker,32,M,Black
+2735,3175,Juan Andres Barillas,37,M,Hispanic
+2736,3173,Trent Fondren,33,M,White
+2737,3176,Keita O'Neil,42,M,Black
+2738,3177,Mario Guevara,37,M,Hispanic
+2739,3180,Christopher Louis Willard,33,M,White
+2740,3178,Gregory Ray Ham,62,M,White
+2741,3181,Jeffrey Scott Cantrell,46,M,White
+2742,3182,Mario Sanabria,69,M,Hispanic
+2743,3183,Johnnie D. Carter,24,M,Black
+2744,3184,Jean Pedro Pierre,42,M,Black
+2745,3186,Scott Addison,49,M,White
+2746,3187,Jesse Cole Shuping,35,M,White
+2747,3188,Kyler Grabbingbear,19,M,Native
+2748,3189,John Souder,40,M,White
+2749,3190,Frederick Douglas Wilburn,34,M,Black
+2750,3193,Vernchoy Saechao,22,M,Asian
+2751,3191,Juliun Pitcher,16,M,White
+2752,3197,James Newman,69,M,White
+2753,3192,Kyle Zahacefski,24,M,White
+2754,3194,Kyle Anthony Mihecoby,28,M,Native
+2755,3199,Stacy Micheletti,51,M,White
+2756,3213,Zoe Dowdell,20,M,Black
+2757,3212,Clifford Keller,34,M,White
+2758,3215,Michael Wilson,27,M,Black
+2759,3221,Todd A. Stone,48,M,Black
+2760,3222,Robert Edwards,33,M,White
+2761,3229,Kameron Prescott,6,M,White
+2762,3239,Jose Aguero,26,M,Hispanic
+2763,3237,Jeffrey John Golnick,40,M,White
+2764,3240,Evilio Gomez,46,M,Hispanic
+2765,3265,Cody Dalton Eyre,20,M,White
+2766,3244,Jesse Scarsbrook,28,M,Black
+2767,3245,Robo Raikoglo,30,M,White
+2768,3263,Joshua Paul Spottedhorse,36,M,Native
+2769,3249,Dennis Plowden,25,M,Black
+2770,3250,Andrew Finch,28,M,White
+2771,3267,Kenneth J. Perna-Rutsky,38,M,White
+2772,3256,Corey Bailey,30,M,Black
+2773,3255,Marco Antonio Carlos,31,M,Hispanic
+2774,3257,Heath Wayne Hodges,36,M,White
+2775,3275,Mark Steven Parkinson,65,M,White
+2776,3288,Archie Lawhon III,42,M,White
+2777,3289,Gary Johns,65,M,White
+2778,3291,Shana Diane Musquiz,30,F,White
+2779,3292,Ronald Elliot,49,M,White
+2780,3294,Louis C. Miller,66,M,White
+2781,3286,Shaleem Tindle,28,M,Black
+2782,3287,Robert Hansen,27,M,White
+2783,3295,Brandon O. Cude,31,M,White
+2784,3278,William B. Oleson,46,M,White
+2785,3283,Ledarren D. Mixon,28,M,Black
+2786,3293,Andy Vo,35,M,Asian
+2787,3268,Daniel Saavedra-Arreola,24,M,Hispanic
+2788,3271,Charles Smith Jr.,17,M,Black
+2789,3272,Jonathan William Leroy,39,M,White
+2790,3274,Richard Rangel,21,M,White
+2791,3280,Skyler Burnette,21,M,Native
+2792,3281,Guillermo Mendoza,57,M,Hispanic
+2793,3285,Gregory Stough,27,M,White
+2794,4207,Jackie Harlan Roberts,62,M,White
+2795,3282,John Bailon,40,M,Black
+2796,3269,Trayvon Mitchell,38,M,Black
+2797,3270,Alejandro Valdez,27,M,Hispanic
+2798,3276,Richard R. Towler,54,M,Black
+2799,3290,Michael Bender,27,M,White
+2800,3277,Tyler Miller,51,M,White
+2801,3297,Eugene Loftis,25,M,White
+2802,3299,Primitivo Macias-Rodriguez,46,M,Hispanic
+2803,4208,Travis Griffin,20,M,Black
+2804,3298,Frank William Pawul,32,M,White
+2805,3300,Thompson Nguyen,27,M,Asian
+2806,3301,Shalun Dique Smith,21,M,Black
+2807,3302,Jose Arroyo-Rosales,60,M,Hispanic
+2808,3304,Justin Coy Adkins,44,M,White
+2809,4242,Jonathan Bennett,23,M,Black
+2810,3308,Jared S.R. Williams,31,M,White
+2811,3313,Terry Amons,43,M,Black
+2812,3314,Jason D. Whittemore,39,M,White
+2813,3315,Remi Sabbe,54,M,White
+2814,3316,Amanuel Dagebo,22,M,Black
+2815,4243,Jeffrey Alan Burleson,37,M,White
+2816,3307,Joseph Hilton,42,M,White
+2817,3311,Christian Escobedo,22,M,Hispanic
+2818,3309,Robert Martinez,42,M,Hispanic
+2819,3305,Nathan Giffin,32,M,White
+2820,3306,Victor M. Reyes,30,M,Hispanic
+2821,3323,Kerry Lee Nield,53,F,White
+2822,3318,Bailey Turner,27,M,White
+2823,3319,Geraldine Townsend,72,F,Black
+2824,3320,Jihad Merrick,29,M,Black
+2825,3321,Brian Gregory,34,M,Black
+2826,3322,Donte D. Shannon,26,M,Black
+2827,4244,Jordan Keckhut,22,M,Hispanic
+2828,4245,Joseph Edward Haynes,16,M,White
+2829,3324,Kevin Sturgis,31,M,Black
+2830,3325,Marshall Coleman,58,M,White
+2831,3326,Nicholas Daniel Moore,23,M,White
+2832,3327,Jason Lappe,44,M,White
+2833,3328,Shannon Jason Cables,46,M,White
+2834,3329,Arther McAfee Jr.,61,M,Black
+2835,3330,John Albers,17,M,White
+2836,3331,Ronald Jay Lawson,46,M,White
+2837,3332,Ilkka O. Hiironen,35,M,White
+2838,3333,Joshua Dale Prough,36,M,White
+2839,3334,Aaron Olivarez Candanoza,28,M,Hispanic
+2840,3335,Jonathan Duane Atchley,37,M,White
+2841,3336,Edward C. Gandy,47,M,White
+2842,3337,Joe Delira-Alires,35,M,Hispanic
+2843,3339,Joseph E. Knight,40,M,White
+2844,3342,Ricky Jerome Boyd,24,M,Black
+2845,3343,Alvaro Herrera,18,M,Hispanic
+2846,3344,Corey Mobley,38,M,Black
+2847,3350,Shane McVey,54,M,White
+2848,3346,Humberto Vera-Munoz,27,M,Hispanic
+2849,3351,David Byron Kidney,62,M,White
+2850,3348,William Charles Mackenzie,66,M,White
+2851,3349,Ulises Valladares,47,M,Hispanic
+2852,3352,Dustin Gonzales Castillo,19,M,Hispanic
+2853,3353,Steven Hutchins,27,M,White
+2854,3345,Christopher Eric Giles,23,M,White
+2855,3347,Axell Vivas,42,M,Hispanic
+2856,3358,Nathaniel T. Edwards,43,M,Black
+2857,3361,Matthew Zimmerman,42,M,White
+2858,3357,William Pollard,45,M,Black
+2859,3359,Crystalline Barnes,21,F,Black
+2860,3360,Kirsten Kloppe,43,F,White
+2861,3354,Anthony S. McDaniel,45,M,White
+2862,3355,Billy Lewis Rucker,33,M,Black
+2863,3356,Paul David Johnson,38,M,White
+2864,3362,Gregory Kocian,33,M,White
+2865,3364,TK TK,46,M,Hispanic
+2866,3365,Michael Hansford,52,M,Black
+2867,4246,Mark Renee Flores,46,M,Hispanic
+2868,3366,Ricky Leon Rusche,40,M,White
+2869,3367,Gilbert Salas,20,M,Hispanic
+2870,3368,Adrian Valdez,39,M,Hispanic
+2871,3369,James M. Burks,35,M,White
+2872,3370,Albert E. Morton,31,M,Black
+2873,3371,Daniel O. El,32,M,Black
+2874,3372,William Young,56,M,White
+2875,3373,Anthony Joe Williams,37,M,Black
+2876,3374,Alexander W. Simpson,32,M,White
+2877,3375,Brett Dontae Bush,28,M,Black
+2878,3376,Taylor Schnortz,26,M,White
+2879,3377,Charlie Shoupe,27,M,White
+2880,3379,Mitchell Kitchen,37,M,Black
+2881,3381,Alan Greenough,43,M,White
+2882,3383,Ernie Lizana,49,M,White
+2883,3382,Anthony Jacob Weber,16,M,Black
+2884,3384,Jason Richard Sienze,35,M,White
+2885,3385,Manuel Zetina,19,M,Hispanic
+2886,3386,James Benny Hobbs,59,M,White
+2887,3387,Alex Duran,29,M,Hispanic
+2888,3389,Cesar Bautista,37,M,Hispanic
+2889,3390,Hugo Steven Selva,22,M,White
+2890,3392,Lloyd Harris,40,M,White
+2891,3393,Ricardo Colon,35,M,Hispanic
+2892,3394,Tierre Guthrie,39,M,Black
+2893,3395,David Darden,36,M,Black
+2894,3402,John Hamilton,78,M,White
+2895,3397,Steven Tyler Reed,25,M,White
+2896,3398,Troy Jacques,41,M,White
+2897,3404,Michael Weber,63,M,White
+2898,3399,Sidney T. Richardson,48,M,Black
+2899,3396,Benjamin Gregware,42,M,White
+2900,3400,Mark Daniels,39,M,Black
+2901,3403,Raymond Bishop,84,M,White
+2902,3405,Ronnell Foster,33,M,Black
+2903,3411,Peter Le,52,M,Asian
+2904,4250,Dawn Elika Center,48,F,White
+2905,3413,Jimmy Terry,30,M,Black
+2906,3414,Travis D. Tucker,29,M,White
+2907,3415,Preston Ray Holloway,27,M,White
+2908,3416,Donald Fulton,41,M,White
+2909,3408,Arthur Joseph Gonzales,57,M,Hispanic
+2910,3417,Fordell Hill,27,M,Native
+2911,3418,Wesley Taylor,58,M,White
+2912,3420,Tim Berger,59,M,White
+2913,3421,Odrey Paul Reed,39,M,White
+2914,3422,Lamar Green,28,M,Black
+2915,3423,Ryan Batchelder,28,M,White
+2916,3424,Nathaniel Montoya,23,M,Hispanic
+2917,3425,Paul Stanley Strickland,55,M,White
+2918,3426,Ernest Manuel Montelongo,33,M,Hispanic
+2919,3407,Thomas Vincent Alvarez,23,M,Hispanic
+2920,3412,Lawrence Shaw,45,M,Black
+2921,3427,Glenn Tyndell,37,M,Black
+2922,3428,Lonnie Smith,21,M,Black
+2923,3429,Michael Andrew Schieffer,27,M,White
+2924,3430,Edward Hallinan,39,M,Black
+2925,3440,Lee Edward Bonner,37,M,Black
+2926,3441,Darion Baker,22,M,Black
+2927,3431,Joshua D. Babb,26,M,Black
+2928,3432,Jacob Uptain,27,M,White
+2929,3434,Mario Dantoni Bass,37,M,Black
+2930,3435,Douglas Kemp,58,M,White
+2931,4247,Randall Beymer,62,M,White
+2932,3442,Haydon Taylor,25,M,Black
+2933,3444,Douglas Oneyear,36,M,White
+2934,3445,TK TK,37,M,Hispanic
+2935,3437,Aaron Clifford Fike,27,M,White
+2936,3438,Joshua Kinnard,37,M,White
+2937,3439,Ethan Straub,25,M,White
+2938,3446,William Watson,40,M,Black
+2939,3443,Orbel Nazarians,22,M,White
+2940,3447,Marlon Smith,29,M,Black
+2941,3448,Dustin James Case,20,M,White
+2942,3449,Curtis Bradley Ware,33,M,White
+2943,3450,Qawi A. Muhammad,48,M,Black
+2944,4249,Ernesto Michel,47,M,Hispanic
+2945,3451,Timothy M. Gray,40,M,Black
+2946,3466,Joel Jacobo,29,M,Hispanic
+2947,3453,Jose D. Gomez Burgos,29,M,Hispanic
+2948,3454,Stephen Hudak,44,M,White
+2949,3458,Christopher Race,36,M,White
+2950,3460,Erik Dunham,48,M,White
+2951,3465,James Vaughn,49,M,Black
+2952,3455,Amanda Alvarez,38,F,Hispanic
+2953,3467,Marvin McMillian,41,M,Black
+2954,3462,Angel Luis Ortiz,37,M,Hispanic
+2955,3452,Brandon Kuhlman,28,M,White
+2956,3461,David Willoughby,33,M,White
+2957,3463,Ryan L. Smith,44,M,White
+2958,3464,Robert Lewis Yates,65,M,White
+2959,3472,Steven Dalton,35,M,White
+2960,3474,Andrew Rossi,25,M,White
+2961,3475,Michael Kline,40,M,White
+2962,3476,Michael Reynolds,36,M,White
+2963,3477,Steven Peters,55,M,White
+2964,3478,Jesus Delgado-Duarte,19,M,Hispanic
+2965,3480,Louis Troy Risinger,70,M,White
+2966,3481,James E. Waters,37,M,Black
+2967,3479,Donald McFarlane,53,M,White
+2968,4252,Amelia Huron-Macias,84,F,White
+2969,3482,Victor Ancira,46,M,Hispanic
+2970,3483,Jamil Harvey,29,M,Black
+2971,3494,Dwight Heckman,27,M,Native
+2972,3485,Alkeeta Allena Walker,32,F,White
+2973,3492,David Gardea,27,M,Hispanic
+2974,4253,Hieu Than,38,M,Asian
+2975,3488,Daniel Stacey Reynolds,20,M,Black
+2976,3491,Orion Godbout,45,M,Hispanic
+2977,3486,Joshua Pawlik,32,M,White
+2978,3498,Andy Lucero,48,M,Hispanic
+2979,3499,Juan Garcia Alvarez,57,M,Hispanic
+2980,3487,Decynthia Clements,34,F,Black
+2981,3489,Jaden Marsh,16,M,White
+2982,3490,Kenneth Scott Townley,47,M,White
+2983,3495,Brisco Tim Woodell,61,M,White
+2984,3496,Justin Lee Dietrich,32,M,White
+2985,4251,Corky Lee Oliver,31,M,White
+2986,3497,Michael Ward,46,M,Black
+2987,3503,Jontell Reedom,27,M,Black
+2988,3501,Bryan Liles,31,M,White
+2989,3500,Ryan Chapman,26,M,White
+2990,3511,Shermichael Ezeff,31,M,Black
+2991,3514,Cameron Hall,27,M,Black
+2992,3507,James Alfonso Vaughn,49,M,Black
+2993,3508,Mark Clinton Harrell,26,M,White
+2994,3510,William Langfitt,28,M,White
+2995,3512,Bobby Lovin,62,M,White
+2996,3504,Osbaldo Jimenez Ramirez,50,M,Hispanic
+2997,3506,Stephon Clark,23,M,Black
+2998,3509,Manuel Borrego,40,M,Hispanic
+2999,3516,Quintin J. Horner,50,M,Native
+3000,3517,Michael Lavelle Holliman,50,M,White
+3001,3520,Steven Nguyen,27,M,Asian
+3002,3515,Jermaine Massey,35,M,Black
+3003,3518,Joel Pflum,32,M,White
+3004,3519,Kent Earl Pittman,56,M,White
+3005,3528,Chance Christopher Haegele,20,M,White
+3006,3533,Scott Mielentz,56,M,White
+3007,3523,Duane Preciado,39,M,Native
+3008,3524,Mark Allen Lunn,47,M,White
+3009,3525,Jason M. Raffaeli,25,M,White
+3010,3534,Jehad Eid,21,M,Asian
+3011,4256,Angel Uolla,18,M,Hispanic
+3012,3521,Santiago Calderon,36,M,Hispanic
+3013,3529,Danny Thomas,35,M,Black
+3014,3522,Michael Leroy McGinnis,29,M,White
+3015,3527,Steven Cortez,20,M,Hispanic
+3016,3536,Linus F. Phillip,30,M,Black
+3017,3541,Kevin Hall,40,M,White
+3018,3542,Robert Vega,48,M,Hispanic
+3019,3540,Kevin Robles,23,M,White
+3020,3537,Nikolai Yakunin,42,M,White
+3021,3538,Zander M. Clark,20,M,Native
+3022,3539,Kaitlin Marie Demeo,25,F,White
+3023,3535,Hugo Alvarez,28,M,Hispanic
+3024,3543,Nathan C. Castle,34,M,White
+3025,3548,Juan Carlos Romero,41,M,Hispanic
+3026,3551,Isaac Michael Scroggie,24,M,White
+3027,3552,Evan Bashir,29,M,White
+3028,3553,Holly Knighton,33,F,White
+3029,3554,Jose Aaron Gonzalez,44,M,Hispanic
+3030,3544,William John Dominguez,31,M,White
+3031,3545,Aaron Ibrahem,26,M,White
+3032,3546,Jesse Kilgus,51,M,White
+3033,3547,Gerald Richard Johns,64,M,White
+3034,3549,Robert B. Shaw,29,M,White
+3035,3550,George Pappas,61,M,White
+3036,3555,Marco Antonio Saavedra,44,M,Hispanic
+3037,3556,Rodney Toler,39,M,Black
+3038,3559,James Decoursey,35,M,White
+3039,3557,Christopher Gatewood,39,M,White
+3040,3560,Edward Van McCrae,60,M,Black
+3041,3568,Timothy Breckenridge,42,M,White
+3042,3567,Jason Birt,27,M,White
+3043,3576,Nicolas Sedano,21,M,Hispanic
+3044,3561,Cresencio Rodriguez,33,M,Hispanic
+3045,3562,Bobby Hinton,60,M,Black
+3046,3563,Joseph Walden Johnson,24,M,White
+3047,3564,Timothy Wyatt,41,M,Black
+3048,3565,Brian Bellamy,41,M,Black
+3049,3566,Christopher Hall,34,M,Black
+3050,3572,Luis Yair Alvarez,23,M,Hispanic
+3051,3573,Donald McCarter,38,M,White
+3052,4255,John Wussler,58,M,White
+3053,3579,Jeffrey Louis Parker,49,M,White
+3054,3574,Deshawn Antonio Carswell,27,M,Black
+3055,3575,Adan Rene Marrero,34,M,Hispanic
+3056,3577,Saheed Vassell,34,M,Black
+3057,3581,Alexis Stinson,44,F,White
+3058,3584,Kelvin Baldwin,30,M,White
+3059,3578,Robert Litolff,81,M,White
+3060,3582,William Frazier,40,M,White
+3061,3583,Terrance Eppenger,27,M,Black
+3062,3586,Diante Yarber,26,M,Black
+3063,3587,Nathaniel Prasad,18,M,Asian
+3064,3623,Raymond Lyle Bell,59,M,White
+3065,4259,Rafael Ramirez,56,M,Hispanic
+3066,4260,Junior Davis Lopez,22,M,Hispanic
+3067,3589,Antonio Aquino,34,M,Asian
+3068,3590,Daniel Allen Yielding,23,M,White
+3069,4258,Mitchell Nelson,36,M,White
+3070,3591,John A. Elifritz,48,M,White
+3071,3592,Larry Siordia,33,M,White
+3072,3593,Carlos Roman Urias,24,M,Hispanic
+3073,3594,Juan Markee Jones,25,M,Black
+3074,3595,Elijah James Smith,20,M,Black
+3075,3596,Russell Bowman,45,M,White
+3076,3599,Daniel Joseph Carver,29,M,White
+3077,4262,James Matthew Rogers,34,M,White
+3078,3597,Robert George Issa,23,M,White
+3079,3598,Zachary Glen Hoven,29,M,White
+3080,3600,Shawn Michael Hubbard,44,M,White
+3081,3602,Grechario Mack,30,M,Black
+3082,3603,Antonino Thomas Gordon,28,M,White
+3083,3605,Betty Lemoine,71,F,White
+3084,3606,Kenneth Ross,25,M,Black
+3085,3607,Keith Alan Kent,61,M,White
+3086,3613,Chad Eric Montgomery,39,M,White
+3087,3637,Kendall Lemoine,50,M,White
+3088,3608,Dashaun Shepard,37,M,Black
+3089,3609,Benjamin Evans,23,M,White
+3090,3610,Rumondale Jones,39,M,Black
+3091,3611,Steven Brooks,45,M,Black
+3092,3612,Kenneth Warren Resendez,34,M,White
+3093,3621,Bruce Arnold Allee,31,M,White
+3094,3617,Jose Pietri,55,M,Hispanic
+3095,3618,Andre Lavance Rippy,39,M,Black
+3096,3619,Jessie Thedford,32,M,White
+3097,3620,Eduardo Andrade,44,M,Hispanic
+3098,4263,Petrica Peter Muntean,24,M,White
+3099,3616,Ruben Stewart,36,M,Native
+3100,3622,Lonnie Marcel Bowen,41,M,Black
+3101,3624,Sanchez Lowe,25,M,Black
+3102,3625,Justin Monjay,39,M,White
+3103,3631,Charles Whitley,40,M,White
+3104,3626,Justin Oakes,32,M,White
+3105,3627,William Ray Simcoe,45,M,White
+3106,3628,Dytadious Mobley,31,M,Black
+3107,3629,Delorean Pikyavit,32,M,Native
+3108,3630,David Teneyuque,48,M,Black
+3109,3634,Lockwood Adrian Gibson,49,M,White
+3110,3636,James Bauduy,48,M,Black
+3111,3638,Matthew G. Brown,18,M,White
+3112,3632,Timothy Wayne Anderson,48,M,White
+3113,3633,Terrence Carlton,25,M,Black
+3114,3635,Matthew Hartman,27,M,White
+3115,3639,Miguel Escalona Vivas,37,M,Hispanic
+3116,3640,Jesse Pena,44,M,Hispanic
+3117,3642,Demonjhea Jordan,27,M,Black
+3118,3641,Jese Paul Schlegel,41,M,White
+3119,3643,Isaac Jackson,42,M,Black
+3120,3644,Charles Boeh,36,M,White
+3121,4265,Carlos Deone High,37,M,Black
+3122,3648,Myra Lisa Micalizio,56,F,White
+3123,3649,Shukri Ali Said,36,F,Asian
+3124,3652,David Navarro,46,M,White
+3125,3653,Nolberto Hernandez Leon,26,M,Hispanic
+3126,3750,Joseph L. Hoffman,41,M,White
+3127,3650,Brandon Busher,38,M,White
+3128,3651,TK TK,42,M,White
+3129,3654,Michael Scott Knibbs,47,M,White
+3130,3655,Joshua Lee Ewing,26,M,White
+3131,4268,Abadi Gebregziber,64,M,Black
+3132,4273,Roger Fortner,49,M,White
+3133,3659,Jason Wayne Traversie,44,M,White
+3134,3660,Billy Carson Pike,48,M,White
+3135,3661,Manuel G. Palacio,27,M,Hispanic
+3136,3662,Timothy Raye Mayfield,67,M,Black
+3137,3663,Damion Collier,24,M,Black
+3138,3664,Anthony Trujillo,26,M,Hispanic
+3139,3666,Sean Louis Justin,28,M,White
+3140,3742,Christopher A. Wolfe,21,M,White
+3141,3670,Mitchell Simmons,24,M,White
+3142,3745,Savannah Hill,21,F,White
+3143,3667,Dwight Dearth,73,M,White
+3144,3668,Franklin Robert Vaughn,39,M,White
+3145,3669,Terence Leslie,32,M,Black
+3146,3673,David P. Wolosin,38,M,White
+3147,3672,Juan Alberto Silva,32,M,Hispanic
+3148,3674,Albert Odom,26,M,White
+3149,3675,Kimberly McCann,55,F,White
+3150,3680,David J. Robinson,50,M,White
+3151,3747,Lisa Rivera,49,F,Hispanic
+3152,3748,Peter Boden,48,M,White
+3153,3677,John Simson,65,M,White
+3154,3679,Phillip Cameron Gibson,37,M,White
+3155,4274,Thomas Junior Garcia,45,M,Hispanic
+3156,3682,Elliott Reed,33,M,Black
+3157,3683,Kenneth Carter,46,M,White
+3158,3684,Michael E. Hutchman,33,M,White
+3159,3749,Benjamin Lee Sellers,33,M,White
+3160,3751,Barry Freeman,51,M,White
+3161,3752,Bradley Daniel Webster,52,M,White
+3162,3753,Jacob T. Eldridge,24,M,Native
+3163,3693,Darrell J. Bruffy,55,M,White
+3164,3686,Willie Rogers Marable,28,M,Black
+3165,3689,Philip Steven McMichael,36,M,White
+3166,3685,Anthony Trice,24,M,Black
+3167,3687,Cody Reynolds,20,M,White
+3168,3688,William N. Derick,54,M,White
+3169,3694,Rollie J. Davis,53,M,White
+3170,3695,Bob Browning Cruz,36,M,Hispanic
+3171,3696,Marcus-David L. Peters,24,M,Black
+3172,3698,David M. Romansky,34,M,White
+3173,3705,Kevin Nickle,59,M,White
+3174,3708,Daniel Timothy Johnson,34,M,White
+3175,3704,Reynaldo Pena,29,M,Hispanic
+3176,3706,Dmitri Bullard,24,M,White
+3177,3700,Jimmy Alan Moss,77,M,White
+3178,3701,Corey Cordova,30,M,White
+3179,3702,Santiago Evans-Valencia,36,M,Hispanic
+3180,3699,Bradley J. Grant,36,M,White
+3181,3707,Ray Wyatt,58,M,White
+3182,3719,Ronald Clinton,47,M,Black
+3183,3709,Martin Sandejo,49,M,Hispanic
+3184,3710,Makell Meyerin,31,F,White
+3185,3718,Joshua M. Gomoll,25,M,White
+3186,3720,Claudia Patricia Gomez Gonzalez,37,F,Hispanic
+3187,3717,Dustin D. Odom,30,M,White
+3188,3737,Brett Luengo,33,M,White
+3189,3715,Augustine Oliva,29,M,White
+3190,3736,Dustin Montano,31,M,White
+3191,3714,Homer Woodroe Tyler,51,M,White
+3192,3712,Raul Rivera,42,M,Hispanic
+3193,3713,Eugene Baylis,67,M,White
+3194,3711,Michael Glad,23,M,White
+3195,3722,Rabi Brown,34,M,Native
+3196,3724,Armando Osuna,51,M,Hispanic
+3197,3733,Zane Anthony James,19,M,White
+3198,3721,Bryan Rodriguez,29,M,Hispanic
+3199,3734,Juvan Simon,23,M,Black
+3200,3725,Katherine Brazeau,46,F,White
+3201,3726,Jerick Rasheem Gray,42,M,Black
+3202,3727,Andres Estrada,21,M,Hispanic
+3203,3731,Renie Cablay,55,M,Asian
+3204,3732,TK TK,37,M,White
+3205,3730,Gus Tousis,43,M,Black
+3206,3728,Julio Eduardo Hernandez Mata,32,M,Hispanic
+3207,3741,Rudy Molina,34,M,Hispanic
+3208,3738,Joshua S. Stanford,40,M,White
+3209,3739,Abel Guzman,55,M,Hispanic
+3210,3740,Joshua Nash Bryant,20,M,White
+3211,3755,Maurice Granton,24,M,Black
+3212,3757,Alan Goyano,43,M,Hispanic
+3213,3758,Roger Dale Sims,56,M,White
+3214,3805,Brian Puskas,47,M,White
+3215,3754,Wes Allen,33,M,White
+3216,3756,Leslie Yolanda Salazar,20,F,White
+3217,3850,Raymon Truitt,28,M,Black
+3218,3851,Douglas Conner,50,M,White
+3219,3761,Michael Renfroe,36,M,White
+3220,3849,Todd Gregory,47,M,White
+3221,3760,LaShanda Anderson,36,F,Black
+3222,3762,Timothy Owen,49,M,White
+3223,3759,Brandon Vieweg,34,M,White
+3224,3763,Robert Lawrence White,41,M,Black
+3225,3765,Nicolas Moncada,29,M,Hispanic
+3226,3764,DeNathe M. Guilliford,34,M,Black
+3227,3766,Alexandre J. Aldrich,34,M,White
+3228,3767,Marqueese Alston,22,M,Black
+3229,3768,Chavius Hollis,26,M,Black
+3230,3769,Stephen Cogelia,32,M,White
+3231,3774,David Arthur,44,M,White
+3232,3848,Dillan Shane Ezell,21,M,White
+3233,3772,Joseph Villanueva,29,M,Hispanic
+3234,3773,Terrence White,18,M,Black
+3235,3776,Timothy Mosley,33,M,Black
+3236,3778,Ashley Dean Fulkerson,28,F,White
+3237,3779,Robert A. White,37,M,White
+3238,3780,Marcelo Castellano,40,M,Hispanic
+3239,3846,David L. Hicks,40,M,White
+3240,3782,Dwayne Clyburn,37,M,Black
+3241,3783,Richard Rivera,47,M,Hispanic
+3242,3785,Tahaji Wells,33,M,Black
+3243,3790,Abe Martinez,44,M,Hispanic
+3244,3787,Charles Spillers,65,M,White
+3245,3788,Jonathan Buckley,20,M,Black
+3246,3789,Antwon Rose,17,M,Black
+3247,3791,Robert Roybal,55,M,White
+3248,3792,Anthony Marcell Green,33,M,Black
+3249,3794,Jesse Wade Powell,44,M,White
+3250,3795,Logan Williamson,37,M,White
+3251,3842,Timothy Deal,32,M,Black
+3252,3843,Thomas Albun Beall,31,M,White
+3253,3845,Schuyler Lake,20,M,White
+3254,3796,Thurman Blevins,30,M,Black
+3255,3797,Detandel Pickens Devon,25,M,Black
+3256,3801,Eric Sweet,47,M,White
+3257,3802,Robert L. Barton,48,M,White
+3258,3841,Steven Allan Kaluahinui Hyer Jr.,32,M,Other
+3259,3798,Luis Argueta,18,M,Hispanic
+3260,3803,Bobby Blade,29,M,White
+3261,3838,William Shawn Mann,30,M,White
+3262,3807,Joey Bronson,39,M,White
+3263,3808,Anthony Sanchez,36,M,Hispanic
+3264,3809,Joshua Cartwright,36,M,White
+3265,3811,James Palmquist,54,M,White
+3266,3813,Rodney Lee Hunter,27,M,Black
+3267,3815,Jason Washington,45,M,White
+3268,3818,Chukwumankpam Mbegbu,19,M,Black
+3269,3819,Garry Glenn Lawrence,36,M,White
+3270,3820,Randy Thomas Groom,33,M,White
+3271,3836,Steve Ballard,56,M,White
+3272,3816,Daniel Norris,33,M,White
+3273,3817,Larry San Nicolas,60,M,Asian
+3274,3823,Joshua B. Reed,26,M,White
+3275,3824,Frank Dripps,52,M,White
+3276,3930,Lemuel Bunn,40,M,Black
+3277,3970,Terrell Eason,33,M,Black
+3278,3969,Millard Clark,41,M,White
+3279,3822,Emmanuel Bitsuie,32,M,Native
+3280,3834,Abraham Noe Flores,34,M,Hispanic
+3281,3825,Daniel A. Fuller,26,M,White
+3282,3826,Raad Fakhri Salman,62,M,Asian
+3283,3827,Sylvia Marie Bejarano,33,F,Hispanic
+3284,3971,Tracy A. Richards,55,M,White
+3285,3972,John James Corrigan,38,M,White
+3286,3828,Charles Webb,43,M,Black
+3287,3973,Eric Hash,38,M,Asian
+3288,3830,Kelly Kenneth Sutton,27,M,White
+3289,3832,Harold Kraai,52,M,White
+3290,3865,Rashaun Washington,37,M,Black
+3291,3831,Craig Yelton,34,M,White
+3292,3833,John Francis Murphy,41,M,White
+3293,3855,Shaun Gates,40,M,White
+3294,3856,Leonardo Cano,53,M,Hispanic
+3295,3976,William T. McCollum,21,M,White
+3296,3853,Salome Ramirez,34,M,Hispanic
+3297,3854,Fidel Miranda,22,M,Hispanic
+3298,3862,Juan Luna,25,M,Hispanic
+3299,3861,Archer Amorosi,16,M,White
+3300,3857,Harith Augustus,37,M,Black
+3301,3858,Jethro Benjamin,68,M,Black
+3302,3859,Marlin Mack,25,M,Black
+3303,3860,Isaac Chapa,34,M,White
+3304,3941,Jonathan Molina,23,M,Hispanic
+3305,3864,Isaiah Hayes,25,M,White
+3306,3867,Rolando Brizuela,57,M,Hispanic
+3307,3868,Juan Manuel Correa-Leyva,27,M,Hispanic
+3308,3942,Kerry Edwin Townsend,51,M,White
+3309,3866,Arthur Lujan,30,M,Hispanic
+3310,3869,Wesley Shelton,33,M,White
+3311,3872,Mickey Coy,37,M,White
+3312,3870,Luis Cruz,19,M,Hispanic
+3313,3871,Carmen Pizarro,22,M,Hispanic
+3314,3877,Ruben Maya,37,M,Hispanic
+3315,3880,Javier Lopez,19,M,White
+3316,3944,Justin Waiki,33,M,Other
+3317,3945,Anthony Coleman,38,M,White
+3318,3946,Arthur Levario,45,M,Hispanic
+3319,3874,Vincent James Ewer,39,M,White
+3320,3878,Anthony C. Lopez,21,M,Hispanic
+3321,3879,Dale Slocum,56,M,White
+3322,3895,Melyda Marciela Corado,27,F,Hispanic
+3323,3947,Eliuth Penaloza Nava,50,M,Hispanic
+3324,3873,Logan Simpson,16,M,White
+3325,3906,William Bacorn,18,M,White
+3326,3957,Juan Garcia,38,M,Hispanic
+3327,3958,Juan Ramon Ramos,32,M,Hispanic
+3328,3881,Rosalio Hernandez Ortega,33,M,Hispanic
+3329,3883,Paul Meade,71,M,White
+3330,3961,John Carlos Natera-Perez,30,M,Hispanic
+3331,3882,Donna Lynn Allen,39,F,White
+3332,3886,Devaughdre Delsha Rogers,19,M,Black
+3333,3887,Cashus Dean Case,44,M,White
+3334,3885,Richard R. Bahr,54,M,White
+3335,3893,DMario Perkins,29,M,Black
+3336,3894,Jose Luis Rodriguez,37,M,Hispanic
+3337,3959,Brent C. Bowdon,56,M,White
+3338,3960,Michael Heatherly,64,M,White
+3339,3888,Daniel Hambrick,25,M,Black
+3340,3891,Jesus Hernandez Murillo,18,M,Hispanic
+3341,3892,Kenneth Edwin Martell,36,M,White
+3342,3901,Sergio Acosta,24,M,Hispanic
+3343,3905,Iman Joseph Buford,30,M,White
+3344,3962,Gavalynn Mahuka,53,M,Asian
+3345,3898,Cynthia Fields,60,F,Black
+3346,4031,Richard Mendoza,32,M,Hispanic
+3347,3896,Lamar C. Richardson,25,M,Black
+3348,3897,Joseph Santos,44,M,Hispanic
+3349,3902,Michael Neal,32,M,White
+3350,3904,Arthur Kenzie Garner,33,M,White
+3351,3899,Richard Gary Black,37,M,White
+3352,3908,James Edward Blackmon,35,M,Black
+3353,3963,Skyler Martin,23,M,Hispanic
+3354,3907,David Edward Hall,27,M,Black
+3355,3909,David Judge,53,M,White
+3356,3910,Jonathan Joey Mendoza,35,M,Hispanic
+3357,3911,Tramaine Marquese Poole,41,M,Black
+3358,3925,Landon Christopher Wooten,18,M,White
+3359,3919,Danny Lee,34,M,Black
+3360,3920,Johnny Kelley,49,M,White
+3361,3923,Josh Martin,31,M,White
+3362,3926,Emmanuel Alquisiras,29,M,Hispanic
+3363,3921,Eric Benjamen Richards,33,M,White
+3364,3922,John Randolph,38,M,White
+3365,3913,"William ""Billy"" James Hughes",43,M,Native
+3366,3916,James Bishop,29,M,White
+3367,3918,Johnny Fisher,68,M,White
+3368,3912,Spurgeon Daniels,62,M,Black
+3369,3927,Levester Taylor,39,M,Black
+3370,3928,Ricardo Giddings,59,M,Black
+3371,3929,Daniel Boyer,24,M,White
+3372,3932,Daniel Valdez,70,M,Hispanic
+3373,3933,Pedro Lucero,42,M,Hispanic
+3374,3934,Michael Ducote,26,M,White
+3375,3931,Joseph Robbins,24,M,White
+3376,3936,Vaughn Denham,48,M,Black
+3377,3940,Stephen L. Caldwell,54,M,Black
+3378,3935,Charles Meadows,48,M,Black
+3379,3937,Shaun Jeffery Christy,37,M,White
+3380,3950,Gregory Campfield,40,M,Black
+3381,3951,Montae Shackleford,28,M,Black
+3382,3948,Jackey Sampson,43,M,White
+3383,3954,Adam Knowlton,35,M,White
+3384,3955,Anthony Daniel Vargas,21,M,Hispanic
+3385,3956,Anthony Makai Hutchinson,40,M,Black
+3386,3953,Christopher Anthony Stone,32,M,Black
+3387,3964,Mario Hobson,48,M,Black
+3388,3966,Chris Cameron,31,M,White
+3389,3967,TK TK,37,M,Hispanic
+3390,3968,"Charlie ""Lee"" Hodges",58,M,White
+3391,3974,Adrian Herron,30,M,Black
+3392,3975,Aquantis Givens,21,M,Black
+3393,3977,Spencer Mendez,15,M,Hispanic
+3394,3984,Michael Harrison,30,M,White
+3395,3982,Andres Arteaga,28,M,Hispanic
+3396,3978,Christopher Alexander Okamoto,21,M,Black
+3397,3981,Jeremiah Perdue,33,M,Black
+3398,3983,Charles Marcotte,37,M,White
+3399,3985,Jeffrey Dennis,36,M,Black
+3400,3986,Douglas Heath,38,M,White
+3401,3988,Virginia Romero,34,F,Hispanic
+3402,3993,Donna Castleberry,23,F,White
+3403,3987,Jeffery Paul Fabio,44,M,White
+3404,3989,James Clay,20,M,Black
+3405,3992,Felipe Perez Casas,41,M,Hispanic
+3406,3994,Taylor K.E. Tincher,18,M,White
+3407,3995,Logan Montgomery,29,M,White
+3408,3998,Jennifer Sharp,37,F,White
+3409,3996,Stephanie B. Owens,41,F,White
+3410,3990,Fabian Ortiz Adame,25,M,White
+3411,3991,Bryce Schenkenberg,20,M,White
+3412,4004,Eric Jay Hames,34,M,White
+3413,3999,Sebastian Siney Chamale,37,M,Hispanic
+3414,4002,Tyler Hodge,18,M,White
+3415,4000,Randall McKenzie,72,M,White
+3416,4001,Jalon Johnson,17,M,Black
+3417,4005,Jessica Cribbs,45,F,White
+3418,4006,Vanessa Marquez,49,F,Hispanic
+3419,4010,Dennis Ray Blalock,64,M,White
+3420,4012,Chase Sullivan,36,M,White
+3421,4044,Paul Askins,61,M,White
+3422,4011,Oshae Terry,24,M,Black
+3423,4007,"Fernand ""Fred"" Lete",70,M,Hispanic
+3424,4008,Steve L. Anderson,40,M,White
+3425,4009,Aaron Demonta Fleming,21,M,Black
+3426,4015,Timmy Henley,27,M,White
+3427,4013,James Leatherwood,23,M,Black
+3428,4014,Mitchell Owen Buel,33,M,White
+3429,4018,Christopher Sage,45,M,White
+3430,4017,Darell Richards,19,M,Black
+3431,4023,DaShawn Cole,28,M,Black
+3432,4024,Elman Jerald Roberts,63,M,White
+3433,4021,Brandon Joyner,37,M,Black
+3434,4020,Dereshia Blackwell,39,F,Black
+3435,4027,Edward Reynolds,57,M,White
+3436,4026,Rafael Rivera,32,M,Hispanic
+3437,4029,Thomas Watkins,38,M,Black
+3438,4030,Detric Driver,46,M,Black
+3439,4032,Garrett Finley Mitchell,31,M,White
+3440,4041,David Huffines,40,M,White
+3441,4034,Christopher Lee Leonard,31,M,White
+3442,4042,Stephen Dove,50,M,White
+3443,4035,Ricardo Avenia,29,M,Hispanic
+3444,4037,Bruce Smith,25,M,White
+3445,4043,Jerry Foster,31,M,Black
+3446,4038,Jose Alvarez,23,M,Hispanic
+3447,4039,Susan Muller,54,F,White
+3448,4040,Damon Christopher Gayheart,44,M,White
+3449,4033,Michael James Murphy,43,M,White
+3450,4045,Jeffrey Sims,37,M,White
+3451,4050,Freddie Joe Whitmore,55,M,White
+3452,4051,Alexander Carballido,40,M,Hispanic
+3453,4048,Joshua Works,26,M,White
+3454,4053,Nathaniel Sassafras,29,M,Black
+3455,4047,Ronald W. Leach,29,M,White
+3456,4054,Ivan Pena,42,M,Hispanic
+3457,4082,Michael Stout,20,M,White
+3458,4055,Dravious Burch,34,M,Black
+3459,4056,Jaime Lopez,41,M,Hispanic
+3460,4065,Paul Braswell,29,M,Black
+3461,4063,Joey Leon Nelson,19,M,White
+3462,4066,Juan Angel Pinedo,32,M,Hispanic
+3463,4068,Coltin Brennan Leblanc,23,M,White
+3464,4069,Datwan Keyo Lewis,41,M,Black
+3465,4064,Michael Perez,37,M,Hispanic
+3466,4067,Joseph Dawson,24,M,White
+3467,4059,Justin Snelson,54,M,White
+3468,4060,Thomas Howard Luedtke,58,M,White
+3469,4062,Walter Welch,40,M,White
+3470,4058,Patrick K. Kimmons,27,M,Black
+3471,4103,Brian Lee Rogers,40,M,White
+3472,4070,Keagan Johnson,23,M,White
+3473,4073,Brian Baker,33,M,White
+3474,4072,"James ""Cody"" Martin",26,M,White
+3475,4074,LaJuana Philips,36,F,Black
+3476,4071,Toby Bailey,38,M,Black
+3477,4151,Arthur Harbison,25,M,White
+3478,4156,Sershawn Martez Dillon,31,M,Black
+3479,4157,Phillip Samuel Moskios,48,M,White
+3480,4160,Venson Kee Yazzie,43,M,Native
+3481,4077,Nicholas Salisbury,36,M,White
+3482,4078,Anthony Lee Hodges,39,M,White
+3483,4075,Aaron Joseph Chavez,22,M,Hispanic
+3484,4079,Alexander G. Lindahl,24,M,White
+3485,4081,Isaiah Ramirez,36,M,White
+3486,4097,Travis N. Craven,25,M,White
+3487,4083,Samuel E. Rice,30,M,White
+3488,4085,Richard Palafox,76,M,White
+3489,4086,Terrell Blake,39,M,Black
+3490,4090,Leslie Shayne Miller,49,F,White
+3491,4092,Kenneth Ryan Busse,21,M,White
+3492,4125,Alonzo L. Smith,31,M,Black
+3493,4089,Diamonte Riviore,22,M,Black
+3494,4098,Samuel Morris,27,M,Black
+3495,4099,Ashley Elisna Grammer,26,F,Other
+3496,4100,Kay Kenniker,84,M,White
+3497,4096,Jacob E. Albrethsen,17,M,White
+3498,4091,Umberto Sanchez Ramoz,17,M,Hispanic
+3499,4101,Eric Jamar Lupain Stromer,22,M,Black
+3500,4102,James Christopher Manus,41,M,White
+3501,4108,Hustes Davila,58,M,Hispanic
+3502,4104,Weston Willow Well Cole,29,M,White
+3503,4105,Keyshon Parham,19,M,Black
+3504,4106,Charles Roundtree,18,M,Black
+3505,4129,James Lyle Kuehn,61,M,White
+3506,4113,Bailey Greek,18,M,White
+3507,4114,Andrey Tkachenko,23,M,White
+3508,4115,Sean Dutcher,38,M,White
+3509,4117,Jacob Servais,19,M,Black
+3510,4161,Mahlon Edward Summerour,63,M,Black
+3511,4116,"Neico Crooks, Jr",21,M,Black
+3512,4124,Christopher Calabro,25,M,White
+3513,4122,Edward Paul Zumski,35,M,White
+3514,4126,Robert Smith,50,M,White
+3515,4132,Kimberly Norris,34,F,White
+3516,4118,Cedric Pritchard,37,M,Black
+3517,4121,Jason Whittle,26,M,White
+3518,4123,William David Williamson,61,M,White
+3519,4120,Tafahree Maynard,18,M,Black
+3520,4127,Shaunday Mullins,37,M,Native
+3521,4131,Robert Mitchell,27,M,White
+3522,4133,Nickolas Michael Peters,24,M,White
+3523,4162,Salvador Morales,37,M,Hispanic
+3524,4141,Armond Beckwith-Bell,28,M,Black
+3525,4135,Lloyd Gerald Napouk,44,M,Asian
+3526,4140,Christopher Carroll,30,M,Black
+3527,4134,Albert Ramon Dorsey,30,M,Black
+3528,4136,Billy Jo Johnson,34,M,White
+3529,4137,Arnaldo Caraveo,27,M,Hispanic
+3530,4138,Derrick Alexander Sellman,28,M,Black
+3531,4139,Ida Christy Stiles,42,F,White
+3532,4143,John Wurms,32,M,White
+3533,4144,Tony Bernard Smith,24,M,Black
+3534,4145,"Jose Centeno, Jr.",17,M,Hispanic
+3535,4146,Gonzalo Rico-Jimenez,26,M,Hispanic
+3536,4158,Jesse J. Quinton,35,M,Black
+3537,4159,Andrew Moore,25,M,White
+3538,4150,Laudemer Arboleda,33,M,Black
+3539,4228,Kanwarbir Malhi,25,M,Asian
+3540,4148,Theoddeus Gray,29,M,Black
+3541,4154,Anthony David Chavez,18,M,Hispanic
+3542,4164,Ryan Millsap,19,M,White
+3543,4229,Robbie Ramirez,39,M,Hispanic
+3544,4149,Gary J. Willis,61,M,White
+3545,4152,Henry Gregory Stroud,36,M,White
+3546,4155,George Smith,72,M,White
+3547,4163,Anovath Troy Kongvongxay,48,M,Asian
+3548,4231,"Jesus ""Chuy"" Guzman",34,M,Hispanic
+3549,4168,Travis Jordan,36,M,Black
+3550,4170,Christopher William Parrish,33,M,White
+3551,4171,Cody Paris Belgard,30,M,White
+3552,4173,James Hanchett,61,M,White
+3553,4167,Patrick Bryant,41,M,Black
+3554,4169,Elisha Edward Kelley,52,M,White
+3555,4172,Jemel Roberson,26,M,Black
+3556,4232,TK TK,37,M,Hispanic
+3557,4177,Edward M. Walsh,39,M,White
+3558,4179,Andrew Kana,36,M,Asian
+3559,4180,Tony Mathis,47,M,Black
+3560,4181,Danny Ayala,37,M,Hispanic
+3561,4224,Cesar Alehandro Ramos,25,M,Hispanic
+3562,4178,Marty West,63,M,White
+3563,4175,Timothy Leon,24,M,Black
+3564,4196,Rene Prieto,38,M,Hispanic
+3565,4174,Olajuwon Murphy,22,M,Black
+3566,4213,Joseph Loughery,59,M,White
+3567,4234,John David Manning,29,M,White
+3568,4186,Allen Fanning,18,M,Black
+3569,4187,Agustin Gonsalez,29,M,Hispanic
+3570,4189,"Jack Fields, Jr.",25,M,Black
+3571,4190,GD Hendrix,48,M,White
+3572,4235,Steven Smith,60,M,White
+3573,4185,Rio Antwuan Thomas,27,M,Black
+3574,4183,Daniel Cedars,65,M,White
+3575,4192,Christopher Williams,41,M,White
+3576,4195,Roderick McDaniel,33,M,Black
+3577,4237,Roderick McDaniel,33,M,Black
+3578,4193,Keaton James Larson,22,M,White
+3579,4194,Billy G. Heeter,52,M,White
+3580,4197,Robert William Reid,42,M,White
+3581,4212,Eugene Benjamin Weathers,48,M,Black
+3582,4214,Martin Lopez,24,M,Hispanic
+3583,4199,Emantic Fitzgerald Bradford,21,M,Black
+3584,4201,Cameron McCarthy,20,M,White
+3585,4205,Patrick Michael Langhoff,59,M,White
+3586,4203,Christopher L. Anderson,46,M,White
+3587,4225,Martez Webb,23,M,Black
+3588,4202,Felix Anthony Calata,32,M,Hispanic
+3589,4206,Nicholas Charles Ryan,19,M,White
+3590,4209,Allen Scott Culpepper,64,M,White
+3591,4210,Jarmane Logan,35,M,Black
+3592,4216,J Scot Alan Widmark,41,M,White
+3593,4220,Bert E. Mercado,42,M,Asian
+3594,4219,Benjamin Kennedy,35,M,White
+3595,4221,David Villagran,33,M,Hispanic
+3596,4218,Vernon May,32,M,Native
+3597,4222,Adrian Bunker,37,M,White
+3598,4241,Ricardo Galvan,37,M,Hispanic
+3599,4240,John Young,65,M,Black
+3600,4272,Jarvis Randall,30,M,Black
+3601,4239,Demontry Floytra Boyd,43,M,Black
+3602,4269,Anthony Ray Borden-Cortez,18,M,Hispanic
+3603,4270,David Alejandro Molina,27,M,Hispanic
+3604,4271,Justin Smith,41,M,White
+3605,4276,Paul Ridgeway,41,M,White
+3606,4279,Anthony M. Edwards,33,M,Black
+3607,4275,Dimaggio McNelly,53,M,Black
+3608,4277,Benjamin David Larson,42,M,White
+3609,4287,Jason O'Bannon,46,M,White
+3610,4281,Jesus Lainez,51,M,Hispanic
+3611,4315,Julius Ervin Tate,16,M,Black
+3612,4286,James N. Robertson,41,M,White
+3613,4282,Joshua Boyd,24,M,Black
+3614,4283,Christopher Deandre Mitchell,23,M,Black
+3615,4284,Terry Don King,50,M,White
+3616,4285,Shane Wentling,41,M,White
+3617,4289,George Penev,23,M,White
+3618,4290,Kyle Hart,33,M,White
+3619,4288,Kaley Gay,25,F,White
+3620,4291,Tori Kaneshiro,30,F,Asian
+3621,4292,Daniel Pierce,58,M,White
+3622,4293,Marcus Neal,47,M,Black
+3623,4295,Haze Connor Martin,22,M,White
+3624,4296,Tameka LaShay Simpson,27,F,Black
+3625,4297,Demario Bass,29,M,Black
+3626,4298,Jason Emerson Connell,43,M,White
+3627,4299,Dylan Parker Thomas,18,M,White
+3628,4300,Gabriel Romero,19,M,Hispanic
+3629,4309,Joshua Myers,37,M,White
+3630,4317,Andre Horton,42,M,Black
+3631,4308,Edgar Espinoza,35,M,Hispanic
+3632,4304,Edward Rudhman,50,M,White
+3633,4305,Rodney J. Geiser,60,M,White
+3634,4307,Jacob Mohow,35,M,White
+3635,4321,April Webster,47,F,Black
+3636,4303,TK TK,37,M,White
+3637,4302,Angel Viola Decarlo,31,F,Black
+3638,4311,David Frederick,24,M,White
+3639,4312,Danny Washington,27,M,Black
+3640,4314,Keith A. Hawley,27,M,White
+3641,4320,Damon Barstad,23,M,White
+3642,4330,Jose Lemus,57,M,Hispanic
+3643,4410,David MacAdams,56,M,White
+3644,4326,Jason Delgado Perez,36,M,Hispanic
+3645,4329,"Kaulana ""Toji"" Reinhardt",37,M,Other
+3646,4327,Abdias Flores,37,M,Hispanic
+3647,4324,Jennifer Vasquez,24,F,Hispanic
+3648,4325,Antonio A. Ramos,34,M,Hispanic
+3649,4322,Michael Jerome Taylor,17,M,Black
+3650,4323,Gary Warbritton,21,M,White
+3651,4328,Wayne Falana,35,M,Black
+3652,4333,"Mark Wade ""Cornbread"" Luttrell",34,M,White
+3653,4336,Glenn A. Rightsell,56,M,White
+3654,4338,Shane Lyons,35,M,Black
+3655,4346,Edwin C. Bundy,46,M,White
+3656,4412,TK TK,42,M,White
+3657,4339,Warren Jay Beaubien,49,M,White
+3658,4341,Kerry D. Blake,44,M,Black
+3659,4411,Paul Arbitelle,45,M,White
+3660,4332,Iosia Faletogo,36,M,Asian
+3661,4335,Matthew Hurley,45,M,White
+3662,4337,Jesus Ramos,34,M,Hispanic
+3663,4334,Dylan Michael Smith,26,M,White
+3664,4504,Brandon Lovell Webster,28,M,Black
+3665,4342,Matthew Burroughs,35,M,Black
+3666,4343,Abdoulaye Thiam,20,M,Black
+3667,4345,Arron Thomas Lambert,33,M,White
+3668,4344,Samuel Garcia,39,M,Hispanic
+3669,4347,Robert Myers,63,M,White
+3670,4348,Joseph Roberts,27,M,White
+3671,4349,Abiel Innis De Joel Rios,33,M,Hispanic
+3672,4350,Jae Wesley Hardy,27,M,Black
+3673,4505,Eric David Sauerhagen,31,M,White
+3674,4367,Zonell Williams,33,M,Black
+3675,4506,Jeremy Dean Duncan,39,M,White
+3676,4507,John Richard Camacho,27,M,White
+3677,4508,Lawrence Thompson III,32,M,Black
+3678,4355,Oliver Hernandez,29,M,Hispanic
+3679,4357,Adolfo Gonzalez,28,M,Hispanic
+3680,4360,David John Engebretson,50,M,White
+3681,4361,Shaun Kennedy,55,M,White
+3682,4352,Kevin Shawn Hanson,42,M,Black
+3683,4353,Andre C. Gladen,36,M,Black
+3684,5409,Nil Houer,38,M,Asian
+3685,4351,Miguel Barraza-Lugo,38,M,Hispanic
+3686,4362,David Novak,35,M,White
+3687,4510,Jeremy Dale Edmonds,42,M,White
+3688,4368,Johnny Lee Burney,70,M,Black
+3689,4374,Geoffrey Morris,29,M,White
+3690,4366,Juston Landry,26,M,Black
+3691,4379,Treshun Symone Miller,20,M,Black
+3692,4381,Charles Frederick Landeros,30,M,Hispanic
+3693,4390,Jacob Michael Harris,19,M,Black
+3694,4378,Bill Akes,48,M,White
+3695,4382,Christopher A. Schmitt,58,M,White
+3696,4375,Dimas Diaz,38,M,Hispanic
+3697,4376,Roberto Tapia,28,M,Hispanic
+3698,4385,Nathan Thoe,34,M,White
+3699,4370,Jahmal Derrick Stewart,45,M,Black
+3700,4372,Amiliano Antonio Apodaca,18,M,Hispanic
+3701,4387,Louis Jose Burrus,25,M,Hispanic
+3702,4517,Nathaniel Holland,38,M,Black
+3703,4518,Damon Murad Asad,33,M,White
+3704,4519,William Owens,39,M,Black
+3705,4369,Dean Heerdt,58,M,White
+3706,4383,Stanley Stepanski III,48,M,White
+3707,4386,Antonio Arce,14,M,Hispanic
+3708,4402,D'ettrick Griffin,18,M,Black
+3709,4516,Quency Chavez Floyd,22,M,Black
+3710,4389,Shawn Joseph Billinger,46,M,White
+3711,4391,D'Angelo Brown,37,M,Black
+3712,4392,Megan Rivera,37,F,White
+3713,4393,Terry Lee Cockrell,57,M,White
+3714,4401,Danny Kelley,32,M,White
+3715,4502,Mikyas Mehary Tegegne,31,M,Black
+3716,4400,Dale Weich,64,M,White
+3717,4396,Matthew Neil Tuhkanen,35,M,White
+3718,4398,Mark Leo Gregory Gago,42,M,White
+3719,4399,Jason C. Minnick,30,M,White
+3720,4394,Chance Mavity,26,M,White
+3721,4397,Horacio Ruiz-Rodriguez,37,M,Hispanic
+3722,4395,Jimmy Atchison,21,M,Black
+3723,4405,Preston Oszust,20,M,White
+3724,4407,Dwight Steward,46,M,Black
+3725,4408,TK TK,37,M,Native
+3726,4414,Marcus Gishal,20,M,Hispanic
+3727,4406,Kevin Grant Vawter,46,M,White
+3728,4409,Katlyn Alix,24,F,White
+3729,4514,Christian Albarran,26,M,Hispanic
+3730,4417,Jeffrey Lynn Jones,60,M,White
+3731,4429,Jacob Archambault,25,M,Native
+3732,4416,Joey Duane Ramirez,29,M,Hispanic
+3733,4420,Rhogena Nicholas,58,F,White
+3734,4421,Dennis Tuttle,59,M,White
+3735,4422,Gregory Griffin,46,M,Black
+3736,4424,David Michael Bosiljevac,55,M,White
+3737,4426,Nekiylo Dawayne Graves,27,M,Black
+3738,4427,Nicholas Philhower,30,M,White
+3739,4430,Carl Thayer,45,M,White
+3740,4423,Siatu'u Tauai,51,M,Other
+3741,4425,Paul Cantu,27,M,Hispanic
+3742,4511,Michael Joe Jolls,47,M,White
+3743,4512,Anthony Patrick Pellissier,52,M,White
+3744,4434,Robert Martinez,45,M,Hispanic
+3745,4432,Henry Harold Russell,47,M,White
+3746,4438,Johnny Weeks,68,M,Black
+3747,4481,Isaiah Thomas,40,M,Black
+3748,4435,Dylan Joseph-Mark Cross,18,M,White
+3749,4439,Asuncion J. Gomez-Guerrero,35,M,Hispanic
+3750,4431,Robert Matz,80,M,White
+3751,4437,Corey Johnson,44,M,Black
+3752,4436,Anthony Dewayne Childs,31,M,Black
+3753,4455,Seth Keo Mallard,20,M,White
+3754,4482,Allon Jones,43,M,Black
+3755,4483,Miles Dylan Cooper,25,M,White
+3756,5410,Bruce Carter,38,M,Black
+3757,4446,Danny Rodriguez,34,M,Hispanic
+3758,4448,Michael Robert Novak,58,M,White
+3759,4449,Morgan Shane West,38,M,White
+3760,4450,Nolan Hurtzig,29,M,White
+3761,4452,Jason Matthew Hill,40,M,White
+3762,4484,Charles L. Cook,49,M,White
+3763,4451,Aaron Allen Przekop,25,M,White
+3764,4441,Willie Bo McCoy,21,M,Black
+3765,4443,Jeffrey D. Tyree,57,M,White
+3766,4447,Jonathan Ramirez,28,M,Hispanic
+3767,4485,Gabriel Carter,25,M,White
+3768,4444,Ted Schmitz,58,M,White
+3769,4445,Willie Jermaine Robinson,34,M,Black
+3770,4442,Eric Young,34,M,White
+3771,4457,Ty'rell Pounds,24,M,Black
+3772,4461,Phayvanh Inthavong,32,M,Asian
+3773,4458,Alex Johnson,58,M,Black
+3774,4459,Christopher Brimsey,20,M,Black
+3775,4460,Patrick Reed,19,M,Black
+3776,4464,Johnny Mathis,46,M,White
+3777,4465,Garrett James Ebenal,28,M,White
+3778,4479,Greg Alyn Carlson,47,M,White
+3779,4462,Wilfredo Hernandez,47,M,Hispanic
+3780,4463,Michael Drayer,34,M,White
+3781,4477,Mark Morasky,37,M,White
+3782,4476,Gary Marin,45,M,Black
+3783,4470,Michael Elam,17,M,Black
+3784,4478,Nam Quang Le,34,M,Asian
+3785,4467,Javier Hernandez Morales,48,M,Hispanic
+3786,4475,Reginald Romero Bursey,32,M,Black
+3787,4466,Delmar Espejo,20,M,Asian
+3788,4469,Pierre Woods,31,M,Black
+3789,4473,Clayton Joseph,16,M,Asian
+3790,4498,Emanuel David Joshua Oates,24,M,Black
+3791,4474,Kyron Marcell Sands,39,M,Black
+3792,4490,Kyle Thomas,26,M,White
+3793,4471,Bradley Blackshire,30,M,Black
+3794,4472,Kasim Kahrim,36,M,Other
+3795,4489,Timothy Rhodes,28,M,White
+3796,4493,Neico Crooks,21,M,Black
+3797,4499,Felipe Martinez,36,M,Hispanic
+3798,4486,Sterling Durant Humbert,28,M,White
+3799,4487,Daniel David Messmer,24,M,White
+3800,4488,Angel Burke,29,M,White
+3801,4501,Jackie Scott Pendergrass,44,M,White
+3802,4480,Tommy Kirby,41,M,White
+3803,4494,Bryan A. Ryder,38,M,White
+3804,4548,David Litton,40,M,White
+3805,4492,Sasha Ann Pishko,20,F,White
+3806,4496,Tyler Schmidtbauer,27,M,White
+3807,4497,Joseph Hart,51,M,White
+3808,4549,Brandon Schmitt,48,M,White
+3809,4495,James Scott Reed,40,M,Black
+3810,4524,Michael Pierce,29,M,White
+3811,4528,Kenneth Joseph Sisneros,34,M,Hispanic
+3812,4536,Brenda Rodriguez Mendoza,20,F,Hispanic
+3813,4550,Maurice Arrisgado,47,M,Asian
+3814,4523,Eduardo Munoz,29,M,Hispanic
+3815,4538,Larry Todd Hoover,33,M,White
+3816,4541,Tyler J. Meier,46,M,White
+3817,4542,Clair Jewell,35,F,White
+3818,4526,Luke Anthony Swann,36,M,Black
+3819,4534,Stephen Kaylor,63,M,White
+3820,4539,Daniel Moncada,27,M,Hispanic
+3821,4540,Jeremy Ponce,17,M,Hispanic
+3822,4547,Shamikle Jackson,22,M,Black
+3823,4567,Stephanie Areanda Quiroz,21,F,Hispanic
+3824,4679,Joshua Worth,31,M,White
+3825,4529,Danny Brogdon,56,M,White
+3826,4537,Antonio Joseph Valentine,32,M,Black
+3827,4678,Donqaule Maurice Gray,25,M,Black
+3828,4544,Rodney Fisher,47,M,White
+3829,4545,Carlos Hunter,37,M,Hispanic
+3830,4546,Dylan Aikey,23,M,White
+3831,4556,Thomas Wayne Swinford,34,M,White
+3832,4554,Beth Plant,51,F,White
+3833,4557,Eric Hagstrom,35,M,White
+3834,4558,Joel David Kellay,46,M,White
+3835,4559,Tommy Wayne Welch,59,M,White
+3836,4677,Rodney Lassiter,30,M,Black
+3837,4552,Brandon Robertson,34,M,Native
+3838,4553,Phillip Wayne Outland,44,M,White
+3839,4555,Sokhom Hon,31,M,Asian
+3840,4674,Anthony Lee Montoya,51,M,Hispanic
+3841,4675,Michael J. D'Angelo,34,M,White
+3842,4560,Robert Mark Frady,45,M,White
+3843,4561,Latasha Nicole Walton,32,F,Black
+3844,4562,Brandon Stacey,31,M,White
+3845,4563,Charles Ballard,41,M,Black
+3846,4564,Benjamin Melendez,29,M,Hispanic
+3847,4566,Nina Adams,47,F,Black
+3848,4570,Henry Wayne Rivera,30,M,Hispanic
+3849,4565,Shawn Taylor Waite,27,M,Native
+3850,4569,Jerry Marrero,38,M,Hispanic
+3851,4571,George Wayne McCallum,33,M,White
+3852,4578,Victor J. Morales Zavala,25,M,White
+3853,4579,Michael Cohen,47,M,White
+3854,4577,Timothy John Beckwith,49,M,White
+3855,4575,Jorge Luis Rivera-Melendez,33,M,Hispanic
+3856,4580,Kenneth Cherry,36,M,White
+3857,4586,Thomas Johnson,22,M,Black
+3858,4590,Juan Manuel Flores Del Toro,29,M,Hispanic
+3859,4596,Jesus Calderon,52,M,Hispanic
+3860,5411,James Hunn,61,M,White
+3861,4581,Osaze Osagie,29,M,Black
+3862,4584,Stevie Garcia,37,M,Hispanic
+3863,4591,Hannah Westall,26,F,White
+3864,4585,Daishawn Brown,19,M,Black
+3865,4594,Bruce Puchel,45,M,White
+3866,4595,Derek Smith,22,M,Black
+3867,4589,Kevin Bruce Mason,57,M,Black
+3868,4592,Joseph David Durman,46,M,White
+3869,4587,Danquirs Napoleon Franklin,27,M,Black
+3870,4588,Abraham Arellano,26,M,Hispanic
+3871,4603,Brandon Coty Elliott,30,M,White
+3872,4657,Kaylon Robinson,18,M,Black
+3873,4597,Brandon Michael Jacque,25,M,White
+3874,4600,Stephen Marshall,51,M,White
+3875,4601,Leonardo Gallegos,40,M,Hispanic
+3876,4602,Kevin Samuel Capers,47,M,White
+3877,4604,Chris Joseph,38,M,Black
+3878,4605,Daviri Robertson,39,M,Black
+3879,4671,Brian Leslie Statler,30,M,Black
+3880,4607,Augustine Gutierrez,42,M,Hispanic
+3881,4606,Pierre J. Cher Frere,25,M,Black
+3882,4610,Andrew John Mason,22,M,White
+3883,4669,Ondrae Levado Hutchinson,30,M,Black
+3884,4608,Stacy William Kenny,33,F,White
+3885,4611,Juan Padilla,24,M,Hispanic
+3886,4612,Oscar Cain,31,M,Black
+3887,4618,Kevin Ray McEnulty,25,M,Native
+3888,4609,Lianna Renee London,28,F,White
+3889,4620,Veltavious Griggs,19,M,Black
+3890,4656,Bishar Hassan,31,M,Black
+3891,4615,Donnell James Lang,48,M,White
+3892,4613,Barry A. Rucker,53,M,White
+3893,4614,Alfonso Cervantes,50,M,Hispanic
+3894,4616,Jeffrey Garner,55,M,Hispanic
+3895,4617,Zachary Kinard,37,M,White
+3896,4619,Thomas Verile,37,M,White
+3897,4625,Daniel Robert Ramirez,30,M,Hispanic
+3898,4624,Benjamin B. Lucas,36,M,White
+3899,4621,Anthony Orlando Bowers,24,M,Black
+3900,4622,Marzeus Scott,35,M,Black
+3901,4630,Charles Bradley Payne,42,M,White
+3902,4631,Harold Vincent Robinson,37,M,Black
+3903,4627,Michael Wray Hensley,28,M,White
+3904,4628,Michael Gulley,32,M,White
+3905,4629,Terry Davis,33,M,Black
+3906,4645,Trivenskey O. Odom,27,M,Black
+3907,4658,Anthony Santana,21,M,Hispanic
+3908,4659,David Wittman,47,M,White
+3909,4661,John Darlington,57,M,White
+3910,4662,Demetrious Brooks,34,M,Black
+3911,4664,Marcus McVae,34,M,Black
+3912,4665,Phillip Thomas Marsh,30,M,White
+3913,4666,Theresa Medina-Thomas,29,F,Hispanic
+3914,4640,Myron Flowers,28,M,Black
+3915,4643,Juan Torres,39,M,Hispanic
+3916,4663,Luc Ciel,54,M,Asian
+3917,4633,Augustus Combs,27,M,White
+3918,4634,Kawaski Trawick,32,M,Black
+3919,4636,Clarence Leading Fighter,32,M,Native
+3920,4639,William Crawford,47,M,White
+3921,4655,Brian Dellaann Butts,33,M,White
+3922,4635,Henry Lane,42,M,Native
+3923,4632,Samuel Charles Talbott,37,M,White
+3924,4641,Chadwick Dale Martin,24,M,White
+3925,5412,Patrick West,42,M,White
+3926,4642,Akeen Brown,34,M,Black
+3927,4648,"John Stewart, Jr.",46,M,White
+3928,4637,John Duane Fairbanks,40,M,Native
+3929,4646,Michael Allen Felch,30,M,White
+3930,4647,Luiz Leizado,42,M,Hispanic
+3931,4650,Soheil Antonio Mojarrad,30,M,White
+3932,4651,Carlton Steve Brooks,63,M,White
+3933,4653,Anthony Jose Vega Cruz,18,M,Hispanic
+3934,4891,Sean Michael Collins,29,M,Hispanic
+3935,4652,Michael St. Clair,42,M,White
+3936,4649,David Flores Ramos,32,M,Hispanic
+3937,5413,Richard Allen Moench,50,M,White
+3938,4667,Emory Moore,29,M,White
+3939,4892,Jonathan Patzel,29,M,White
+3940,4681,Stanley Edward Thompson,51,M,White
+3941,5415,Kevin Leroy Beasley,23,M,Black
+3942,4684,Jose Dominguez,47,M,Hispanic
+3943,4685,Carlos Manuel Dodero,45,M,Hispanic
+3944,4683,Jeb Colin Brock,42,M,White
+3945,4693,Alejandro Hernandez,26,M,Hispanic
+3946,4694,Lawrence Bottoms,29,M,White
+3947,4695,Shawna Widemann,49,F,Asian
+3948,4692,Isaiah Lewis,17,M,Black
+3949,4687,TK TK,37,M,Hispanic
+3950,4690,April Robertson,45,F,White
+3951,4688,Reinaldo Gonzalez,51,M,Hispanic
+3952,4689,Isaac Pineda,37,M,Hispanic
+3953,4712,Timothy Manuel,28,M,White
+3954,4696,David Wayne West,52,M,White
+3955,4710,Jorge Albert Merino,37,M,Hispanic
+3956,4706,Timothy Russell Majchrzak,37,M,White
+3957,4708,Ethan Austin Murray,25,M,White
+3958,5416,Saoun Pol,35,M,Asian
+3959,5417,Jason Demarcus Larkin,35,M,White
+3960,4707,George Herrera,61,M,Hispanic
+3961,4699,Pedro Colazo-villa,33,M,Hispanic
+3962,4698,Cesar Tomix Sarmiento-Molina,34,M,Hispanic
+3963,4704,Aubrey Manning,59,M,White
+3964,4735,Francisco Anthony Alcaraz,32,M,Hispanic
+3965,4701,Eddie Herrera,49,M,Hispanic
+3966,4702,Ryan Smith,31,M,Black
+3967,4703,Hector Lopez,29,M,Hispanic
+3968,4734,Derrec Jamal Shaw,25,M,Black
+3969,4713,Sharell Brown,26,M,Black
+3970,4714,Edward Fuller,37,M,Black
+3971,4715,Jeremy Potwin,39,M,White
+3972,4717,Luis Quinones Rosa,26,M,Hispanic
+3973,4718,Malik Ali Gresham,36,M,Black
+3974,4719,Pamela Shantay Turner,45,F,Black
+3975,4720,James Douglas Meadows,45,M,White
+3976,4722,Alex Steward Underdown,54,M,White
+3977,4721,Ronny Rodriguez,43,M,Hispanic
+3978,5227,Ruben Houston,37,M,Black
+3979,5418,Djuantez Anthony Mitchell,30,M,Black
+3980,4729,Michael Nieto,37,M,Hispanic
+3981,4733,Elizabeth Harris,58,F,White
+3982,4730,Luis Lomante,39,M,Hispanic
+3983,4732,"Donald Davis, Jr.",40,M,Black
+3984,5007,Daniel Warren,36,M,Black
+3985,4728,Dion Grey Hat,27,M,Native
+3986,4731,Andrew Giovanni Meza,20,M,Hispanic
+3987,4725,Robert Rabago,17,M,Hispanic
+3988,4727,Esteban Martinez,59,M,Hispanic
+3989,4736,Lori Markham,47,F,White
+3990,4742,Ronnie Churches,45,M,Other
+3991,4723,Michael Ann Godsey,34,F,White
+3992,4724,Carlos Javier Roman Santiago,46,M,Hispanic
+3993,4726,Enosa Strickland,26,M,Black
+3994,4741,Juan Antonio Sillas,21,M,Hispanic
+3995,5420,Steven Case,29,M,White
+3996,4755,Joseph M. Tedrick,33,M,White
+3997,5422,David Marcus Reece,47,M,White
+3998,5423,Myles Frazier,22,M,Black
+3999,4743,Luke H. Patterson,41,M,White
+4000,4760,Adam Michael McCoy,28,M,White
+4001,5438,Fred Burton,56,M,White
+4002,4740,Ryan Brett Thomas,41,M,White
+4003,4744,Carlvon Mayo,35,M,Hispanic
+4004,5439,Hamid Ould-Rouis,59,M,Other
+4005,4737,Terrance Bridges,30,M,Black
+4006,4738,Robert Sabater,49,M,White
+4007,4745,Nakia Smith,41,M,Black
+4008,4746,Curtis Stagger,21,M,Black
+4009,4758,Gerald Tremblay,62,M,White
+4010,4756,Crystal Danielle Ragland,32,F,Black
+4011,4757,Isaac Ray Ruiz,22,M,Hispanic
+4012,4759,Steve Huff,58,M,White
+4013,4749,Kyle Needham,32,M,White
+4014,4753,Jesse Sarey,26,M,Asian
+4015,4750,Thomas Goodeyes Gay,35,M,Native
+4016,4751,Nikolai Landry,27,M,White
+4017,4752,Marcus Boles,35,M,Black
+4018,4748,Miles Hall,23,M,Black
+4019,4747,David Hoal,59,M,White
+4020,4761,Travis James Eckstein,23,M,White
+4021,4762,Samuel Galberth,43,M,Black
+4022,4803,Kevin Pudlik,41,M,Black
+4023,4763,Martin Allen Goodier,56,M,White
+4024,4767,Erik Gebauer,45,M,White
+4025,4764,Fabian Rivera,28,M,Hispanic
+4026,4765,Jay Clem,37,M,White
+4027,4766,Scott Hedgecock,54,M,White
+4028,4776,Matthew Freeseha,39,M,White
+4029,4773,Ryan Twyman,37,M,Black
+4030,4774,Jose De Santiago Media,41,M,Hispanic
+4031,4775,Edtwon Stamps,27,M,Black
+4032,4804,Harry Gipson,70,M,White
+4033,4805,Jose Jesus Astorga,37,M,Hispanic
+4034,4829,Jose Salvador Meza,35,M,Hispanic
+4035,4830,Rodnell Cotton,26,M,Black
+4036,5446,Zendall Noble,58,M,White
+4037,4831,Jason Nash,46,M,White
+4038,4769,Bryan Bernard Wallace,39,M,Black
+4039,4772,Krystal Arvizu,33,F,Hispanic
+4040,4768,JaQuavion Slaton,20,M,Black
+4041,4770,David Wayne Downs,38,M,White
+4042,4832,William James Back,41,M,White
+4043,4833,Ysidro Osornio-Velasquez,32,M,Hispanic
+4044,4771,Terry Frost,37,M,White
+4045,4778,"Vincense Williams, Jr.",24,M,Black
+4046,4779,Brent Durbin-Daniel,19,M,Black
+4047,4777,Jaquan Derrick Diijon Thompson,27,M,Black
+4048,4781,Eddie Humberto Segura,40,M,Hispanic
+4049,4787,Jimmy De Odell,61,M,White
+4050,4780,Brandon Webber,20,M,Black
+4051,5449,Juan Manuel Moreno,35,M,Hispanic
+4052,4782,Marquis Weems,17,M,Black
+4053,4784,Tramon Savage,22,M,Black
+4054,4791,Michael Sheehan,45,M,White
+4055,4792,Mantry Norris,20,M,Black
+4056,4793,Ty'Rese West,18,M,Black
+4057,4794,Jamarcus Dejun Moore,28,M,Black
+4058,4796,Alfredo Chino,38,M,Hispanic
+4059,4786,Eric Jack Logan,53,M,Black
+4060,4790,Carlos Vale,31,M,Hispanic
+4061,4795,Shawn Ray Wilson,48,M,White
+4062,4788,Mark Anthony Galvan,20,M,Hispanic
+4063,4789,Francisco Tarin,35,M,Hispanic
+4064,4802,Brian Isaack Clyde,22,M,White
+4065,4797,Josh Flores,18,M,Hispanic
+4066,4799,DeWayne Watkins,74,M,Black
+4067,4800,Juan Carlos Chapa,33,M,Hispanic
+4068,5451,Dewayne Tackett,38,M,White
+4069,4806,Kevin Anthony Alaniz,26,M,Hispanic
+4070,4807,Scott William Robertson,41,M,White
+4071,4811,Michael Spencer,29,M,White
+4072,4808,Jaymil Ellerbe,19,M,Black
+4073,4812,Bradley Rundle,61,M,Black
+4074,5452,Peter Alexander Bohning,34,M,White
+4075,4809,Tomas Hernandez,35,M,Hispanic
+4076,4815,Shawn D. Blowers,43,M,White
+4077,4813,Michael Norquest,50,M,White
+4078,4816,Elijah Collins III,32,M,Black
+4079,4814,Marvin Green,50,M,Black
+4080,4817,Benjamin Ray Smith,54,M,Black
+4081,4818,Stephen D. Sloan,35,M,White
+4082,4819,Matthew Christian Smith,33,M,White
+4083,4820,Paul David Rea,18,M,Hispanic
+4084,4821,William Aubrey Martin,50,M,White
+4085,4822,Erik Sandoval,41,M,Hispanic
+4086,4824,Gene Pool,37,M,Black
+4087,4827,William Lamb,76,M,White
+4088,4840,Ryan Moody,19,M,White
+4089,5454,Zackary Ryan Hoppe,40,M,White
+4090,4826,TK TK,61,M,White
+4091,5455,Jack Daniel West,61,M,White
+4092,4823,Christopher Barela,22,M,Hispanic
+4093,4834,"Terry Allen ""Bubba"" Payne",52,M,White
+4094,4835,Aaron Hong,23,M,Asian
+4095,4836,Ben Fields,67,M,Black
+4096,4837,Chad Williams,44,M,White
+4097,4838,Isak Abdirahman Aden,23,M,Other
+4098,4841,Isaiah Robinson,39,M,Black
+4099,4843,Mark A. Naugle,53,M,White
+4100,4850,Stonechild Chiefstick,39,M,Native
+4101,4855,Jonathan Pingel,26,M,White
+4102,4857,Christine Soto Venegas,38,F,Hispanic
+4103,4979,Li Xi Wang,49,M,Asian
+4104,4856,Leonel Mendez,34,M,Hispanic
+4105,4854,Olivio Sandoval Diaz,47,M,Hispanic
+4106,4845,Jose Martinez,34,M,Hispanic
+4107,4847,James C. Pinkston,58,M,White
+4108,4848,Hannah Williams,17,F,White
+4109,4849,Joshua Ortiz,21,M,White
+4110,4852,Angel Ramos Otero,37,M,Hispanic
+4111,4846,Kareem Omar Morgan,43,M,Black
+4112,4842,Thomas Graham,61,M,White
+4113,4844,Tymar Crawford,28,M,Black
+4114,4851,Johnny W. Dellinger,41,M,White
+4115,4866,Shawn Toney,23,M,White
+4116,4858,Anthony James Gonzales,36,M,Hispanic
+4117,4860,Sean Rambert,23,M,Black
+4118,4862,Grayson Schuessler,26,M,White
+4119,4861,Darrell Allen,32,M,Black
+4120,4865,Dennis Edwards,62,M,White
+4121,4864,Frankie Feliciano,33,M,Hispanic
+4122,4904,Logan O. Johnsrud,32,M,White
+4123,4872,Willem Van Spronsen,69,M,White
+4124,4879,Derek Antonio-Sanchez,35,M,Hispanic
+4125,4885,Brian H. Benfield,46,M,White
+4126,5460,Jamahl Smith,46,M,Black
+4127,4870,Blige Sean Christopher Cypress,22,M,Black
+4128,4877,Onaje Dickinson,20,M,Black
+4129,5461,Dijon D. Watkins,30,M,Black
+4130,4869,Ashanti Pinkney,49,M,Black
+4131,4876,Michael Anthony Brand,43,M,White
+4132,4884,Jose Javier Gonzalez,52,M,Hispanic
+4133,5462,Daryl Johannesson,56,M,White
+4134,5463,Brandon Ray Stansel,36,M,White
+4135,5465,Kelly Danielle Brumley,40,F,White
+4136,4875,Stephen Murray,52,M,Black
+4137,4882,Mark Anson Schoggins,35,M,White
+4138,4883,Roderick Wilson,35,M,Black
+4139,4874,Patrick Martinez,53,M,Hispanic
+4140,4880,Leo Brooks,23,M,Black
+4141,5466,Makeyvion Devonte Cannon,19,M,Black
+4142,4867,Witney Rivera,41,M,Hispanic
+4143,5467,Jeffrey Bodie,39,M,White
+4144,4889,Elisha Lucero,28,F,Hispanic
+4145,5468,Hashim Jibiri Wilson,28,M,Black
+4146,4888,Shawan F. Allen,37,M,Black
+4147,4893,John David Brown,53,M,White
+4148,4886,James Manzo,27,M,White
+4149,4887,Omari Thompson,31,M,Black
+4150,4890,Joshua Vigil,38,M,Hispanic
+4151,4894,Josef Delon Richardson,38,M,Black
+4152,4896,Alphonso Zaporta,41,M,Hispanic
+4153,4897,Todd Messner,49,M,White
+4154,4901,Donald Williams Allamong,56,M,White
+4155,4895,Adalberto Wolmar Rodriguez,62,M,Hispanic
+4156,4902,Lane Christopher Martin,31,M,White
+4157,4903,Donald Lee Joseph,37,M,White
+4158,4927,Jose Baca-Olivares,37,M,Hispanic
+4159,4950,Troy Petersen,28,M,White
+4160,4923,Mauris Nishanga DeSilva,46,M,Asian
+4161,4917,Jamaal Simpson,21,M,Black
+4162,4922,Margarita Victoria Brooks,30,F,White
+4163,4924,Eric Toon,36,M,White
+4164,4926,Lenny Blaine Griffin,48,M,White
+4165,4911,Mario Benjamin,34,M,Black
+4166,4913,Deshon Downing,45,M,Black
+4167,4912,De'Von Bailey,19,M,Black
+4168,4915,Oscar Ventura-Gonzalez,32,M,Hispanic
+4169,4919,Cortney Ronald Staley,32,M,White
+4170,4907,Connor Betts,24,M,White
+4171,4909,Robert Clay Wilsford,65,M,White
+4172,4910,Riche Antonio Santiago,29,M,Hispanic
+4173,4914,James Lee Kirkwood,49,M,Black
+4174,4916,Marvin Alexis Urbina,19,M,Hispanic
+4175,4947,Derrick Davidson,56,M,White
+4176,4953,Kaizen Crossen,39,M,Black
+4177,4954,William Biggs,43,M,White
+4178,4955,Allan George,57,M,White
+4179,4936,Donald Babbit,49,M,White
+4180,4928,Detravian Allison,18,M,Black
+4181,4930,Toussaint Diamon Sims,27,M,Black
+4182,4933,Jason Xavier Salas,52,M,Hispanic
+4183,4934,Jose Mendez,37,M,Hispanic
+4184,4938,Freddrick Andrews Hadden,45,M,White
+4185,4945,Aaron Luther,49,M,White
+4186,4949,Scott Souders,38,M,White
+4187,4939,David Ingle,31,M,White
+4188,4940,Jerry Orlando Weaver,51,M,Black
+4189,4941,Anthony Wayne French,37,M,White
+4190,4943,Charles Roy Pearson,51,M,Black
+4191,4983,Cole Steele Jessup,20,M,White
+4192,4964,Jovany Mercado-Bedolla,26,M,Hispanic
+4193,4956,Rashad Cunningham,25,M,Black
+4194,4959,Uzzle Jerome,37,M,Black
+4195,4962,Mike Parsley,62,M,White
+4196,4963,Schaston Theodore Lamarr Hodge,27,M,Black
+4197,4960,Roberto Rene Gabriel,33,M,Hispanic
+4198,4968,Carlos Torres,39,M,Hispanic
+4199,4976,Amari Malone,18,M,Black
+4200,4978,James Crowe,27,M,White
+4201,4982,TK TK,50,M,Hispanic
+4202,4972,Roger Schafer,57,M,White
+4203,4974,Michael Tuck,29,M,Black
+4204,4975,Riley Eugene Peay,39,M,White
+4205,4980,Chad Michael Breinholt,31,M,White
+4206,5472,Larry Leonard Lowry,34,M,White
+4207,4977,Dennis Carolino,52,M,Hispanic
+4208,4981,Channara Tom Pheap,33,M,Black
+4209,4986,Raymond Lewis Williams,37,M,Black
+4210,5473,Keith Carter,52,M,Black
+4211,4989,Wallace Wilder,62,M,Black
+4212,4990,Tyrone Domingo Banks,30,M,Black
+4213,4991,Jeremy Connolly,28,M,White
+4214,5002,Rene Enrique Ruiz,51,M,Hispanic
+4215,4994,Terry Tillman,23,M,Black
+4216,5006,Seth Aaron Ator,36,M,White
+4217,5031,Juan Carlos Macias,37,M,Hispanic
+4218,4995,Robert Desjarlais,49,M,White
+4219,4996,Sidney J. Holst,49,M,White
+4220,5005,Steven Cole Gill,35,M,White
+4221,5023,Tommy Luke Hranicky,17,M,White
+4222,5004,Attillio Gilmartin,30,M,White
+4223,5104,Eduard Alexis Lopez-Ucles,34,M,Hispanic
+4224,5477,Terry Pierce,46,M,White
+4225,5009,Fares J. Al-Samno,29,M,White
+4226,5008,Cortez Shepherd,28,M,Black
+4227,5020,John Carras,43,M,White
+4228,5018,Vondarrow Dewayne Fisher,42,M,Black
+4229,5013,Brian Quinones,30,M,Hispanic
+4230,5016,Bennie Branch,24,M,Black
+4231,5024,Quentin Broadus,27,M,Black
+4232,5025,Kristopher Fitzpatrick,41,M,White
+4233,5027,Hector Miranda,47,M,Hispanic
+4234,5022,Bobby Ray Duckworth,26,M,Black
+4235,5021,Caleb Daniel Peterson,20,M,White
+4236,5026,Tasjon Tyreek Osbourne,18,M,Black
+4237,5028,TK TK,37,M,Black
+4238,5029,Allen Cates,29,M,White
+4239,5030,Alvaro Duran Venegas,35,M,Hispanic
+4240,5033,Robert E. Domine,77,M,White
+4241,5039,Nicholas Walker,31,M,Black
+4242,5042,Melvin Watkins,54,M,Black
+4243,5480,Jose Orona,33,M,Hispanic
+4244,5482,James Hilton Glaze,76,M,White
+4245,5036,Brian Dryer,28,M,White
+4246,5037,Ronald Davis,31,M,Black
+4247,5035,Eric Carter,53,M,Black
+4248,5038,Jeffrey Michael Gibble,33,M,White
+4249,5041,Kristopher Adams,37,M,White
+4250,5032,Gay Ellen Plack,57,F,White
+4251,5486,Brian Rodden,36,M,White
+4252,5248,Gregory Edwards,39,M,Black
+4253,5043,Scott Gabriel Spangler,43,M,White
+4254,5487,Gabriel Rouse,44,M,White
+4255,5489,Willie Hudson,33,M,Black
+4256,5488,Shawn Stevens,49,M,Black
+4257,5044,Jordan Michael Griffin,18,M,Black
+4258,5058,Adam Paul English,21,M,White
+4259,5492,Scott Johnson,57,M,White
+4260,5049,Jeffrey Peterson,29,M,White
+4261,5490,Anderson Antelope,58,M,Native
+4262,5050,TK TK,74,M,White
+4263,5046,Raymond Hernandez,63,M,Hispanic
+4264,5047,Jeffery Tyler Aycock,28,M,White
+4265,5068,Haywood Cannon,67,M,White
+4266,5053,Daryl Strickland,64,M,White
+4267,5067,Kevin Dudenhefer,32,M,White
+4268,5052,Leonard Shand,49,M,Black
+4269,5054,Chad Willis Huggins,28,M,White
+4270,5063,Jamaal Ramone Taylor,31,M,Black
+4271,5061,David Page,20,M,White
+4272,5064,Antonio Williams,27,M,Black
+4273,5070,Angela Louise Perkins,38,F,White
+4274,5060,Dewayne Morgan,37,M,White
+4275,5071,Anthony Watkins,36,M,White
+4276,5491,Raphael Michael Torres,35,M,Hispanic
+4277,5072,Jack Thomas Naylor,50,M,White
+4278,5073,Roy Tucker,75,M,White
+4279,5074,Joseph Jesk,32,M,White
+4280,5081,Christopher G. Louras,34,M,White
+4281,5082,Michael John,24,M,Black
+4282,5079,Bruce William Clark,37,M,White
+4283,5080,Christopher Massey,33,M,White
+4284,5078,Antonio Vasquez,37,M,Hispanic
+4285,5088,Maurice Holley,55,M,Black
+4286,5085,Joshua Chase Conner,31,M,White
+4287,5475,Bobby Lee Vaughn,54,M,White
+4288,5086,Crederick Joseph,37,M,Black
+4289,5087,Joseph Cimino,48,M,White
+4290,5222,Zachary Aldrige Hall,28,M,White
+4291,5083,Leo Craig,31,M,Black
+4292,5084,Michael Uccello,48,M,White
+4293,5098,Norbert Beyet,58,M,White
+4294,5100,Sayven Lane Rowland,19,M,White
+4295,5090,Atatiana Jefferson,28,F,Black
+4296,5094,Sawandi Asad Toussaint,21,M,Black
+4297,5095,Fernando Mora,57,M,Hispanic
+4298,5089,Levy Isacc Madueno Santibanez,17,M,Hispanic
+4299,5093,Emilio Mojica,22,M,Hispanic
+4300,5221,Jose Eduardo Flores,26,M,Hispanic
+4301,5099,Christopher Whitfield,31,M,Black
+4302,5101,Victor Jarvis,61,M,Black
+4303,5103,Bonny Thomas,54,F,White
+4304,5102,Dennis Patrick,28,M,White
+4305,5105,Cameron Ely,30,M,White
+4306,5106,Nasheem Prioleau,30,M,Black
+4307,5110,David James Bamber,28,M,White
+4308,5220,Akinyia Malik Jerome Gray,26,M,Black
+4309,5107,Chase Andrew Austin,28,M,White
+4310,5108,Lazzeri James Frazier,21,M,Black
+4311,5109,Allan Feliz,31,M,Black
+4312,5111,Marcus Hartsfield,27,M,White
+4313,5113,Christopher DeQuan Crosby,34,M,Black
+4314,5476,Cameron Bennett,22,M,Black
+4315,5115,Malachi Crane,29,M,White
+4316,5118,Charles Tsakiris,38,M,White
+4317,5217,McLemore Ronald,51,M,White
+4318,5219,Terry Countryman,34,M,White
+4319,5116,Steven Day,30,M,Black
+4320,5117,Amber Lea Dewitt,33,F,White
+4321,5114,Joseph Bernhard-Williams Kisar,21,M,White
+4322,5120,Jason Livegood,39,M,White
+4323,5216,Claudia Nadia Rodriguez,37,F,Hispanic
+4324,5122,Jordan Wade Waldrop,34,M,White
+4325,5125,Matthew Wayne Sutton,47,M,White
+4326,5139,Victor Hernandez,29,M,Black
+4327,5140,Vincent Michael Smith,29,M,White
+4328,5141,Delfon Kinney,44,M,Black
+4329,5119,Michael Babcock,53,M,White
+4330,5123,Shannon Gail Rupert,45,F,White
+4331,5124,Anthony John Michael Zapier,19,M,White
+4332,5128,Clayton Andrews,40,M,White
+4333,5132,Kwesi Ashun,33,M,Black
+4334,5131,Nan Zhao,45,M,Asian
+4335,5135,Clayton Andrews,40,M,White
+4336,5134,Johnathan Wayne Slattery,27,M,White
+4337,5126,Dean Thomas,63,M,White
+4338,5129,Luis Arreguin-Lara,50,M,Hispanic
+4339,5130,Earnest Easterling,25,M,Black
+4340,5127,Dana Sherrod Fletcher,39,M,Black
+4341,5144,Arturo Moreno,42,M,Hispanic
+4342,5143,Terry W. Chanley,25,M,White
+4343,5146,John Feggins,24,M,Black
+4344,5147,Michael Pinkerman,37,M,White
+4345,5162,Billy Kongphouthakhoun,37,M,Asian
+4346,5163,Ricardo Myers,62,M,White
+4347,5160,Danny James Hall,34,M,White
+4348,5161,Francis Calonge,33,M,White
+4349,5479,Edward Roe,56,M,White
+4350,5150,Benjamin Diaz,22,M,Hispanic
+4351,5158,Anthony Pena,46,M,Hispanic
+4352,5159,Luis Morales-Camacho,41,M,Hispanic
+4353,5173,Luis Fino Nabarrette,38,M,Hispanic
+4354,5191,Benjamin Diaz,22,M,Hispanic
+4355,5157,John Hale,42,M,White
+4356,5155,Michael Kifer,29,M,White
+4357,5153,Curtis French,56,M,White
+4358,5154,Michael Austin,32,M,Black
+4359,5172,Matthew Rasmussen,31,M,White
+4360,5174,Daniel M. Munoz,21,M,Hispanic
+4361,5175,Nash Fiske,31,M,White
+4362,5167,Maurice Brown,48,M,Black
+4363,5168,Jay P. Messer,58,M,White
+4364,5169,Michael Lee Nguyen,32,M,Asian
+4365,5171,Christopher Alan Noe,45,M,White
+4366,5164,Eddie Ray Maxwell,37,M,Black
+4367,5165,Corben Hunter Jones,20,M,White
+4368,5166,Raul Casas Campo,34,M,Hispanic
+4369,5170,Treva Smutherman,31,M,Black
+4370,5176,Guy Thomas Barnard,26,M,White
+4371,5177,Shelby Gazaway,32,M,Black
+4372,5178,Gerald Newton Allen,66,M,White
+4373,5179,Christopher Mills,37,M,White
+4374,5185,Ray Correll,38,M,White
+4375,5481,Ryan D. Hemmingson,44,M,White
+4376,5187,Daniel Thomas Childers,28,M,White
+4377,5180,John Luce,22,M,White
+4378,5182,Tammy Pierce,59,F,White
+4379,5184,Sidney Alexis Renew,20,F,White
+4380,5181,Justin Anderson,39,M,White
+4381,5213,Michael Kahalehoe,30,M,Other
+4382,5195,Roy McAllister,27,M,Black
+4383,5197,Chris Ervie,37,M,White
+4384,5203,Omar Enrique Garcia,37,M,Hispanic
+4385,5204,Kennith Waynon Hooker,52,M,White
+4386,5212,Michael  A. Jolly,35,M,White
+4387,5190,Treon McCoy,33,M,Black
+4388,5193,Mark Sheppard,27,M,Black
+4389,5189,Garrett Ryberg,27,M,White
+4390,5196,Robert Sikon,41,M,White
+4391,5194,Dante Redmond Jones,28,M,Black
+4392,5201,Cody McClintick,26,M,White
+4393,5198,Joel Avery,37,M,White
+4394,5199,Alex Flores,34,M,Hispanic
+4395,5202,Jacob Cato,34,M,White
+4396,5226,Luis A. Cardona,38,M,Hispanic
+4397,5483,Christopher Terrell Willis,32,M,Black
+4398,5205,Raul Antonio Menjivar Saabedra,50,M,Hispanic
+4399,5206,Paul Cheek,55,M,White
+4400,5207,William Harris,51,M,White
+4401,5208,Kenneth Simeus,18,M,Black
+4402,5263,Jessica Ann Beedles,42,F,White
+4403,5224,Anthony Chilcott,36,M,White
+4404,5225,Lance Edward Smith,37,M,Black
+4405,5209,Ariane Lamont McCree,28,M,Black
+4406,5210,Estevon Cruz,24,M,Hispanic
+4407,5211,Steven Forrest Saucier,34,M,White
+4408,5223,Nathaniel Pinnock,22,M,Black
+4409,5244,Jason Quincey Niccum,42,M,White
+4410,5243,Eric Sopp,48,M,White
+4411,5245,Hollis Lewis,51,M,White
+4412,5484,Micduff Lamarco Robinson,40,M,Black
+4413,5238,Jeremy Pelican,34,M,White
+4414,5240,Derrick Everett,30,M,Black
+4415,5485,Nicholas Cantelmi,31,M,White
+4416,5236,Raymond Lee,54,M,White
+4417,5239,Kenneth Layton,60,M,White
+4418,5241,Keith Alan Bruce,40,M,White
+4419,5242,TK TK,37,M,White
+4420,5234,Eliborio Rodriguez,40,M,Hispanic
+4421,5228,Anthony Rosso,68,M,White
+4422,5229,Jimmie Phillips,68,M,Black
+4423,5232,Donald James Eversen,60,M,White
+4424,5233,Yemerson Melendez,16,M,Hispanic
+4425,5235,Steven Kerr,25,M,White
+4426,5384,Jordan Oliver,20,M,White
+4427,5230,Jerric Harris,21,M,Black
+4428,5246,Dai Phuoc Nguyen,38,M,Asian
+4429,5249,Michael Dean,28,M,Black
+4430,5388,Neil Chiago,18,M,Native
+4431,5247,Thomas Cole Thompson,37,M,White
+4432,5250,Cameron Lamb,26,M,Black
+4433,5257,Miguel Russo,31,M,Black
+4434,5255,Alvern Donnell Walker,58,M,Black
+4435,5256,Demetrius Williams,31,M,Black
+4436,5260,Lamar Alexander,41,M,Black
+4437,5261,Ronnie Jerome Hill,41,M,Black
+4438,5390,Chad James Green,41,M,White
+4439,5252,Hunter Steven James Lowry,23,M,White
+4440,5254,Dominick Matt,17,M,Black
+4441,5253,London T. Phillips,35,M,White
+4442,5264,Mark Richard Coleman,65,M,White
+4443,5251,Koben S. Henriksen,51,M,White
+4444,5262,Antonio Nichols,47,M,Black
+4445,5265,Robert Allen Elfgen,42,M,White
+4446,5266,Mauro Carrillo,42,M,Hispanic
+4447,5269,Kreed Cornell Bateman,31,M,Black
+4448,5270,Montay Steven Penning,23,M,Black
+4449,5271,Francine Graham,50,F,Black
+4450,5272,David N. Anderson,47,M,Black
+4451,5392,Terrence Edward White,66,M,White
+4452,5267,Daniel E. Condon,55,M,White
+4453,5268,Delos P. Lowe,68,M,White
+4454,5393,Matthew Jonathan Krupar,31,M,White
+4455,5280,Cortez Bufford,24,M,Black
+4456,5281,Cade Humphrey,30,M,White
+4457,5282,Taveonte Art Emmanuel,34,M,Black
+4458,5284,Bradley Cutchens,23,M,White
+4459,5286,Anthony Tovar,43,M,White
+4460,5297,Romello Barnes,22,M,Black
+4461,5273,Jamee Christopher Deonte Johnson,22,M,Black
+4462,5277,Victor A. Parsons,42,M,White
+4463,5278,Louis Patrick Veal,65,M,Black
+4464,5279,Alejandro Betancourt-Mendoza,18,M,Hispanic
+4465,5274,Kean Walker,23,M,White
+4466,5275,Chiasher Fong Vue,52,M,Asian
+4467,5276,Mohammad Jamal Isaifan,40,M,Other
+4468,5293,Mario Alberto Torres,27,M,Hispanic
+4469,5291,Dustin Spencer,34,M,Other
+4470,5292,Jorge Serrano,25,M,Hispanic
+4471,5296,Bernie Rascon,28,M,Hispanic
+4472,5288,Kyle Horton,37,M,White
+4473,5289,Clyde Jacob Sullivan,27,M,White
+4474,5395,Ricky Lee Gardipee,41,M,White
+4475,5290,Dana Brown,27,M,Other
+4476,5294,Gary Wayne Madewell,38,M,White
+4477,5295,Christopher Gray,29,M,White
+4478,5298,Jason Elliot Waterhouse,47,M,White
+4479,5309,Kentrey Marquis Witherspoon,28,M,Black
+4480,5397,Jayson Arron Colvin,38,M,White
+4481,5306,Emanuel Johnson,21,M,Black
+4482,5307,John Resetar,44,M,White
+4483,5308,Steven DeWayne Haizlip,61,M,Black
+4484,5299,Mohamed Ahemed Al-Hashemi,25,M,Black
+4485,5301,Mark Stoddard,40,M,White
+4486,5303,Marc Denver Thompson,26,M,White
+4487,5304,Michael DeCastro,57,M,White
+4488,5305,Brian Lee Mullen,57,M,White
+4489,5300,Romir Talley,24,M,Black
+4490,5327,Kenneth Collins,46,M,Black
+4491,5317,Richard Ruiz,38,M,Hispanic
+4492,5329,Austin Chase Swindle,24,M,White
+4493,5398,Macario Hernandez,34,M,Hispanic
+4494,5326,Harvey Cantrell,65,M,White
+4495,5331,Elray Barber,60,M,Black
+4496,5328,Lori Jean Canada,59,F,White
+4497,5330,Deangelo Rashad Martin,23,M,Black
+4498,5314,Antonio Smith,35,M,Black
+4499,5325,Juan Rosa,35,M,Hispanic
+4500,5322,Christopher Camacho,16,M,Hispanic
+4501,5323,John Lowell Dollen,37,M,White
+4502,5324,Frederick Jeremy Atkin,42,M,White
+4503,5320,Henry Kistler Berry,43,M,White
+4504,5315,Albert Benjamin Simon,52,M,White
+4505,5316,A.B. Carr,31,M,White
+4506,5319,Heriberto Rodriguez,27,M,Hispanic
+4507,5321,Troy Kirk,31,M,White
+4508,5400,Craig Ellis See,34,M,White
+4509,5311,Patrick Alden,29,M,White
+4510,5313,Kelly Michael Stephens,34,M,White
+4511,5318,Manuel Gonzales Verdugo,37,M,Hispanic
+4512,5312,TK TK,18,M,Black
+4513,5402,Debra D. Arbuckle,51,F,White
+4514,5404,Cody McCaulou,25,M,White
+4515,5332,Eric M. Tellez,28,M,White
+4516,5333,Frederick Perkins,37,M,Black
+4517,5345,Dedrick Thomas,37,M,Black
+4518,5358,Malik Williams,23,M,Black
+4519,5359,Terry Hudson,57,M,Black
+4520,5374,Michael Vincent Davis,49,M,White
+4521,5344,Derrick A. Elseth,24,M,White
+4522,5403,Gerardo Antonio Conchas-Bustas,20,M,Other
+4523,5342,Gabriel Strickland,25,M,White
+4524,5339,Jeffery Dale Millsap,26,M,White
+4525,5349,Jamari Daiwon Tarver,26,M,Black
+4526,5350,Troy Sullenger,41,M,White
+4527,5405,Mariano Ocon,31,M,Hispanic
+4528,5340,Michael Gregory,30,M,Hispanic
+4529,5341,Tyree Davis,25,M,Black
+4530,5334,George Dison,57,M,White
+4531,5335,Kwamae Jones,17,M,Black
+4532,5336,Brandon D. Roberts,27,M,Black
+4533,5338,Drew Nichols Wallas-Flores,30,M,Hispanic
+4534,5352,Miciah Lee,18,M,Black
+4535,5337,Samuel Lanham,50,M,White
+4536,5351,Troy Chase Caster,21,M,White
+4537,5353,Xavier Jaime Rovie,28,M,Hispanic
+4538,5354,Orlando Abeyta,28,M,Hispanic
+4539,5356,Dallas Pearce,33,M,Asian
+4540,5357,Daniel Duane Jensen,59,M,White
+4541,5361,Dustin M. Eaton,34,M,White
+4542,5362,Earl Facey,37,M,Black
+4543,5364,Cody Carnes,30,M,White
+4544,5571,Claude Fain,47,M,Black
+4545,5360,Bernie Wade Johnson,34,M,White
+4546,5365,Juan Ayon-Ruiz,24,M,Hispanic
+4547,5363,Clando Anitok,25,M,Asian
+4548,5366,Eric Reynolds,37,M,White
+4549,5501,Henry Isaac Jones,47,M,Black
+4550,5369,Ryan O. Simms,49,M,Black
+4551,5367,Victor Valencia,31,M,Hispanic
+4552,5368,Brad Stirewalt,47,M,White
+4553,5370,Thomas Charles Snyder,52,M,White
+4554,5371,Keenan McCain,29,M,Black
+4555,5372,Randy Glen Goodale,45,M,White
+4556,5373,Eliezer Perez,51,M,Hispanic
+4557,5378,Renard Antonio Daniels,55,M,Black
+4558,5379,Frank Cogar,35,M,White
+4559,5382,Landwell Vance McCall,50,M,White
+4560,5503,Aaron Phillips,31,M,White
+4561,5375,Albert Lee Hughes,47,M,Black
+4562,5380,Jack Bolinger,35,M,White
+4563,5381,Owen Barton,66,M,White
+4564,5377,Murbarak Soulemane,19,M,Black
+4565,5376,Samuel David Mallard,19,M,Black
+4566,5406,Dustin Alexander Nealis,43,M,White
+4567,5386,Edward Gendron,57,M,White
+4568,5389,Miguel Mercado Segura,31,M,Hispanic
+4569,5391,Jonathan David Messare,41,M,White
+4570,5394,Dustin Furr,39,M,White
+4571,5383,Anthony Langley,24,M,White
+4572,5407,Reginald Leon Boston,20,M,Black
+4573,5408,Rory Behling,32,M,White
+4574,5515,Miguel Mercado Segura,31,M,Hispanic
+4575,5385,Darius J. Tarver,22,M,Black
+4576,5387,Sok Chin Son,60,M,Asian
+4577,5432,Jon Phillip Bryant,40,M,White
+4578,5508,Armando Moreno Garcia,37,M,Hispanic
+4579,5570,Adam Ray Hernandez,34,M,White
+4580,5429,Deandre Lee Seaborough-Patterson,22,M,Black
+4581,5430,James Lewis Mathis,30,M,White
+4582,5431,Gage Scott Southard,26,M,White
+4583,5433,Marquis Golden,29,M,Black
+4584,5506,Andrew Smyrna,32,M,Black
+4585,5507,Michael Rivera,32,M,Black
+4586,5427,Scott Joseph Weber,27,M,White
+4587,5428,Toby Diller,31,M,Hispanic
+4588,5436,Rebecca Angel Alexander,35,F,White
+4589,5425,D'ovion Semaj Perkins,19,M,Black
+4590,5426,Joshua James Brown,34,M,Black
+4591,5424,Kevin Alan Smallman,32,M,White
+4592,5434,William Howard Green,43,M,Black
+4593,5435,Aaron T. Booker,22,M,Black
+4594,5505,John Francis Tippett,43,M,White
+4595,5440,Joshua Greenleaf,27,M,White
+4596,5442,Robert Cocio,39,M,Hispanic
+4597,5569,Jonathan Bentley,37,M,White
+4598,5441,Jaquyn Oneill Light,20,M,Black
+4599,5500,Clint Stevens,34,M,White
+4600,5502,Justin Leman,32,M,White
+4601,5456,Abdirahman Salad,15,M,Black
+4602,5457,Keith Dutree Collins,52,M,Black
+4603,5493,Leonard Parker,53,M,Black
+4604,5497,Vincent Conti,24,M,White
+4605,5566,Ronnell Mouzon,41,M,Black
+4606,5495,Alvin Cole,17,M,Black
+4607,5496,Jason Gora,44,M,White
+4608,5494,Marc Dominic Neal,56,M,Black
+4609,5513,Darius Tarver,23,M,Black
+4610,5516,Shawn Michael Taylor,32,M,White
+4611,5563,Dominique Antwon Anderson,26,M,Black
+4612,5564,Thomas Barbosa,41,M,White
+4613,5523,Daniel Murillo,56,M,White
+4614,5565,Gaston A. Nava-Saucedo,33,M,Hispanic
+4615,5512,Sean Patrick Constance,37,M,White
+4616,5514,Juston Root,41,M,White
+4617,5524,Michael Collins,38,M,White
+4618,5518,Douglas Harold Hart,67,M,White
+4619,5517,Gordon Whitaker,45,M,White
+4620,5520,Zane Blaisdell,48,M,White
+4621,5521,Jeremy Grayson,31,M,Black
+4622,5561,Michael Leatherwood,47,M,White
+4623,5527,Bobby Gibbs,40,M,Black
+4624,5529,Jeremy Todd Baham,40,M,White
+4625,5530,Thomas Ray Chamblee,34,M,White
+4626,5525,Hans Alejandro Huitz,51,M,Native
+4627,5526,Michael Marullo,33,M,White
+4628,5528,Dakota Lee Chlarson,25,M,Native
+4629,5546,Brian Francis Filion,41,M,White
+4630,5549,Aaron Marcos Valdez,19,M,Hispanic
+4631,5535,William Bluestone,21,M,Hispanic
+4632,5537,Timothy Leroy Harrington,58,M,White
+4633,5539,David Kent Heeke,63,M,White
+4634,5547,Christopher Gutierrez,37,M,Hispanic
+4635,5548,Timothy Leroy Harrington,58,M,White
+4636,5536,Daelyn Polu,16,M,Asian
+4637,5532,Thomas Murray,31,M,White
+4638,5533,Kerry Michael Bounsom,33,M,Asian
+4639,5545,Rudy Arenas,40,M,Hispanic
+4640,5575,Brandon Lewis,34,M,White
+4641,5534,Travis Mullins,29,M,White
+4642,5560,Jeremy Dewey,27,M,Native
+4643,5531,Kevin Adolphe,23,M,Black
+4644,5542,Alex Francisco Vazquez,38,M,Hispanic
+4645,5556,Joseph Jewell,17,M,Black
+4646,5557,John Daniel Dixon,75,M,White
+4647,5555,Manuel Arebalo,40,M,Hispanic
+4648,5553,Rodrigo Ivan Aguirre,36,M,Hispanic
+4649,5552,Lucas Alvarado,27,M,White
+4650,5574,Print Zutavern,28,M,White
+4651,5576,Stephen O'Brien,20,M,White
+4652,5573,Kenneth Sashington,38,M,Black
+4653,5592,Dylan Olmeda,16,M,White
+4654,5593,Justin Lee Stackhouse,30,M,Black
+4655,5595,Ramiro Carrasco,30,M,Hispanic
+4656,5596,James Thomson,30,M,White
+4657,5578,Kent Richard Kruger,36,M,White
+4658,5579,Joshua David Hernandez Lord,33,M,White
+4659,5594,Dorgel Cisnero-Mesa,39,M,Hispanic
+4660,5586,Jose L. Rivera,22,M,Hispanic
+4661,5580,Anthony Taylor,49,M,Black
+4662,5585,Richard Rodriguez,45,M,Hispanic
+4663,5587,Stephen Douris,45,M,White
+4664,5577,Joshua Russell,30,M,White
+4665,5581,Raymundo Aaron Ceja,30,M,Hispanic
+4666,5584,Ian Austin Wilson,31,M,White
+4667,5601,Terry Cagle,73,M,White
+4668,5607,Ryan Bass,39,M,White
+4669,5605,Christopher Palmer,37,M,White
+4670,5606,Gene Beasley,37,M,White
+4671,5613,Ajay Kamil Ayseli,31,M,Other
+4672,5656,Elijah Jamaal Brewer,25,M,Black
+4673,5619,Tyler M. Jones,24,M,Black
+4674,5620,Barry Gedeus,27,M,Black
+4675,5621,Jerry Gaghins,37,M,White
+4676,5657,Kenneth Mullins,32,M,White
+4677,5618,Gary Brown,43,M,White
+4678,5609,Lawson Edward Schaber,84,M,White
+4679,5614,Desiree Nicole Garza,29,F,Hispanic
+4680,5615,Brian Marksberry,31,M,White
+4681,5617,Keith P. Haux,57,M,White
+4682,5623,Aaron Tolen,37,M,White
+4683,5622,Jennifer Taylor,29,F,White
+4684,5633,Jesus Bonito Garcia,47,M,Hispanic
+4685,5659,Pablo Elias,44,M,Hispanic
+4686,5660,Joshua Christopher Noles,38,M,White
+4687,5661,Mary Kate Field,32,F,White
+4688,5626,Breonna Taylor,26,F,Black
+4689,5662,Duncan Socrates Lemp,21,M,White
+4690,5663,Donnie Sanders,47,M,Black
+4691,5628,Jorge Martinez,30,M,Hispanic
+4692,5635,Marc Morgan,62,M,White
+4693,5654,Rosario Angel Alvarado,41,M,Hispanic
+4694,5664,Dung Nguyen,50,M,Asian
+4695,5665,Christopher Mullins,37,M,White
+4696,5629,Jeremiah Medina,31,M,Hispanic
+4697,5630,Justin Griggs,30,M,White
+4698,5631,Chase Brooks,32,M,White
+4699,5634,Jesse Cadillo,20,M,White
+4700,5624,Michael Brandon Potter,38,M,White
+4701,5625,Catherine Gomez,25,F,Hispanic
+4702,5640,Douglas J. Foster,47,M,White
+4703,5666,Dakota Yancey,19,M,White
+4704,5636,Darwin Foy,35,M,Black
+4705,5637,Juanito Ovalle,58,M,Hispanic
+4706,5639,Dakota Wayne Yancey,18,M,White
+4707,5709,Charity Thorne,42,F,White
+4708,5711,William Simpkins,39,M,Black
+4709,5651,Harold Spencer,61,M,Black
+4710,5653,Steven Alire,51,M,White
+4711,5652,Lebarron Ballard,28,M,Black
+4712,5643,Kyle Anthony Eichler,33,M,White
+4713,5650,Charles Parker,47,M,White
+4714,5646,Larry Millraney,39,M,White
+4715,5647,Mycael Johnson,31,M,Black
+4716,5648,Kamall Koby Edwards,18,M,Black
+4717,5649,Alvin Lamont Baum,23,M,Black
+4718,5642,Carlos Delgado,46,M,Hispanic
+4719,5683,Charles Edward Marsh,50,M,White
+4720,5684,Michael Wallace,34,M,White
+4721,5685,Kathryn R. Hale,32,F,White
+4722,5686,Christopher Joel Mock,45,M,White
+4723,5687,Maurico Hernandez,31,M,Hispanic
+4724,5688,Matthew Moore,19,M,White
+4725,5689,Glenn A. White,53,M,White
+4726,5717,Deanna Marie Owsianiak,55,F,White
+4727,5719,John Mark Hendrick,32,M,White
+4728,5692,Robert Harman Sword,46,M,White
+4729,5693,Tyrell Fincher,26,M,Black
+4730,5696,Shane Farwell,46,M,White
+4731,5697,Jacob  Emry Mcilveen,22,M,White
+4732,5698,Etonne Tanzymore,38,M,Black
+4733,5699,Jessie Stringfield,44,M,White
+4734,5700,Anthony Eduardo Pacheco,37,M,Hispanic
+4735,5701,Valente Acosta-Bustillos,52,M,Hispanic
+4736,5702,Shane Tilman Kent,29,M,White
+4737,5704,Austin Hines,19,M,White
+4738,5706,Nathan R. Hodge,66,M,Black
+4739,5707,David A. Xanatos,40,M,White
+4740,5710,Jose Moreno,30,M,Hispanic
+4741,5712,Joseph Zahaczewski,69,M,White
+4742,5713,Jose Soto,27,M,Hispanic
+4743,5716,Carl Manning,62,M,White
+4744,5718,Michael Leon Hammett,37,M,White
+4745,5722,Philip Castonguay,39,M,White
+4746,5723,Richard Lee Kampstra,67,M,White
+4747,5724,Kelvin Parks,54,M,White
+4748,5725,Yamil Acevedo,29,M,Hispanic
+4749,5727,Idris Abdus-Salaam,33,M,Black
+4750,5728,Joshua Bacco,31,M,White
+4751,5729,Jacob Matthew Dau,38,M,White
+4752,5730,Derek T. Swanson,28,M,White
+4753,5731,Dewayne Curtis Lafond,45,M,Black
+4754,5732,Rick Howell,59,M,White
+4755,5733,Joshua Dariandre Ruffin,17,M,Black
+4756,5734,Zyon Romeir Wyche,19,M,Black
+4757,5735,Kenneth Jeremy Blair,36,M,White
+4758,5736,Zachary Shane Gifford,39,M,White
+4759,5737,Matt Goff,37,M,White
+4760,5738,Giuseppe Particianone,33,M,White
+4761,5739,Jonathan Lee Adams,31,M,Black
+4762,5740,Leah Baker,29,F,White
+4763,5741,Errol Bolin,51,M,White
+4764,5743,Justin Silvernale,35,M,White
+4765,5746,Javier Vidal,36,M,Hispanic
+4766,5681,Thomas A. Powell,31,M,White
+4767,5678,Leslie Flynn,39,M,White
+4768,5679,Randy Ashland,58,M,White
+4769,5748,Goldie Bellinger,39,M,Black
+4770,5670,Juan Ayon-Barraza,24,M,Hispanic
+4771,5674,Salvatore Friscia,48,M,White
+4772,5749,Jasman Washington,31,M,Black
+4773,5675,Derick L. Powe,37,M,Black
+4774,5750,Marcus Eugene Epps,43,M,White
+4775,5671,Steven Taylor,33,M,Black
+4776,5673,Austin Dean Heights,24,M,White
+4777,5669,Mason Workman,40,M,White
+4778,5761,Virgill Thrope,28,M,Black
+4779,5756,Chase Rosa,24,M,Black
+4780,5762,Nicholas Chavez,27,M,Hispanic
+4781,5759,Elmer L. Mack,40,M,Black
+4782,5917,Joshua Johnson,35,M,Black
+4783,5758,Luan Agolli,42,M,White
+4784,5751,Michael Ramos,42,M,Hispanic
+4785,5753,Brandan Reid Nylander,24,M,White
+4786,5767,Reed Rickabaugh,59,M,White
+4787,5768,Farron Morris Hammond,61,M,White
+4788,5766,De Quang Tran,26,M,Asian
+4789,5788,Robert Musser,32,M,White
+4790,5786,William E. Abbe,50,M,White
+4791,5784,Jesus Caballero,38,M,Hispanic
+4792,5785,Artemio Mondragon Alfaro,29,M,White
+4793,5787,Malcolm Xavier Ray Williams,27,M,Black
+4794,5783,Timothy Alan Gilbert,43,M,White
+4795,5776,William Debose,21,M,Black
+4796,5777,Nicholas Bils,36,M,White
+4797,5778,Shaun Lee Fuhr,24,M,Black
+4798,5780,Brent Martin,32,M,Black
+4799,5781,Said Joquin,26,M,Black
+4800,5769,Michael Ferguson,54,M,White
+4801,5770,Kortney Shawn Price,44,M,White
+4802,5771,Michael Faries,69,M,White
+4803,5772,Filipe Periera,45,M,White
+4804,5773,Armando Salvatierra,26,M,Hispanic
+4805,5774,Chad Adams,43,M,White
+4806,5871,Phillip Michael Carney,38,M,White
+4807,5814,Demontre Bruner,21,M,Black
+4808,5807,Qavon Webb,23,M,Black
+4809,5808,Sandra Lee Harmon,56,F,White
+4810,5809,William Shimp,33,M,White
+4811,5810,Justin Charland,40,M,White
+4812,5812,Jah'Sean Iandie Hodge,21,M,Black
+4813,5811,Alfredo Delarosa,20,M,Hispanic
+4814,5790,Dreasjon Reed,21,M,Black
+4815,5804,James Joseph James,47,M,White
+4816,5805,Vincent Ralph Pena,38,M,Hispanic
+4817,5800,Ruben Escarrega,31,M,Hispanic
+4818,5803,James Pease,51,M,White
+4819,5872,McHale Rose,19,M,Black
+4820,5887,Daniel Gomez,21,M,Hispanic
+4821,5789,Adrian Medearis,48,M,Black
+4822,5791,Edgar Melgar,42,M,Hispanic
+4823,5792,Finan H. Berhe,30,M,Black
+4824,5794,Yassin Mohamed,47,M,Black
+4825,5796,Darrin Jon Patterson,57,M,White
+4826,5797,Jonathan Carter,27,M,White
+4827,5795,David Urrea,50,M,White
+4828,5818,Gregory Howe,37,M,White
+4829,5835,David Tylek Atkinson,24,M,Black
+4830,5889,David Tylek Atkinson,24,M,Black
+4831,5827,Rayshard Scales,30,M,Black
+4832,5831,Robert Tincher,49,M,White
+4833,5890,Donny Leek,47,M,White
+4834,5832,Robert Avila,31,M,White
+4835,5833,Hunter Carlstrom,33,M,White
+4836,5823,Robert Johnson,29,M,Black
+4837,5826,Wallace Dean Staples,42,M,White
+4838,5828,Randy Roszell Lewis,38,M,Black
+4839,5822,Juan M. Montalvo,25,M,Hispanic
+4840,5895,Bernard Ledlow,39,M,White
+4841,5817,Robert Wayne Lawson,64,M,White
+4842,5821,Jacob Bubb,28,M,White
+4843,5819,Levi Morse,32,M,White
+4844,5820,Wilbon Cleveland Woodard,69,M,White
+4845,5824,Tyler Hays,29,M,White
+4846,5894,Tobby Wiggins,45,M,Black
+4847,5870,Ryan Whitaker,40,M,White
+4848,5892,Willie Lee Quarles,60,M,Black
+4849,5840,Bernardo Palacios-Carbajal,22,M,Hispanic
+4850,5873,Maurice S. Gordon,28,M,Black
+4851,5839,Joe Louis Castillanos,38,M,Hispanic
+4852,5841,Dion Johnson,28,M,Black
+4853,5857,Jason Jesse Gallegos,37,M,White
+4854,5864,John Alvarado,22,M,Hispanic
+4855,5875,Tracy Drowne,42,F,White
+4856,5882,Robert Avitia,18,M,Hispanic
+4857,5843,Tony McDade,38,M,Black
+4858,5847,Joshua Blessed,58,M,White
+4859,5856,Rommel Mendoza,50,M,Hispanic
+4860,5858,Hector Hernandez,31,M,Hispanic
+4861,5846,Modesto Reyes,35,M,Black
+4862,5853,John Benedict Coleman,53,M,White
+4863,5855,Steven Edward Ferguson,31,M,White
+4864,5906,Ruben Smith,35,M,Black
+4865,5844,Heba Momtaz Al-Azhari,22,F,Other
+4866,5845,TK TK,37,M,White
+4867,5848,TK TK,32,M,Asian
+4868,5850,Momodou Lamin Sisay,39,M,Black
+4869,5879,Jarvis Sullivan,44,M,Black
+4870,5863,Derrick Thompson,46,M,Black
+4871,5852,Israel Berry,49,M,White
+4872,5878,Thomas Sutherlin,32,M,White
+4873,5842,David McAtee,53,M,Black
+4874,5866,Jorge Gomez,25,M,Hispanic
+4875,5867,Ryan Emblem Moore,36,M,White
+4876,5896,Sean Monterrosa,22,M,Hispanic
+4877,5897,Tyquarn Graves,33,M,Black
+4878,5898,Mary Lawrence,39,F,White
+4879,5902,Gregory W. Hallback,44,M,White
+4880,5904,Eric A. Galvan,25,M,Hispanic
+4881,5905,Scott Anderson Hutton,36,M,White
+4882,5903,Benjamin Ballard,42,M,White
+4883,5899,Kamal Flowers,24,M,Black
+4884,5900,Erik Salgado,22,M,Hispanic
+4885,5908,Jarrid Hurst,35,M,White
+4886,5911,Lewis Ruffin,38,M,Black
+4887,5913,Gregorio Cruz Vanloo,28,M,White
+4888,5914,Mason James Lira,26,M,White
+4889,5915,Michael Thomas,62,M,Black
+4890,5916,Rayshard Brooks,27,M,Black
+4891,5925,Caine Van Pelt,23,M,Black
+4892,5918,Hannah Fizer,25,F,White
+4893,5921,William Slyter,22,M,White
+4894,5924,Nicholas Hirsh,31,M,White

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Shooting Events - Map</title>
+  <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='webapp.css') }}" />
+  <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='chartist.min.css') }}" />
+  <script type="text/javascript" src="{{url_for('static', filename='graph.js') }}" ></script>
+  <script type="text/javascript" src="{{url_for('static', filename='chartist.min.js') }}" ></script>
+  <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}" />
+
+</head>
+<body>
+<html>
+
+    <body>
+      <a href="/" style="font-size:10px;">Back to Home Page >></a>
+        <h1 class = "title">US Police Shootings Events</h1>
+
+        <div class = 'text-container'><h3>Introduction</h3><p class = 'container'>Hi! Here you can navigate the database by selecting a state or the whole US and see some charts of the data's composition.
+          <br>A few notes:
+          <br>- Again, the data size is small and some of the states only have 10+ cases.
+          <br>- Again, It may takes a few while to load data. Please allow some time for the app to process everything.
+          <br>- The concerned area is changed by reselecting instead of clicking some buttons. Therefore, don't change too frequent for the reason above!
+          <br><br>Ruofei</p></div>
+        <!--  -->
+	<!-- navigation bar*/ -->
+        <div>
+        <ul class = 'horizontal-navbar'>
+            <li><a href = '/search'>Search</a></li>
+            <li><a class="selected">Graphs</a></li>
+        </ul>
+      </div>
+
+  <!--Select State-->
+	<p>Select Area in the US: <select id = stateSelect></select></p>
+
+  <!--Summaries-->
+  <table id = stateCumulative></table>
+
+  <!-- Charts-->
+  <div class="chart-container">
+      <h3 class = "chart-title">Graph1: Racial Makeup of Cases</h3>
+      <div class="ct-chart ct-perfect-fourth" id = 'pieRace'></div>
+  </div>
+
+  <div class="chart-container">
+      <h3 class = "chart-title">Graph2: Gender Makeup of Cases</h3>
+      <div class="ct-chart ct-perfect-fourth" id = 'pieGender'></div>
+  </div>
+</body>
+</html>
+<!-- partial -->
+
+</body>
+</html>

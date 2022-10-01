@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Case Searching Page by Ruofei Li and Yiwen Luo</title>
+  <link rel="stylesheet" type = 'txt/css' href="{{url('static', filename = 'style.css')}}">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!DOCTYPE html>
+<html>
+
+    <body>
+        <h1 class = "title">US Police Shootings Monitor</h1>
+        <h3 class = 'text-container'>Introduction</h3>
+      
+        <!--  -->
+        <!-- navigation bar*/ -->
+	<label> Choose Mode: </label>
+        <ul class = 'horizontal-navbar'>
+	    <li><a>Search</a></li>
+            <li><a href = 'page_map.html'>Map</a></li>
+        </ul>
+        
+        <!--  -->
+        <!-- dropdown menus -->
+
+        <label>Signs of Mental Illness: </label>
+
+        <select class = 'dropdown'>
+              <option value="True">Yes</option>
+              <option value="False">No</option>
+        </select>
+        
+        <!-- ==================================== -->
+        
+        <label>Armed: </label>
+
+        <select class = 'dropdown'>
+              <option value="True">Yes</option>
+              <option value="False">No</option>
+        </select>
+        
+        <!-- ==================================== -->
+        
+        <label>Flee: </label>
+
+        <select class = 'dropdown'>
+              <option value="True">Yes</option>
+              <option value="False">No</option>
+        </select>
+        
+        <!-- ==================================== -->
+        
+        <label>Threat Level: </label>
+
+        <select class = 'dropdown'>
+              <option value="True">Yes</option>
+              <option value="False">No</option>
+        </select>
+        
+        <!-- ==================================== -->
+        
+        <label>Arms Category: </label>
+
+        <select class = 'dropdown'>
+              <option value="True">Yes</option>
+              <option value="False">No</option>
+        </select>
+        
+        <!-- ==================================== -->
+        
+        <label>Manner of Death: </label>
+
+        <select class = 'dropdown'>
+              <option value="True">Yes</option>
+              <option value="False">No</option>
+        </select>
+        
+        <!--  -->
+        <!-- data*/ -->
+        
+        <h3 class="subtitle">Summary Cases</h3>
+        <table>
+        <tr><th>Area</th><th>Cases</th><th>Cases 2020</th></tr>
+        <tr><td>USA</td><td>333</td><td>33</td></tr>
+        </table>
+
+        
+        <h3 class="subtitle">Cases</h3>
+        <table>
+        <tr><th>State</th><th>City</th><th>Date</th><th>...</th></tr>
+        <tr><td>MN</td><td>St. Paul</td><td>YYYY-MM-DD</td><td>...</td></tr>
+        <tr><td>...</td><td>...</td><td>...</td><td>...</td></tr>
+        </table>
+        
+        <div>
+            <h3 class = "subtitle">Graph: Racial Makeup of Cases</h3>
+            <img class = 'pie' src = '{{url('static', filename = 'pie-chart.png')}}'></img>
+        </div>
+         
+        <div>
+            <h3 class = "subtitle">Graph: Cases by Years</h3>
+            <img class = 'line' src = '{{url('static', filename = '1-Line-Chart.png')}}'></img>
+        </div>
+
+    </body>
+</html>
+<!-- partial -->
+  
+</body>
+</html>

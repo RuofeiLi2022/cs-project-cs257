@@ -1,0 +1,83 @@
+Names: Ruofei Li, Yiwen Luo
+
+Description: 
+
+This dataset contains information of incident detail, location, and victim information of every fatal shooting by an on-duty office in the United States since 2015. 
+These information include fatality information, where did the shooting take place? Were the victims armed? Were the officers wearing body cams? and basic information
+ of the victims such as race, age, gender, etc. 
+
+URL: https://drive.google.com/drive/folders/1XDtondB1WsrPqEgwZ4yM_ggfawAv9dGu
+
+Database Design:
+
+CREATE TABLE incidents (
+	id SERIAL,
+	date DATE,
+	signs_of_mental_illness TEXT,
+	threat_level TEXT,
+	flee TEXT,
+	body_camera TEXT,
+	manner_of_death TEXT
+	armed TEXT,
+	arms_category TEXT
+);
+
+CREATE TABLE victims(
+	id SERIAL,
+	first_name TEXT,
+	last_name TEXT,
+	age INT,
+	gender TEXT,
+	race TEXT
+);
+
+CREATE TABLE locations(
+	id SERIAL,
+	city TEXT,
+	state TEXT,
+);
+
+CREATE TABLE states(
+	state TEXT,
+	state_name TEXT,
+);
+
+
+User Stories:
+
+STORY: As an activist against racism/researcher, I can get the demographic information of victims of nationwide police shooting data or data of a specific state. 
+I can compare the proportion of victims by race and gender to determine if there are racial disparities among victims and hence evaluate how racism might be 
+behaving in the local police department. 
+
+IMPLEMENTATION: We can get a map of the country and the user could hover over to get quick summary data (e.g. total # of shooting events in the database, ratio 
+of black/hispanic victims...). We may colorcode the states depending on the number of shootings. The user can click the state to get into a page with listed 
+detailed information.
+There we will have a drop-down list to let the user select between show/filter. It will have a default of “Not Specified”. If the user selects one of “show”
+ and “filter”, a new drop-down appears to let the user choose what to show/filter, where choices are the column names, also “Not Specified” by default. Again, 
+if this is specified, another drop-down appears with classifications of the column. The user can also choose to add additional lists at the second/third stages, 
+to enable multiple choices. 
+
+========================================================================
+
+STORY: As a police officer, I can get a list of the detailed situations of past police shooting events (e.g. whether the suspects were armed / fleeing) similar 
+to my specified case, to help me better decide what actions to take during law enforcement in the future.
+
+IMPLEMENTATION: We’ll have a drop-down list of choices for each of the following six categories from table “incidents” : signs of mental illnesses, threat level,
+ flee, manner of death, armed, arms category. We’ll search in our data for matching cases, and print out a list of each single event with some simple statistics.
+
+========================================================================
+
+STORY: As a US resident who is considering moving to a new state, I want to find out the police of which states are more friendly to people and at least not 
+shooting people for unsubstantiated reasons.
+
+IMPLEMENTATION: We can get a map of the country and the user could hover over to get quick summary data (e.g. total # of shooting events in the database, ratio of
+ black/hispanic victims, ratio of armed status undetermined...). We may colorcode the states depending on the number of shootings or number of shootings per capita.
+
+========================================================================
+
+STORY: As someone interested in finding out whether the number of police shootings has increased over the years, or if the demographics of participants in the 
+police shootings has evolved over the years, I can get a graph representing the number of shootings by time. 
+
+IMPLEMENTATION: We can create a dropdown menu that allows the user to select a type of data they want to know (e.g. total number of shootings, total number of 
+fatal shootings, proportion of POC in the shootings) and then display the data by a timeframe of their choice (e.g. day, month of year, year). The user can also 
+use a dropdown menu to select a state they are interested in and view data of the selected state. 

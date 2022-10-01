@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="UTF-8">
+    <title>Shooting Events - Search</title>
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='webapp.css') }}" />
+    <script type="text/javascript" src="{{url_for('static', filename='search.js') }}" ></script>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}" />
+
+</head>
+<body>
+<!DOCTYPE html>
+<html>
+
+    <body>
+      <a href="/" style="font-size:10px;">Back to Home Page >></a>
+        <h1 class = "title">US Police Shootings Events</h1>
+        <div class = 'text-container'><h3>Introduction</h3>
+          <p class = 'container'>Hi! Here you can explore our database by setting filters and searching ids. A few notes:
+            <br>- SMI: Abbrev. for Signs of Mental Illness.
+            <br>- Age Filter: Upper-bound-inclusive. For example, 40-60 means age is larger than 40 and smaller than or equal to 60.
+            <br>- I've marked most of the interactable objects with the color 'royalblue'. See the left!
+            <br>- It may takes a few while to load data. Your patience will be greatly appreciated!
+            <br>- The data size is rather small so you may not want to use too many filters.
+            <br><br>Ruofei</p></div>
+        <!--  -->
+        <!-- navigation bar*/ -->
+	  <div><ul class = 'horizontal-navbar'> <li><a class="selected">Search</a></li><li><a href = '/graph'>Graphs</a></li></ul></div>
+
+        <!--  -->
+        <!-- filter area -->
+      <P>Filtered By:</P>
+      <p class="mark">Event:</p>
+      <div>
+      <div class="dropdownalign">
+        Signs of Mental Illness:
+
+        <select id = 0></select>
+      </div>
+        <!-- ==================================== -->
+      <div class="dropdownalign">
+        Threat Level:
+
+        <select id = 1></select>
+      </div>
+        <!-- ==================================== -->
+      <div class="dropdownalign">
+        Flee:
+
+        <select id = 2></select>
+      </div></div>
+        <!-- ==================================== -->
+      <div>
+      <div class="dropdownalign">
+        Body Camera:
+
+        <select id = 3></select>
+      </div>
+        <!-- ==================================== -->
+      <div class="dropdownalign">
+        Manner of Death:
+
+        <select id = 4></select>
+      </div>
+        <!-- ==================================== -->
+      <div class="dropdownalign">
+        Arms Category:
+
+        <select id = 5></select>
+      </div>
+      </div>
+        <!-- ==================================== -->
+      <p class="mark">Victims:</p>
+      <div>
+      <div class="dropdownalign">
+        Gender:
+
+        <select id = 6></select>
+      </div>
+        <!-- ==================================== -->
+      <div class="dropdownalign">
+        Race:
+
+        <select id = 7></select>
+        <!-- ==================================== -->
+      </div>
+      <div class="dropdownalign">
+        Age:
+        <select id = 8><option value="none">NO OPTIONS</option>
+                      <option value="<=20"><=20</option>
+                      <option value="20-40">20-40</option>
+                      <option value="40-60">40-60</option>
+                      <option value=">60">>60</option></select>
+      </div>
+      </div>
+        <!-- ==================================== -->
+      <p class="mark">Sort by (Alphabetical for non-digit columns):</p>
+      <p>
+        <select id = 9><option value="none">Default(ID)</option>
+                      <option value="date">Date</option>
+                      <option value="age">Age</option>
+                      <option value="flee">Flee</option>
+                      <option value="arm_category">Arms Category</option>
+                      <option value="race">Race</option></select>
+      </p>
+        <!--  -->
+
+      <p><button id="submit">Submit</button></p>
+
+        <!-- Individual Case Search -->
+
+        <h3 class = "subtitle">Search a Case by Id</h3>
+        <p>The number will be an integer between 0-4894 (inclusive).
+          <br><br><input id="caseId" type="number" />
+          <button id="searchById">Search</button>
+        </p>
+        <table id ='oneCaseTable'>
+          <tr><th>id</th><th>Date</th><th>...</th><th>...</th><th>...</th><th>...</th><th>...</th><th>...</th></tr>
+          <tr><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td></tr>
+        </table>
+        <!-- -->
+
+        <!-- Summaries -->
+        <h3 class = "subtitle">Summary Cases</h3>
+        <table id ='summaryTable'></table>
+        <!--<tr><th>Area</th><th>Cases</th><th>Cases 2020</th></tr>
+        <tr><td>USA</td><td>333</td><td>33</td></tr>
+        </table>-->
+        <!-- 20 Cases -->
+        <h3 class="subtitle">Cases - first 20</h3>
+        <div class="buttonalign">
+           <button id="incident">Incidents Status</button>
+           <button id="victim">Victims Personal Information</button>
+           <button id="spot">Event Spots</button>
+        </div>
+        <table id = '20CasesTable'></table>
+
+        <div class="buttonalign"><button id="fullResponse">View Full Response >></button></div>
+
+    </body>
+</html>
+
+</body>
+</html>

@@ -1,0 +1,180 @@
+/*
+webapp.css
+Ruofei Li and Yiwen Luo
+10 November 2020
+*/
+/* navigation bar
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+ul.horizontal-navbar {
+    list-style-type: none;
+    margin: 0px;
+    padding: 13px;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    width: 500px;
+    font: bold 20px Arial;
+}
+
+ul.horizontal-navbar li {
+    float: left;
+}
+
+ul.horizontal-navbar li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.horizontal-navbar li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+/* title */
+.title{
+	margin-bottom: 50px;
+	border-bottom: 3px solid #000;
+	font: bold 30px Arial, Helvetica, sans-serif;
+	padding-bottom:5px;
+	width: 80%;
+}
+.subtitle{
+	margin-bottom: 30px;
+	border-bottom: 2px solid royalblue;
+	padding-bottom: 3px;
+	width: 40%;
+}
+.mark{
+  border-bottom: 1px solid royalblue;
+}
+
+/* dropdown lists
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+select{
+  display: inline-block;
+  border: 1px solid royalblue;
+  width: 180px;
+  height: 26px;
+  padding: 5px 15px;
+  font-size: 10px;
+  text-align: center;
+  color: royalblue;
+}
+
+/* buttons
+-------------------------------------------------- */
+button{
+  font-size: 14px;
+  color: royalblue;
+  border: 2px solid royalblue;
+  padding: 5px 15px;
+}
+
+/* input box
+-------------------------------------------------- */
+input{
+  font-size: 14px;
+  color: royalblue;
+  border: 1px solid royalblue;
+  width: 100px;
+  height: 26px;
+}
+/* containers
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.chart-container {
+    display: inline-block;
+    border: 2px dashed gray;
+    width: 40%;
+    margin: 20px;
+    padding-bottom: 50px;
+}
+.chart-title {
+    text-align: left;
+    width: 65%;
+    font-size: 15pt;
+    border-bottom: 1px solid black;
+}
+.container {
+  text-align: top;
+  font-style: oblique;
+  background: rgba(215, 215, 215, 0.2) ;
+  position: relative;
+  width: 80%;
+  max-width: 960px;
+  margin: 0rem 2rem 2rem 2rem;
+  padding: 30px 30px 30px 30px ;
+  border-style: none;
+  display: flex;
+  flex-direction: column;
+  font-size: 15px;
+  line-height: 20px;
+}
+
+.text-container{
+  padding: 0.5rem 0.5rem;
+  height: 17rem;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  margin-top: 1.5rem;
+  display: block;
+  position: relative;
+   box-shadow: rgb(200, 200, 200) 0px 1px 1px;
+         /*  rgb(0, 0, 0) 0px 1px 2px;*/
+  text-align: left;
+  border-left: 4px solid royalblue;
+}
+
+ table,td,th{
+	border: 1px solid black;
+  padding: 10px;
+  margin-left: 1.5rem;
+}
+
+/* Typography
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1;
+  margin-bottom: 1;
+  font-weight: 300; }
+
+p {
+  margin-top: 1.5rem;
+  margin-left: 1.5rem;}
+
+body {
+  background-color: rgb(242, 242, 242);
+  display: block;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  line-height: 1;
+  font-weight: 400;
+  font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: rgb(50, 50, 50);
+}
+
+.important {
+  color: red;
+  font-size: 110%;
+}
+.dropdownalign{
+  display: inline-block;
+  text-align: right;
+  width: 400px;
+  height:  50px;
+}
+.buttonalign{
+  margin-left: 1.5rem;
+}
+.selected{
+  background-color: #555;
+  color: white;
+}
+.introduction{
+  display: block;
+  padding: 10px 10px;
+  font-size: 14px;
+  line-height: 40px;
+}

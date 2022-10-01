@@ -1,0 +1,62 @@
+Yiwen Luo & Ruofei Li
+11/02/2020
+
+#=======================================================================
+
+REQUEST: /total/cases?[{situation = [mental_illness | threat_level | flee | death | arms]}]
+
+RESPONSE: Returns a JSON list of dictionaries of all shooting cases that meet the criteria. Each dictionary representing one shooting case, sorted by date it happened and alphabetic order of the US state the case took place. Each dictionary will have the following keys:
+
+	date -- (date) YYYY-MM-DD, the date when the shooting occurred
+	name -- (string) name of the participant shot
+	age -- (integer) age of the participant shot
+	race -- (string) race of the participant shot
+	city -- (string) the city name where the shooting occurred
+	state -- (string) the upper-case two-letter code of the state where the shooting occurred
+	signs_of_mental_illness -- (boolean) whether the participant demonstrated signs of mental illness
+	threat_level -- (string) the threat level of the participant, typically ‘attack’ or ‘other’
+	flee -- (string) whether or not the participant was fleeing, and if so by what method
+	manner_of_death -- (string) the manner of how the participant was killed
+	arms -- (string) whether the participant was armed and if so the category of the armory
+
+#=======================================================================
+
+REQUEST: /total/cumulative/cases?[{situation = [mental_illness | threat_level | flee | death |arms}]
+
+RESPONSE: Returns a JSON dictionary of the count of cases that meet the criteria. Each dictionary will have the following keys:
+
+total_cases -- (integer) total number of cases in the dataset (i.e. from Jan. 1, 2015 to Jun. 15, 2020).
+	total_cases_2020 -- (integer)  total number of cases in 2020
+	total_unarmed_cases -- (integer) total number of cases where participants were unarmed
+	total_unfleed_cases -- (integer) total number of cases where participants were not fleeing (‘other’ excluded)
+	total_non_attack_cases -- (integer) total number of cases where participants’ threat levels are not attack
+
+#=======================================================================
+
+
+
+REQUEST: /states/{state_abbreviation}/cases?[{situation = [mental_illness | threat_level | flee | death |arms}]
+
+RESPONSE: Returns a JSON list of dictionaries of all shooting cases in the selected state that meet the criteria. Each dictionary representing one shooting case, sorted by date it happened and alphabetic order of the US state the case took place. Each dictionary will have the same keys as the end point /total/cases?[{situation = [mental_illness | threat_level | flee | death |arms}]
+
+#=======================================================================
+
+REQUEST: /states/{state_abbreviation}/cumulative/cases?[{situation = [mental_illness | threat_level | flee | death |arms}]
+
+RESPONSE: Returns a JSON dictionary of the count of cases that meet the criteria. Each dictionary will have the same keys as the end point /total/cumulative/cases?[{situation = [mental_illness | threat_level | flee | death |arms}]
+
+#=======================================================================
+
+REQUEST: /total/year/cumulative/{start}/{end}
+
+RESPONSE: Returns a dictionary of the count of cases in each year nationwide within the range of the start year and end year. The dictionary will contain the following keys:
+
+total_cases -- (integer) total number of cases in the dataset (i.e. from Jan. 1, 2015 to Jun. 15, 2020).
+	total_unarmed_cases -- (integer) total number of cases where participants were unarmed
+	total_unfleed_cases -- (integer) total number of cases where participants were not fleeing (‘other’ excluded)
+	total_non_attack_cases -- (integer) total number of cases where participants’ threat levels are not attack
+#=======================================================================
+
+REQUEST: /states/{state}/year/cumulative/{start}/{end}
+
+RESPONSE: Returns a dictionary of the count of cases in each year in the selected state within the range of the start year and end year. The dictionary will contain the same keys as the endpoint /total/year/cumulative/{start}/{end}
